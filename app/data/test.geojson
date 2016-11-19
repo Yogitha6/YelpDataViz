@@ -1,0 +1,214 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1410799,33.4952465 ]
+    },
+    "properties": {
+    "business_id":"__CQhr0M-OpKdu0DXgGcaQ",
+    "name":" Sylvia's La Canasta",
+    "city":" Phoenix ",
+    "attributes.Price Range":1,
+    "review_count":7,
+    "stars":2.5,
+    "cuisine":" Mexican"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3086255,36.11391655 ]
+    },
+    "properties": {
+    "business_id":"__kNfrrGoUXoF-BYciMU_Q",
+    "name":" Bite Breakfast & Lunch",
+    "city":" Las Vegas ",
+    "attributes.Price Range":2,
+    "review_count":428,
+    "stars":4.5,
+    "cuisine":" Breakfast & Brunch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567298,45.5057561 ]
+    },
+    "properties": {
+    "business_id":"__Y2jjdCFHvq3rzSbpDBlw",
+    "name":" Café Crèpe",
+    "city":" montreal ",
+    "attributes.Price Range":2,
+    "review_count":20,
+    "stars":4,
+    "cuisine":" Cafes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5635655,45.5152647 ]
+    },
+    "properties": {
+    "business_id":"_078AkowGpJ00o2FZtnUoA",
+    "name":" Sushi St-Denis",
+    "city":" montreal ",
+    "attributes.Price Range":2,
+    "review_count":41,
+    "stars":3,
+    "cuisine":" Sushi Bars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5959918,45.5243878 ]
+    },
+    "properties": {
+    "business_id":"_0CpbHd0QcxblPByFYkaOw",
+    "name":" Burger de Ville",
+    "city":" montreal ",
+    "attributes.Price Range":2,
+    "review_count":41,
+    "stars":4,
+    "cuisine":" Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.93515368,35.33737913 ]
+    },
+    "properties": {
+    "business_id":"_0LwsuDU1lG2lwFBrCgzCA",
+    "name":" Red Bowl Asian Bistro",
+    "city":" Charlotte ",
+    "attributes.Price Range":2,
+    "review_count":50,
+    "stars":3.5,
+    "cuisine":" Thai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0170515,40.4520512 ]
+    },
+    "properties": {
+    "business_id":"_0UC6YiwhkgLOJWxMmMQQQ",
+    "name":" Giorgio's Place",
+    "city":" Pittsburgh ",
+    "attributes.Price Range":1,
+    "review_count":25,
+    "stars":3.5,
+    "cuisine":" Pizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.188267,55.953252 ]
+    },
+    "properties": {
+    "business_id":"_0xMKAK1_ODB_k1CKiI__Q",
+    "name":" Yum Yum",
+    "city":" Edinburgh ",
+    "attributes.Price Range":1,
+    "review_count":3,
+    "stars":3.5,
+    "cuisine":" Fast Food"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.03373347,40.441158 ]
+    },
+    "properties": {
+    "business_id":"_-1EgXrkOlKajCsmasuEgg",
+    "name":" Village Tavern and Trattoria",
+    "city":" Pittsburgh ",
+    "attributes.Price Range":2,
+    "review_count":28,
+    "stars":3.5,
+    "cuisine":" Italian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.261029,33.551799 ]
+    },
+    "properties": {
+    "business_id":"_1GI_asXVGhOJMNF51SdlQ",
+    "name":" Taco Bell",
+    "city":" Glendale ",
+    "attributes.Price Range":1,
+    "review_count":6,
+    "stars":2.5,
+    "cuisine":" Fast Food"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3427564,33.44949699 ]
+    },
+    "properties": {
+    "business_id":"_1kpFsEZH1VxPcTtEMtd1Q",
+    "name":" Pizza Hut",
+    "city":" Avondale ",
+    "attributes.Price Range":1,
+    "review_count":6,
+    "stars":1.5,
+    "cuisine":" Pizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6072027,45.5314502 ]
+    },
+    "properties": {
+    "business_id":"_1qRvGFwQdVmJkuSaO0MjA",
+    "name":" Tora Sushi",
+    "city":" montreal ",
+    "attributes.Price Range":2,
+    "review_count":7,
+    "stars":3.5,
+    "cuisine":" Sushi Bars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.862674,33.32013 ]
+    },
+    "properties": {
+    "business_id":"_20WCD89imWx15jlxv7kGg",
+    "name":" Seksun Sushi",
+    "city":" Chandler ",
+    "attributes.Price Range":2,
+    "review_count":134,
+    "stars":3.5,
+    "cuisine":" Sushi Bars"
+    }
+  }
+
+]
+}
