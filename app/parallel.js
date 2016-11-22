@@ -5,7 +5,7 @@ window.requestAnimFrame = window.requestAnimationFrame       ||
                           window.oRequestAnimationFrame      ||
                           window.msRequestAnimationFrame     ||
                           function( callback ){
-                            window.setTimeout(callback, 1000 / 60);
+                            window.setTimeout(callback, 1000 / 100);
                           };
 
 var m = [60, 10, 10, 0],
@@ -22,7 +22,6 @@ var line = d3.svg.line(),
     brush_count = 0;
 
 var colors = {
-	//'Fast Food', 'Hot Dogs', 'Burgers', 'Pizza', 'Barbeque', '', 'New Mexican Cuisine', '', 'Cantonese'
   "Japanese": [28,100,52],
   "Sushi Bars": [214,55,79],
   "Dim Sum": [185,56,73],
@@ -111,7 +110,7 @@ d3.csv("data/PC1.csv", function(data) {
   // Convert quantitative scales to floats
   data = data.map(function(d) {
     for (var k in d) {
-      if (k != "name" && k != "cuisine" && k != "business_id")
+      if (k != "Name" && k != "Cuisine" && k != "Business_id")
         d[k] = parseFloat(d[k]) || 0;
     };
     return d;
@@ -119,7 +118,7 @@ d3.csv("data/PC1.csv", function(data) {
 
   // Extract the list of dimensions and create a scale for each.
   xscale.domain(dimensions = d3.keys(data[0]).filter(function(d) {
-    return d != "name" && d != "cuisine" && d != "business_id" &&(yscale[d] = d3.scale.linear()
+    return d != "Name" && d != "Cuisine" && d != "Business_id" &&(yscale[d] = d3.scale.linear()
         .domain(d3.extent(data, function(p) { return +p[d]; }))
         .range([h, 0]));
   }));
@@ -186,7 +185,7 @@ d3.csv("data/PC1.csv", function(data) {
     // data table
     var foodText = "";
     data.slice(0,10).forEach(function(d) {
-      foodText += "<span style='background:" + color(d.cuisine,0.85) + "'></span>" + d.name + "<br/>";
+      foodText += "<span style='background:" + color(d.Cuisine,0.85) + "'></span>" + d.Name + "<br/>";
     });
     d3.select("#food-list").html(foodText);
 
@@ -194,7 +193,7 @@ d3.csv("data/PC1.csv", function(data) {
     function render() {
       var max = d3.min([i+12, n]);
       data.slice(i,max).forEach(function(d) {
-        path(d, foreground, color(d.cuisine,opacity));
+        path(d, foreground, color(d.Cuisine,opacity));
       });
       i = max;
       d3.select("#rendered-count").text(i);

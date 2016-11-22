@@ -22,5 +22,23 @@ def getCuisine(categories):
 
 with open('Business.csv', encoding="utf8") as csvfile:
     reader = csv.DictReader(csvfile)
+    businessId = ' '
+    name = ' '
+    city = ' '
+    price = ' '
+    reviewCount = ' '
+    stars = ' '
+    latitude = ' '
+    longitude = ' '
+    categories = ' '
     for row in reader:
-        uprint("{0}, {1}, {2} , {3}, {4}, {5}, {6}, {7}, {8}".format(row['business_id'],row['name'],row['city'], row['attributes.Price Range'], row['review_count'], row['stars'], row['latitude'], row['longitude'],getCuisine(row['categories'])))
+        businessId = row['business_id']
+        name = row['name']
+        city = row['city']
+        price = row['attributes.Price Range']
+        reviewCount = row['review_count']
+        stars = row['stars']
+        latitude = row['latitude']
+        longitude = row['longitude']
+        categories = getCuisine(row['categories'])
+        uprint("{0},{1},{2},{3},{4},{5},{6},{7},{8}".format(businessId, name, city, price, reviewCount, stars, latitude, longitude, categories))

@@ -2622,7 +2622,7 @@ FALSE,FALSE,2Atg5qydyE7pt9QFF6M8Vw,"['Bars', 'Restaurants', 'Nightlife', 'Tex-Me
 Mesa, AZ 85215",Mesa,2,33.4523048,-111.6871763,[]
 FALSE,FALSE,2Auo_LbKcVf64CbG0VBYdw,"['Italian', 'Cafes', 'Restaurants']",L'Italien Cafe Bistro,1,3,QC,"59b Boulevard Samson
 Laval, QC H7X 3E6",Laval,4.5,45.5220178,-73.79259847,[]
-FALSE,FALSE,2az1lqshQswSRphVBAt41Q,"['Pizza', 'Gluten-Free', 'Restaurants']","Pastoli's Pizza, Pasta & Paisans",2,43,PA,"1900 Murray Ave
+FALSE,FALSE,2az1lqshQswSRphVBAt41Q,"['Pizza', 'Gluten-Free', 'Restaurants']",Pastoli's Pizza  Pasta & Paisans,2,43,PA,"1900 Murray Ave
 Squirrel Hill
 Pittsburgh, PA 15217",Pittsburgh,4.5,40.43588627,-79.92301604,['Squirrel Hill']
 ,,2B_d3DU5kKfIjzdnAbiV8w,"['Mexican', 'Restaurants']",Salsitas 6,,4,AZ,"1501 N 43rd Ave
@@ -3191,7 +3191,7 @@ FALSE,FALSE,2uB9BSsIswP8WQWh58_SFQ,"['Food', 'Beer, Wine & Spirits', 'American (
 Southeast
 Las Vegas, NV 89120",Las Vegas,3.5,36.07191177,-115.1140028,['Southeast']
 ,TRUE,2uIMkQ_2ja1kXTYUgRZ5UQ,"['Poutineries', 'Steakhouses', 'Pizza', 'Restaurants']",Chejoys,2,3,QC,"355 Boulevard Curé-Labelle
-Chomedey, Laval, QC H7V 2X4","Chomedey, Laval",3,45.538789,-73.73412,[]
+Chomedey, Laval, QC H7V 2X4",Laval,3,45.538789,-73.73412,[]
 FALSE,TRUE,2uJNnNYUv23qcnpBg4Wy5A,"['Mexican', 'Restaurants']",Taqueria Mexico,1,60,NC,"7001 South Blvd
 Starmount
 Charlotte, NC 28217",Charlotte,4,35.1396022,-80.8761008,['Starmount']
@@ -4032,7 +4032,7 @@ Las Vegas, NV 89109",Las Vegas,4.5,36.10321187,-115.1737138,['The Strip']
 ,FALSE,3Vi3JmD-gDbx7Y2NEueJbQ,"['Pizza', 'Restaurants']",Papa John's Pizza,1,6,AZ,"2403 N Pebble Creek Pkwy
 Ste 111
 Goodyear, AZ 85395",Goodyear,2,33.4764387,-112.3923794,[]
-FALSE,TRUE,3vKhV2ELR2hmwlnoNqYWaA,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']","Lox, Stock & Bagel",1,221,AZ,"7353 N Via Paseo Del Sur
+FALSE,TRUE,3vKhV2ELR2hmwlnoNqYWaA,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",Lox  Stock & Bagel,1,221,AZ,"7353 N Via Paseo Del Sur
 Scottsdale, AZ 85258",Scottsdale,4,33.54422935,-111.9054723,[]
 FALSE,TRUE,3VKJ7cWSH38QKgCrYlG3Mg,"['Greek', 'Mediterranean', 'Restaurants']",The Golden Greek,1,78,AZ,"7126 N 35th Ave
 Phoenix, AZ 85051",Phoenix,4,33.5414706,-112.1349853,[]
@@ -4579,7 +4579,7 @@ Waterloo, ON N2J 2W8",Waterloo,4.5,43.46643944,-80.52258486,[]
 FALSE,TRUE,4GQhbPvGU5r23YdVm8EmkQ,"['Wine Bars', 'Bars', 'Restaurants', 'Nightlife', 'Italian']",Ferraro's Italian Restaurant & Wine Bar,3,581,NV,"4480 Paradise Rd
 Eastside
 Las Vegas, NV 89169",Las Vegas,4,36.109129,-115.151258,['Eastside']
-,,4GVP--lnUK0qsrLxme53vA,"['Bars', 'Arts & Entertainment', 'Casinos', 'Nightlife', 'Lounges', 'Restaurants', 'Diners']","Stratosphere Casino, Hotel & Tower",,6,NV,"2000 Las Vegas Blvd S
+,,4GVP--lnUK0qsrLxme53vA,"['Bars', 'Arts & Entertainment', 'Casinos', 'Nightlife', 'Lounges', 'Restaurants', 'Diners']",Stratosphere Casino  Hotel & Tower,,6,NV,"2000 Las Vegas Blvd S
 The Strip
 Las Vegas, NV 89104",Las Vegas,2.5,36.1476947,-115.1563056,['The Strip']
 FALSE,,4h6Z-wYq0j8Zxz5lu0pnvA,"['Burgers', 'Restaurants']",QDC Burger,2,21,QC,"1181 Rue de La Montagne
@@ -7775,7 +7775,7 @@ FALSE,FALSE,8_HGHlHsNdCnTsLQYHteAw,"['Steakhouses', 'Restaurants']",THE Steak Ho
 2880 Las Vegas Blvd S
 The Strip
 Las Vegas, NV 89109",Las Vegas,4,36.137041,-115.164611,['The Strip']
-FALSE,FALSE,8_m3BMAnDf-WLhJL0IVxNQ,"['Burgers', 'Pizza', 'Restaurants']","Ringer Wings, Pizza & Sliders",2,32,NV,"Planet Hollywood Resort And Casino
+FALSE,FALSE,8_m3BMAnDf-WLhJL0IVxNQ,"['Burgers', 'Pizza', 'Restaurants']",Ringer Wings  Pizza & Sliders,2,32,NV,"Planet Hollywood Resort And Casino
 3667 Las Vegas Boulevard South
 The Strip
 Las Vegas, NV 89109",Las Vegas,3,36.10940478,-115.1729815,['The Strip']
@@ -13014,7 +13014,7 @@ FALSE,,Calp-z22yvvWsE55_3DjKQ,"['Delis', 'Fast Food', 'Sandwiches', 'Restaurants
 Ste 105
 Steele Creek
 Charlotte, NC 28273",Charlotte,4,35.1396905,-80.9352075,['Steele Creek']
-FALSE,TRUE,cap_lFiLgcHbyteGoHicIA,"['Burgers', 'Restaurants']","MOOYAH Burgers, Fries & Shakes",1,18,WI,"571 State St
+FALSE,TRUE,cap_lFiLgcHbyteGoHicIA,"['Burgers', 'Restaurants']",MOOYAH Burgers  Fries & Shakes,1,18,WI,"571 State St
 Capitol
 Madison, WI 53703",Madison,3.5,43.0748656,-89.3955327,['Capitol']
 FALSE,FALSE,CApvjaNmMJUnfzz5hVpjrA,"['Fast Food', 'Mexican', 'Tex-Mex', 'Restaurants']",Taco Bell,1,19,NV,"5645 S Rainbow Blvd
@@ -14140,7 +14140,7 @@ Phoenix, AZ 85013",Phoenix,4,33.4874748,-112.0830342,[]
 TRUE,TRUE,Cvfi5N4zR9G05Pbg-Ud-KQ,"['Bars', 'Restaurants', 'Nightlife', 'Diners']",Distill - A Local Bar,2,239,NV,"10820 W Charleston Blvd
 Summerlin
 Las Vegas, NV 89135",Las Vegas,3.5,36.16068549,-115.3315911,['Summerlin']
-FALSE,TRUE,cvJDHk1ho0DxaF26etcr8Q,"['Latin American', 'Colombian', 'Restaurants']","Oiga, Mire, Vea Colombian Cuisine",2,68,NV,"2580 S Decatur Blvd
+FALSE,TRUE,cvJDHk1ho0DxaF26etcr8Q,"['Latin American', 'Colombian', 'Restaurants']",Oiga  Mire  Vea Colombian Cuisine,2,68,NV,"2580 S Decatur Blvd
 Westside
 Las Vegas, NV 89102",Las Vegas,3.5,36.142935,-115.207747,['Westside']
 FALSE,FALSE,CvJNcUtmNubDF8UmuduNXg,"['Pizza', 'Buffets', 'Chicken Wings', 'Restaurants']",Peter Piper Pizza,2,19,AZ,"3945 E Thomas Rd
@@ -14720,7 +14720,7 @@ FALSE,,DbKtctOWfPO9RWZZOWTSHQ,"['Fast Food', 'Chinese', 'Restaurants']",Panda Ex
 Chandler, AZ 85249",Chandler,2,33.2175765,-111.8263771,[]
 ,,dbMKVb_0pwptu3tdgFrWjQ,"['Fast Food', 'Chicken Wings', 'Restaurants']",KFC,1,9,AZ,"7634 W Indian School Rd
 Phoenix, AZ 85033",Phoenix,1.5,33.4948,-112.225,[]
-FALSE,FALSE,dbMpGh4p9dTxSn5lDSKE3w,"['Breakfast & Brunch', 'Cafes', 'Restaurants']","Toi, Moi Et Café",2,29,QC,"2695 Rue Notre-Dame Ouest
+FALSE,FALSE,dbMpGh4p9dTxSn5lDSKE3w,"['Breakfast & Brunch', 'Cafes', 'Restaurants']",Toi  Moi Et Café,2,29,QC,"2695 Rue Notre-Dame Ouest
 Sud-Ouest
 montreal, QC H3J 1N9",montreal,3,45.48196566,-73.57696042,['Sud-Ouest']
 FALSE,TRUE,dBnd-XxU5FUZ_gY6fkiJxg,"['Bars', 'Sports Bars', 'Nightlife', 'American (New)', 'Chicken Wings', 'Restaurants']",Native Grill & Wings,2,89,AZ,"10220 W. McDowell #160
@@ -16629,7 +16629,7 @@ Charlotte, NC 28227",Charlotte,4,35.1871892,-80.6873616,[]
 Ste B9
 Sunrise
 Las Vegas, NV 89121",Las Vegas,3,36.13925157,-115.0668884,['Sunrise']
-FALSE,FALSE,ECO2Bi8a8sPjW6f7JMbhdg,"['Seafood', 'Steakhouses', 'American (New)', 'Restaurants']","Biscayne Steak, Sea and Wine",3,116,NV,"3801 Las Vegas Blvd S
+FALSE,FALSE,ECO2Bi8a8sPjW6f7JMbhdg,"['Seafood', 'Steakhouses', 'American (New)', 'Restaurants']",Biscayne Steak  Sea and Wine,3,116,NV,"3801 Las Vegas Blvd S
 The Strip
 Las Vegas, NV 89109",Las Vegas,4,36.099777,-115.1725943,['The Strip']
 FALSE,FALSE,ECpcRXUTAQTIyfdUEXTwpw,"['Breakfast & Brunch', 'American (Traditional)', 'Sandwiches', 'Restaurants']",Snooze,2,235,AZ,"15054 N Scottsdale Rd
@@ -17866,7 +17866,7 @@ Homestead
 Homestead, PA 15120",Homestead,3,40.4113236,-79.9132525,['Homestead']
 FALSE,,EZrCQtZxiEo1kkAYt2EQqw,"['Burgers', 'Fast Food', 'Restaurants']",Wendy's,1,8,NC,"660 Park St
 Belmont, NC 28012",Belmont,3,35.253329,-81.027326,[]
-FALSE,TRUE,EZU__cpyxahCBzq6VAfZIQ,"['Tapas/Small Plates', 'Sushi Bars', 'Japanese', 'Restaurants']","Minoda's Japanese Steak House, Sushi Bar, & Izakaya",2,44,NC,"446 Tyvola Rd
+FALSE,TRUE,EZU__cpyxahCBzq6VAfZIQ,"['Tapas/Small Plates', 'Sushi Bars', 'Japanese', 'Restaurants']",Minoda's Japanese Steak House  Sushi Bar  & Izakaya,2,44,NC,"446 Tyvola Rd
 Starmount
 Charlotte, NC 28217",Charlotte,3.5,35.162006,-80.886268,['Starmount']
 FALSE,FALSE,ezU7Oz84y_NgVx57IBKtYg,"['Fast Food', 'Sandwiches', 'Restaurants']",Subway,1,4,AZ,"1121 S Higley Rd
@@ -17925,7 +17925,7 @@ Ste. 102
 Scottsdale, AZ 85260",Scottsdale,3.5,33.6194863,-111.8983914,[]
 ,,F0PGngsZYdGmHBXzDG56jw,"['Pubs', 'Bars', 'Scottish', 'Nightlife', 'Restaurants']",The Riccarton Inn,2,4,EDH,"198 Lanark Road W
 Currie EH14 5NX",Currie,4,55.896514,-3.3092424,[]
-FALSE,TRUE,f0PiGh5aBV15cNCYrnsW6w,"['Cafes', 'Sandwiches', 'Salad', 'Restaurants']","Helpings Cafe, Market and Catering",1,34,AZ,"3333 E Van Buren St
+FALSE,TRUE,f0PiGh5aBV15cNCYrnsW6w,"['Cafes', 'Sandwiches', 'Salad', 'Restaurants']",Helpings Cafe  Market and Catering,1,34,AZ,"3333 E Van Buren St
 Phoenix, AZ 85008",Phoenix,5,33.4508289,-112.0094532,[]
 FALSE,TRUE,F0u-X9aRLl8rz-L4uoaktg,"['Pizza', 'Restaurants']",Rosati's,2,73,NV,"72 W Horizon Ridge Pkwy
 Henderson, NV 89012",Henderson,3.5,36.0131441,-114.9925851,[]
@@ -20096,7 +20096,7 @@ Sud-Ouest
 montreal, QC H4C 1P2",montreal,3,45.48045,-73.579231,['Sud-Ouest']
 ,,GEw1pLdbMlJecvQkKBIgSw,"['Italian', 'Pizza', 'Chicken Wings', 'Restaurants']",Pizza Hut,1,3,PA,"1984 Green Tree Rd., Rm. B
 Pittsburgh, PA 15220",Pittsburgh,3,40.3954394,-80.0657414,[]
-FALSE,FALSE,g-eZgnBDvSDguF8cUxKCkA,"['American (Traditional)', 'Restaurants']","SWB, a southwest bistro",2,56,AZ,"Inside Hyatt Regency
+FALSE,FALSE,g-eZgnBDvSDguF8cUxKCkA,"['American (Traditional)', 'Restaurants']",SWB  a southwest bistro,2,56,AZ,"Inside Hyatt Regency
 7500 E Doubletree Ranch Rd
 Scottsdale, AZ 85258",Scottsdale,3.5,33.5666361,-111.9186835,[]
 FALSE,FALSE,gF5zLXzjQ0hqli5Xn3Pccw,"['Italian', 'Pizza', 'Chicken Wings', 'Restaurants']",Pizza Hut,2,13,AZ,"3602 W Camelback Rd
@@ -21100,7 +21100,7 @@ FALSE,FALSE,Gy7ERh2GhmAYMZMO48ztBg,"['Mexican', 'Restaurants']",La Hacienda,3,16
 Scottsdale, AZ 85255",Scottsdale,4,33.64488,-111.91648,[]
 ,FALSE,GY9pfuQlO0BhRUxvY9whmA,"['Pizza', 'Restaurants']",Joey's,2,13,BW,"Durlacher Allee 4
 76131 Karlsruhe",Karlsruhe,2.5,49.0086696,8.4176549,[]
-FALSE,TRUE,GYb6yFYJjDBNYcHM7vX5vg,"['Cajun/Creole', 'American (New)', 'Restaurants']","Cajun Yard Dog, Arboretum",2,181,NC,"8036 Providence Rd
+FALSE,TRUE,GYb6yFYJjDBNYcHM7vX5vg,"['Cajun/Creole', 'American (New)', 'Restaurants']",Cajun Yard Dog  Arboretum,2,181,NC,"8036 Providence Rd
 Ste 900
 Arboretum
 Charlotte, NC 28277",Charlotte,4,35.09758026,-80.77920914,['Arboretum']
@@ -21964,7 +21964,7 @@ Surprise, AZ 85379",Surprise,3,33.6103429,-112.3597368,[]
 ,TRUE,HJMWGBtlLPLZl64kXz3zzQ,"['Food', 'Specialty Food', 'Delis', 'Meat Shops', 'Restaurants']",Meat & Fish,2,10,NC,"919 S Mcdowell St
 Dilworth
 Charlotte, NC 28204",Charlotte,4,35.2138736,-80.8439231,['Dilworth']
-FALSE,FALSE,hjOiVuECfvugj7AmVClQ_w,"['Breakfast & Brunch', 'Sandwiches', 'Restaurants']","Breakfast, Brunch & Lunch",1,8,EDH,"65 Pleasance
+FALSE,FALSE,hjOiVuECfvugj7AmVClQ_w,"['Breakfast & Brunch', 'Sandwiches', 'Restaurants']",Breakfast  Brunch & Lunch,1,8,EDH,"65 Pleasance
 Newington
 Edinburgh EH8 9TG",Edinburgh,4,55.9464537,-3.182035,['Newington']
 ,FALSE,hJPi219V-e99Kedk2cSbEA,"['Sandwiches', 'Restaurants']",Jimmy John's,1,3,WI,"21 Tower Dr
@@ -28360,7 +28360,7 @@ Ste 109
 Gilbert, AZ 85234",Gilbert,3,33.3772368,-111.7878574,[]
 FALSE,TRUE,LdEzAYCufZMTbWc0soCaNg,"['Food', 'Bagels', 'Caterers', 'Delis', 'Event Planning & Services', 'Restaurants']",Einstein Bros,1,29,AZ,"1919 S Gilbert Rd
 Mesa, AZ 85204",Mesa,2.5,33.3801732,-111.7876865,[]
-FALSE,TRUE,LdI-fcJDXGE7ns_jwWY2ow,"['Mexican', 'Restaurants']","Spotted Donkey Cantina, el Pedregal",2,265,AZ,"34505 N Scottsdale Rd
+FALSE,TRUE,LdI-fcJDXGE7ns_jwWY2ow,"['Mexican', 'Restaurants']",Spotted Donkey Cantina  el Pedregal,2,265,AZ,"34505 N Scottsdale Rd
 Scottsdale, AZ 85266",Scottsdale,3.5,33.798073,-111.926458,[]
 FALSE,FALSE,ldIxXmxD3Cku0vODGYb9dQ,"['Fast Food', 'Sandwiches', 'Restaurants']",Subway,1,7,AZ,"2835 N 16th St
 Suite 5
@@ -29977,7 +29977,7 @@ Madison, WI 53711",Madison,3.5,43.0649127,-89.4167127,['Vilas']
 FALSE,FALSE,mAGRZkcIzjO7ZMNknN759g,"['American (Traditional)', 'Restaurants']",Madison's NY Bar and Grill,2,6,QC,"300 Rue Jean Yves
 Kirkland
 Kirkland, QC H9J",Kirkland,3,45.4410742,-73.8862709,['Kirkland']
-,,MAgvMutGp9HHfQ_opx2btQ,"['Restaurants', 'Italian']","Il Vino, Weinbar,",2,4,BW,"Ettlinger-Tor-Platz 1
+,,MAgvMutGp9HHfQ_opx2btQ,"['Restaurants', 'Italian']",Il Vino  Weinbar ,2,4,BW,"Ettlinger-Tor-Platz 1
 im ECE-Center
 76133 Karlsruhe",Karlsruhe,3.5,49.0056,8.40342,[]
 FALSE,FALSE,mahnOAHotFXnooJDFM8heg,"['Chinese', 'Restaurants']",Golden Gate Express,1,4,NC,"5708 N Sharon Amity Rd
@@ -30733,7 +30733,7 @@ FALSE,,mpkqgw2QgMQUmhXdPwGGww,"['Buffets', 'Restaurants']",Sun Star Buffet,1,7,A
 Phoenix, AZ 85009",Phoenix,2.5,33.4514049,-112.1329217,[]
 FALSE,FALSE,mPlWLIA4pkHMRtlQDm6UyQ,"['Sushi Bars', 'Japanese', 'Restaurants']",Little Tokyo,2,127,PA,"636 Washington Rd
 Pittsburgh, PA 15228",Pittsburgh,4,40.3818121,-80.0444905,[]
-FALSE,FALSE,mPmD3vvjGZTMK2ZY3CenIQ,"['Asian Fusion', 'Japanese', 'Chinese', 'Restaurants']","Akahana - Asian Bistro, Bar & Sushi",2,82,SC,"940 Market Street, Ste 124
+FALSE,FALSE,mPmD3vvjGZTMK2ZY3CenIQ,"['Asian Fusion', 'Japanese', 'Chinese', 'Restaurants']",Akahana - Asian Bistro  Bar & Sushi,2,82,SC,"940 Market Street, Ste 124
 Fort Mill, SC 29708",Fort Mill,3,35.02848308,-80.96739527,[]
 TRUE,FALSE,MPmKNNq5cc_J5WbBdnkSJg,"['Mexican', 'Food Stands', 'Restaurants']",Wadaa Street Tacos - OPENING SOON,1,147,AZ,"2510 West Thunderbird
 phoenix, AZ 85023",phoenix,4.5,33.6114078,-112.1106287,[]
@@ -31621,7 +31621,7 @@ Las Vegas, NV 89123",Las Vegas,3,36.0419347,-115.1202268,['Southeast']
 FALSE,TRUE,NCr5X2qpStcLpwBkZo-5AA,"['Burgers', 'Hot Dogs', 'Salad', 'Restaurants']",Portillo's Hot Dogs,1,422,AZ,"65 S McClintock Dr
 Tempe, AZ 85281",Tempe,3.5,33.4297707,-111.9086343,[]
 FALSE,,ncrkmZc8VkcBjmjN-BDHBg,"['Food', 'American (Traditional)', 'Food Trucks', 'Restaurants']",Bleu Barn Bistro,1,23,NC,"Charlotte, NC 28217",Charlotte,4.5,35.1743999,-80.9041817,[]
-FALSE,TRUE,nCtz4E0DBKpvT7QMR_-0Lw,"['Burgers', 'American (Traditional)', 'Hot Dogs', 'Restaurants']","MOOYAH Burgers, Fries & Shakes",1,55,NC,"2233 Matthews Township Pkwy
+FALSE,TRUE,nCtz4E0DBKpvT7QMR_-0Lw,"['Burgers', 'American (Traditional)', 'Hot Dogs', 'Restaurants']",MOOYAH Burgers  Fries & Shakes,1,55,NC,"2233 Matthews Township Pkwy
 Ste C-2
 Matthews, NC 28105",Matthews,3.5,35.1281898,-80.7022409,[]
 FALSE,TRUE,NCtzWkMbE13r2M2Sg0wH9w,"['Thai', 'Restaurants']",Soi 4 Bangkok Eatery,2,182,AZ,"8787 N Scottsdale Rd
@@ -33574,7 +33574,7 @@ Saint-Laurent
 montreal, QC H4R 1Y8",montreal,3,45.5022098,-73.6978074,['Saint-Laurent']
 FALSE,FALSE,oHHojGVuTVtkR8PJsD1PQQ,"['American (Traditional)', 'Southern', 'Barbeque', 'Restaurants']",Queen City Q,2,27,NC,"8524 Pit Stop CT NW
 Concord, NC 28027",Concord,3,35.3734517,-80.72265677,[]
-FALSE,FALSE,oHIWHZQAO6N2QezzrGWpsw,"['Tapas Bars', 'Spanish', 'Restaurants']","Toro  Café, Bar, Tapas",2,27,BW,"Akademiestr. 57
+FALSE,FALSE,oHIWHZQAO6N2QezzrGWpsw,"['Tapas Bars', 'Spanish', 'Restaurants']",Toro  Café  Bar  Tapas,2,27,BW,"Akademiestr. 57
 76133 Karlsruhe",Karlsruhe,4.5,49.0107267,8.393975,[]
 FALSE,TRUE,OHlKIb5QnitJ0UBrDwKr0w,"['Gastropubs', 'Spanish', 'Filipino', 'Restaurants']",Cutting Board Filipino Gastropub,2,78,NV,"2131 Rock Springs Dr
 Las Vegas, NV 89128",Las Vegas,4,36.19773299,-115.2470689,[]
@@ -34284,7 +34284,7 @@ Glendale, AZ 85306",Glendale,2.5,33.6107161,-112.1689504,[]
 FALSE,FALSE,OUB3UnAMhz0ICoL5WbTrig,"['Ramen', 'Japanese', 'Restaurants']",Ichifuku,2,38,QC,"1925 Rue Sainte-Catherine Ouest
 Ville-Marie
 montreal, QC H3H 1M3",montreal,4,45.4926098,-73.5809537,['Ville-Marie']
-FALSE,FALSE,ouBlOm6OSfVKWatic4c2lg,"['Food', 'Cajun/Creole', 'Food Trucks', 'Restaurants']","Sandra Dee's Catering,LLC",1,15,AZ,"344 N Gilbert Rd
+FALSE,FALSE,ouBlOm6OSfVKWatic4c2lg,"['Food', 'Cajun/Creole', 'Food Trucks', 'Restaurants']",Sandra Dee's Catering LLC,1,15,AZ,"344 N Gilbert Rd
 Phoenix, AZ 85234",Phoenix,4.5,33.4361171,-111.9306166,[]
 FALSE,TRUE,oudTF4EN_C8thENGiTQf-w,"['Bars', 'Restaurants', 'American (Traditional)', 'Nightlife', 'Tex-Mex']",Chili's,2,22,WI,"4344 E Towne Blvd
 Madison, WI 53704",Madison,3,43.1266792,-89.3087635,[]
@@ -38010,7 +38010,7 @@ Centennial
 Las Vegas, NV 89149",Las Vegas,3.5,36.2911427,-115.2849943,['Centennial']
 FALSE,TRUE,qYkr0d-tt-y9BHmofQ2jEw,"['Soul Food', 'Southern', 'Barbeque', 'Restaurants']",The Lancaster Smokehouse,2,75,ON,"574 Lancaster Street W
 Kitchener, ON N2K 1M3",Kitchener,4.5,43.4796303,-80.4843976,[]
-FALSE,FALSE,qylwlQOVkj-Dwqr5n2Fd9A,"['Mexican', 'Restaurants']","La Palapa, Mexican Gourmet Kitchen",2,113,PA,"1925 E Carson St
+FALSE,FALSE,qylwlQOVkj-Dwqr5n2Fd9A,"['Mexican', 'Restaurants']",La Palapa  Mexican Gourmet Kitchen,2,113,PA,"1925 E Carson St
 South Side
 Pittsburgh, PA 15203",Pittsburgh,4.5,40.428832,-79.9780571,['South Side']
 FALSE,TRUE,qyNtVViurIcChc35mfYIEw,"['Thai', 'Restaurants']",Touch Of Thai,2,194,AZ,"16816 N 35th Ave
@@ -39382,7 +39382,7 @@ Ste 107
 Surprise, AZ 85388",Surprise,4,33.6250466,-112.4143796,[]
 ,,RRg-Ju8NjcbB8Sm0OR0HEA,"['Food', 'Ice Cream & Frozen Yogurt', 'Mexican', 'Food Court', 'Restaurants']",Maya Mexican Antonjitos Snacks,1,4,AZ,"9617 N  Metro Pkwy W
 Phoenix, AZ 85051",Phoenix,3.5,33.5749703,-112.1226961,[]
-FALSE,TRUE,RRGRruNX4o6689EB48z3-A,"['Bars', 'Steakhouses', 'Nightlife', 'African', 'Restaurants']","BLT Steak, Scottsdale",4,199,AZ,"5402 E Lincoln Dr
+FALSE,TRUE,RRGRruNX4o6689EB48z3-A,"['Bars', 'Steakhouses', 'Nightlife', 'African', 'Restaurants']",BLT Steak  Scottsdale,4,199,AZ,"5402 E Lincoln Dr
 Scottsdale, AZ 85253",Scottsdale,4,33.5361049,-111.9633243,[]
 FALSE,FALSE,rRh2vTSerDRRKHIFArJEWw,"['Sandwiches', 'Restaurants']",Jimmy John's,1,16,NV,"495 S Main St
 Downtown
@@ -42785,7 +42785,7 @@ Charlotte, NC 28209",Charlotte,4.5,35.1669955,-80.8508653,[]
 FALSE,FALSE,tteHjtbjQfWnJgFe4jPoMA,"['American (New)', 'Gluten-Free', 'Restaurants']",Jacs Dining and Tap House,2,185,WI,"2611 Monroe St
 Dudgeon-Monroe
 Madison, WI 53711",Madison,4,43.0574842,-89.4280617,['Dudgeon-Monroe']
-,,tTfL-gFB3CWvxt9_I2Sriw,"['Bistros', 'Sporting Goods', 'Shopping', 'Restaurants']","Mountaineering,Camping & Skiing Graham Tiso",,3,EDH,"41 Commercial Street
+,,tTfL-gFB3CWvxt9_I2Sriw,"['Bistros', 'Sporting Goods', 'Shopping', 'Restaurants']",Mountaineering Camping & Skiing Graham Tiso,,3,EDH,"41 Commercial Street
 Leith
 Edinburgh EH6 6JD",Edinburgh,2.5,55.9770906,-3.1754185,['Leith']
 FALSE,,TtH0iIGIS310JfaEbQy-LQ,"['Cafes', 'Restaurants']",Rickenbackers Cafe,1,5,NV,"Nellis AFB
@@ -43139,7 +43139,7 @@ Tempe, AZ 85281",Tempe,4.5,33.4237298,-111.9396558,[]
 FALSE,FALSE,u_xD7-AhxnhDz3lpTYCMhA,"['Chinese', 'Restaurants']",Sushi Bar China City,2,20,BW,"Brauerstraße 40
 Im Filmpalast am Zkm
 76135 Karlsruhe",Karlsruhe,3.5,49.0002,8.3854,[]
-,,U_zxW-c_2NZajkUrQMcBkQ,"['French', 'Restaurants']","Ficelle Vin, Bulle & Foie Gras",3,4,QC,"4517 St-Denis
+,,U_zxW-c_2NZajkUrQMcBkQ,"['French', 'Restaurants']",Ficelle Vin  Bulle & Foie Gras,3,4,QC,"4517 St-Denis
 Plateau-Mont-Royal
 montreal, QC H2J 2L3",montreal,3,45.5241847,-73.5833842,['Plateau-Mont-Royal']
 FALSE,TRUE,U02Ds6t6XBh5G345Hc6tUA,"['Thai', 'Restaurants']",Thai Place,2,48,NV,"Target Shopping Center
@@ -49566,7 +49566,7 @@ Côte-des-Neiges
 Montreal, QC H3T 1Y8",Montreal,4,45.4974339,-73.6243649,[u'C\xf4te-des-Neiges']
 FALSE,FALSE,xrQwIpyGV8xY5wfYUR44HQ,"['Pizza', 'Restaurants']",Little Caesars Pizza,2,3,AZ,"10240 N 43rd Ave
 Glendale, AZ 85302",Glendale,2.5,33.580284,-112.151925,[]
-FALSE,FALSE,Xrv1wGdnplntayA9pVCm5Q,"['Grocery', 'Food', 'Cafes', 'Specialty Food', 'Fruits & Veggies', 'Restaurants']","Pear and the Pickle, Cafe & Market",1,8,PA,"1800 Rialto St
+FALSE,FALSE,Xrv1wGdnplntayA9pVCm5Q,"['Grocery', 'Food', 'Cafes', 'Specialty Food', 'Fruits & Veggies', 'Restaurants']",Pear and the Pickle  Cafe & Market,1,8,PA,"1800 Rialto St
 Troy Hill
 Pittsburgh, PA 15212",Pittsburgh,5,40.466752,-79.982293,['Troy Hill']
 FALSE,FALSE,xrZXfIzFEHxhEiQzvOlNNQ,"['French', 'Restaurants']",Les 400 Coups,3,71,QC,"400 Rue Notre-Dame E
@@ -50536,7 +50536,7 @@ FALSE,FALSE,Yetz4GH7-hlQTOuLJhUTPw,"['Mexican', 'Restaurants']",Irma's Mexican F
 Tolleson, AZ 85353",Tolleson,2.5,33.4500941,-112.2609892,[]
 FALSE,FALSE,yeuMWkSpaEYEV5beeMeqng,"['Chinese', 'Restaurants']",Le Bol d'or / Golden Bowl,1,10,QC,"1200 Boulevard Rome
 Brossard, QC J4W 3H3",Brossard,3,45.45753,-73.490615,[]
-,,yEvkmoIBNHfYI6IcjLcx7g,"['Hot Dogs', 'Restaurants']","Big Al,s Chicago Deli",2,6,NV,"McCarran Airport
+,,yEvkmoIBNHfYI6IcjLcx7g,"['Hot Dogs', 'Restaurants']",Big Al s Chicago Deli,2,6,NV,"McCarran Airport
 Southeast
 Las Vegas, NV 89119",Las Vegas,2.5,36.085713,-115.149418,['Southeast']
 FALSE,FALSE,yeYEmZ1-MEzQ_bi8Vpz_jw,"['Japanese', 'Restaurants']",Bar Masa,4,23,NV,"3730 Las Vegas Blvd S
