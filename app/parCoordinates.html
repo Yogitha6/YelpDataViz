@@ -59,7 +59,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("data/restData.csv", function(error, restData) {
+d3.csv("data/rest.csv", function(error, restData) {
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(restData[0]).filter(function(d) {
@@ -165,3 +165,4 @@ function brush() {
 }
 
 </script>
+</body>
