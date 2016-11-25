@@ -1,0 +1,5189 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.43896689,43.42345529]
+    },
+    "properties": {
+    "business_id":"_-EB8tQzBlM_jLkgtRw4Rg",
+    "name":"Jack Astor's Bar & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4911023,43.4497547]
+    },
+    "properties": {
+    "business_id":"_gXohynLlr_L-lCfonNjOg",
+    "name":"Grand Trunk Saloon",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4450725,43.4211815]
+    },
+    "properties": {
+    "business_id":"_JCjTIKSZxSO5PuHE0rXBg",
+    "name":"Williams Fresh Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5539114,43.5374807]
+    },
+    "properties": {
+    "business_id":"_pmjqKf9iZ6zLPCiLoClYg",
+    "name":"The Java Garden",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4947348,43.45427631]
+    },
+    "properties": {
+    "business_id":"_yPgKR2Q9IJZ_sWDwvmq1g",
+    "name":"J & B Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4491669,43.4205868]
+    },
+    "properties": {
+    "business_id":"03eWcf0c0PciZt_gVATwMw",
+    "name":"Swiss Chalet Rotisserie & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5032574,43.5411674]
+    },
+    "properties": {
+    "business_id":"0IM89Z0KaBnmCo5Or2-FDg",
+    "name":"Black Forest Inn",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52500378,43.47741773]
+    },
+    "properties": {
+    "business_id":"0jSLF-sYd23ZUAvXwqHDPg",
+    "name":"Bhima's Warung",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"58",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.46117,43.4562565]
+    },
+    "properties": {
+    "business_id":"0LAazCkT204ZB5636IS5zg",
+    "name":"Dynamite Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4916992,43.4496385]
+    },
+    "properties": {
+    "business_id":"0SVfpByEWCWgdWgDr5lPNQ",
+    "name":"Cafe Pyrus",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"22",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52526765,43.47597767]
+    },
+    "properties": {
+    "business_id":"0vZk2_dbdgShL8jk-wYUdg",
+    "name":"Ginos Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5059135,43.44489232]
+    },
+    "properties": {
+    "business_id":"1_AcAa6m09HVXrfm-1B5Tg",
+    "name":"Lai Lai Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5179854,43.4528037]
+    },
+    "properties": {
+    "business_id":"1FFatRz562qU7sSwrkkbqA",
+    "name":"Big John's Submarines",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.523219,43.466999]
+    },
+    "properties": {
+    "business_id":"-2BNc33MHRuXljtCkXcLPg",
+    "name":"Lion Brewery Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"2.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51601,43.435174]
+    },
+    "properties": {
+    "business_id":"2bzcJo6z_ipeDGLf009Xpw",
+    "name":"Southern Ontario Smoked BBQ",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52570283,43.4760346]
+    },
+    "properties": {
+    "business_id":"2ekt7hZde4jY7fenBuG-pw",
+    "name":"Mozy's Shawarma",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"73",
+    "stars":"4.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.526301,43.476073]
+    },
+    "properties": {
+    "business_id":"2nsDAIDkyD1sfE4ImA0oYw",
+    "name":"Uni Wok",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52628,43.484483]
+    },
+    "properties": {
+    "business_id":"2uAu33sEzH32T_MACquC8w",
+    "name":"Twice the Deal Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5243892,43.4752375]
+    },
+    "properties": {
+    "business_id":"39JxLjxeG1sKSBjmREWcMw",
+    "name":"Shawerma Plus",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"4",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4474237,43.4195716]
+    },
+    "properties": {
+    "business_id":"3hABcvH_N883tCvZE0GY9Q",
+    "name":"The Works",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4691717,43.4190681]
+    },
+    "properties": {
+    "business_id":"3iWbq5QqLIgusVI2-PuUgQ",
+    "name":"1001 Nights Shawarma",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5218647,43.4645623]
+    },
+    "properties": {
+    "business_id":"3V0W5s4rqjAlwEQvx2VQLQ",
+    "name":"Dragon Court Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3914327,43.4073085]
+    },
+    "properties": {
+    "business_id":"3VSgwEgiYQg9xulyRjvYTg",
+    "name":"Costco Wholesale",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3854891,43.4049004]
+    },
+    "properties": {
+    "business_id":"45esgySsDQJy3PgvNz-9QQ",
+    "name":"Boston Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"2",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5260207,43.483758]
+    },
+    "properties": {
+    "business_id":"4ds-oi5g3gf1GZeNo50VKw",
+    "name":"Ennio's Pasta House",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"41",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5337054,43.4724814]
+    },
+    "properties": {
+    "business_id":"4e59MkVEna_4bsNfrbwIVg",
+    "name":"Foodie Fruitie",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"3",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52258486,43.46643944]
+    },
+    "properties": {
+    "business_id":"4G-MC2z2Vpb7vCEEItpTlA",
+    "name":"Cheeses Murphy",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.515248,43.4698791]
+    },
+    "properties": {
+    "business_id":"4jJkEXwytUPkEbTpwdsi-A",
+    "name":"Gino's Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4327628,43.4290777]
+    },
+    "properties": {
+    "business_id":"4nWCXx6simsaozF84pNbJg",
+    "name":"Martini's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.515194,43.435192]
+    },
+    "properties": {
+    "business_id":"4-V0ZlSl6c40Pz2VAabUEg",
+    "name":"Swiss Chalet Rotisserie & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4386514,43.4317835]
+    },
+    "properties": {
+    "business_id":"57VdwbWf6S5JJbYoM_Luzw",
+    "name":"Fork and Cork Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"29",
+    "stars":"4.5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5221353,43.4657569]
+    },
+    "properties": {
+    "business_id":"5awoo-7qHP6LGdcCiLGMkg",
+    "name":"Masala Bay Fine Indian Dining",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5210309,43.462251]
+    },
+    "properties": {
+    "business_id":"5CWTPfVpE-yK4R7Y3vKygQ",
+    "name":"Marbles Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"14",
+    "stars":"3.5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4979235,43.451609]
+    },
+    "properties": {
+    "business_id":"5fOPEDqX1rqwR17ZzBiKJQ",
+    "name":"Firkin at the Tannery",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5408376,43.484427]
+    },
+    "properties": {
+    "business_id":"5khWg0g3fZV4K-8DEeKLyQ",
+    "name":"Tres Chiles",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4880976,43.4507953]
+    },
+    "properties": {
+    "business_id":"5r8AcIxwM6ivaOGg5_fvCA",
+    "name":"Holy Guacamole Fresh Mex",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.517072,43.4868458]
+    },
+    "properties": {
+    "business_id":"5riVjGssTIhHeg5RlNiuXQ",
+    "name":"Dearborn Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53800241,43.47231231]
+    },
+    "properties": {
+    "business_id":"5U7oz95bINkyw_L8RckGEA",
+    "name":"Mikey's Eatery",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"24",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.537082,43.471891]
+    },
+    "properties": {
+    "business_id":"66XRExJOYvkbKiYfc2JQhg",
+    "name":"Vegetarian Fastfood Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"28",
+    "stars":"3.5",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5216805,43.511125]
+    },
+    "properties": {
+    "business_id":"6ObEB-xmhsENRXYcqEU6ag",
+    "name":"St. Louis Bar & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Chicken Wings",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4840362,43.4248928]
+    },
+    "properties": {
+    "business_id":"6Pn0AhLymS3QAp3FA-IO6A",
+    "name":"Popeyes Louisiana Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"2",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5235285,43.4636098]
+    },
+    "properties": {
+    "business_id":"6TXQe14Y5n3FPAFeVE8onQ",
+    "name":"Beertown",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"53",
+    "stars":"3.5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.54370515,43.4427784]
+    },
+    "properties": {
+    "business_id":"6WjNnrrj1dWtO8jqBb3Hzw",
+    "name":"Topper's Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4812478,43.4453254]
+    },
+    "properties": {
+    "business_id":"7_LgHFNEVTqjibY3jIkfZA",
+    "name":"Cameron Chinese Seafood Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"33",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53505791,43.47294191]
+    },
+    "properties": {
+    "business_id":"796voR3LRoQ_4EPgSg8Yww",
+    "name":"Do Eat Chinese Restaurent",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5181389,43.4345769]
+    },
+    "properties": {
+    "business_id":"7hEhc5YSU3W-qLhj-ydU7Q",
+    "name":"Prime Bar-B-Q Restaurant Ltd",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52657246,43.46311197]
+    },
+    "properties": {
+    "business_id":"7KfgI59JMuYfL4yBKsl6BA",
+    "name":"Sole Restaurant & Wine Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"20",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5256009,43.4762793]
+    },
+    "properties": {
+    "business_id":"-7Pwuxq7C04iKBiE6haISQ",
+    "name":"Tasty Home Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5193401,43.514662]
+    },
+    "properties": {
+    "business_id":"7vFqvCCvyHyAoEKDbUZ4ow",
+    "name":"Timeless Cafe and Bakery",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4508093,43.4196748]
+    },
+    "properties": {
+    "business_id":"7Y16sK2L1CUFDZ-5usfKPA",
+    "name":"Ennio's Pasta House",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5181825,43.4544362]
+    },
+    "properties": {
+    "business_id":"8jy0Pu2Yoh4PGstBbxCyuw",
+    "name":"Rawlicioius",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5939264,43.4704487]
+    },
+    "properties": {
+    "business_id":"8U46CxZHRPuGRdnq2dFW4Q",
+    "name":"Sogo Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52117,43.4244]
+    },
+    "properties": {
+    "business_id":"8ZfAY3UJzDeCj8UnhXD9pg",
+    "name":"Sunset Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"2",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.509687,43.4396019]
+    },
+    "properties": {
+    "business_id":"97uYpYan6H9iCegNlbjr1A",
+    "name":"Topper's Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51601,43.435174]
+    },
+    "properties": {
+    "business_id":"9Azda34mhYNtxXLqvzkIwg",
+    "name":"Mr Wok Chinese Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5534626,43.5391262]
+    },
+    "properties": {
+    "business_id":"9ISzUw1zs9sXrcxg9nafkg",
+    "name":"Jacob's Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.535225,43.502519]
+    },
+    "properties": {
+    "business_id":"9tWxINfoP5FPf9BTaX4_nA",
+    "name":"Boston Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3966505,43.4078434]
+    },
+    "properties": {
+    "business_id":"9WABNoHN9WA1BsCHo58EkQ",
+    "name":"Borealis Grille & Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"47",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.491079,43.449701]
+    },
+    "properties": {
+    "business_id":"Ad7IM4MCYDZiF3nCm_GxQw",
+    "name":"East African Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5113586,43.4157469]
+    },
+    "properties": {
+    "business_id":"AEQYXTvWreI7x5h42AOsyg",
+    "name":"Omega Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53889201,43.47224554]
+    },
+    "properties": {
+    "business_id":"agLIxM7QfuJmfTNf6ktaOg",
+    "name":"Seoul Soul",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"2",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5182138,43.483281]
+    },
+    "properties": {
+    "business_id":"asgyOV0D7tCZ4yp5ffw3Zg",
+    "name":"The Flying Dog",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53570278,43.47257798]
+    },
+    "properties": {
+    "business_id":"B4U4T1vcoC33gzZQW9sdFA",
+    "name":"Burger King",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53770843,43.47275372]
+    },
+    "properties": {
+    "business_id":"b5J9TrtosHDCkepP0-8jOQ",
+    "name":"Waterloo Star",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"30",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53604564,43.47277677]
+    },
+    "properties": {
+    "business_id":"B5qQXINzTpk9o2tce1BKLQ",
+    "name":"Lotus Barbeque House",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.523069,43.476597]
+    },
+    "properties": {
+    "business_id":"BadvVbLYqeWe1v1QUBcoUw",
+    "name":"China Garden Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.54612355,43.45468436]
+    },
+    "properties": {
+    "business_id":"bblDFUU8xHBgcHF2tR70WQ",
+    "name":"Suki Sushi",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.515221,43.4156309]
+    },
+    "properties": {
+    "business_id":"bcnOwnQl1X5F4FXcGvAvJA",
+    "name":"Pizza Nova",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5380519,43.472285]
+    },
+    "properties": {
+    "business_id":"BfxYcUAgoYWuMQRm-YIu_A",
+    "name":"BaBa's Chinese Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"9",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.483839,43.4476773]
+    },
+    "properties": {
+    "business_id":"bHszT3KIHm8QuU_fLBWOdQ",
+    "name":"Breadbaron Sandwiches",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5250775,43.4773799]
+    },
+    "properties": {
+    "business_id":"bk2YUek5KaMP8LjN5jZ8_w",
+    "name":"Burrito Boyz",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"39",
+    "stars":"3.5",
+    "cuisine":"Tex-Mex",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4988594,43.4514435]
+    },
+    "properties": {
+    "business_id":"BmTG403FupSRXM6rIVkCUA",
+    "name":"Mon Ami Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5265643,43.4841189]
+    },
+    "properties": {
+    "business_id":"bnWEP4mB1npXjgVNa5-9Ug",
+    "name":"Busan Korean BBQ",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"32",
+    "stars":"2.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5553815,43.5086084]
+    },
+    "properties": {
+    "business_id":"bZ2eSviNY1bZJI7iSK4iiQ",
+    "name":"Jack's Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"29",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4736854,43.4426453]
+    },
+    "properties": {
+    "business_id":"CJLy9HYMZSC2ytQUO1-f7A",
+    "name":"King Fish and Chips",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5220724,43.4654191]
+    },
+    "properties": {
+    "business_id":"cLZQ_XppuFt9kckccSdHNA",
+    "name":"Rolling Pepper Hotpot",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.522812,43.465863]
+    },
+    "properties": {
+    "business_id":"CXAma-3il9i45krjt5jFqw",
+    "name":"Coffee Culture",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"19",
+    "stars":"3",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53623017,43.47262275]
+    },
+    "properties": {
+    "business_id":"cXpMb3aCwMUsWikcXL7qJQ",
+    "name":"Grace and Healthy Premium Dumplings",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"53",
+    "stars":"4",
+    "cuisine":"Dim Sum",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.484853,43.447716]
+    },
+    "properties": {
+    "business_id":"D05i1cxtkqdticGPaQbGBA",
+    "name":"Korean Bbq",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5931956,43.4707272]
+    },
+    "properties": {
+    "business_id":"D95Y91ldqlrwhjZxHUf3SA",
+    "name":"Hog Tails Barbeque",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"29",
+    "stars":"4.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.523219,43.466999]
+    },
+    "properties": {
+    "business_id":"dbObnYBNgKR-ADGhLfLm_A",
+    "name":"Barley Works Bar & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.573527,43.44548]
+    },
+    "properties": {
+    "business_id":"DJmnJmQdEEY477ua7_CPAg",
+    "name":"Kitchen Wok",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.484297,43.44822]
+    },
+    "properties": {
+    "business_id":"DkG4CxOeGPITo_qOXMFtWQ",
+    "name":"The Yeti",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5374452,43.461748]
+    },
+    "properties": {
+    "business_id":"DLuRVuT8wWc_2I-gVB2qlw",
+    "name":"168 Sushi Asian Buffet Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"41",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4895946,43.449324]
+    },
+    "properties": {
+    "business_id":"DN3UED51NNkaf3l-dDWBuw",
+    "name":"Darlise Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.56242664,43.43761428]
+    },
+    "properties": {
+    "business_id":"dqTrcqux7Ro4ack4fXC1fg",
+    "name":"Dairy Queen",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4948402,43.4581103]
+    },
+    "properties": {
+    "business_id":"dTzEehC5AoOJRUZ6JFI4mA",
+    "name":"Bud's Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5134489,43.471789]
+    },
+    "properties": {
+    "business_id":"dVIG2Nc7qkoAoLp-o6faog",
+    "name":"Granny Bonn's Fish N Chips",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.523383,43.467973]
+    },
+    "properties": {
+    "business_id":"e6CFLu0S6ML97Qls_csnmw",
+    "name":"Failte Irish Pub",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.49981829,43.40581703]
+    },
+    "properties": {
+    "business_id":"e6cQR6MFdJgQ3pRmsSGxAg",
+    "name":"Peking Gourmet",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5228811,43.4666534]
+    },
+    "properties": {
+    "business_id":"E99htvbbJwD_R31C8urmoA",
+    "name":"My-Thai Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51394417,43.47001724]
+    },
+    "properties": {
+    "business_id":"Ecb1YI3GJoy39QAiH63xPQ",
+    "name":"Tim Hortons",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.522721,43.465523]
+    },
+    "properties": {
+    "business_id":"EhBSVPbSw1pKE0gg4u2Kqg",
+    "name":"Watami Sushi & Sake Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"59",
+    "stars":"4",
+    "cuisine":"Japanese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.519305,43.45939063]
+    },
+    "properties": {
+    "business_id":"ej_Ovd4GuqnFv6d4i54Z7Q",
+    "name":"Vincenzo's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"58",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53543087,43.47291496]
+    },
+    "properties": {
+    "business_id":"EkhrRWzevfFJc8Pm2dVPEA",
+    "name":"Mr. Sushi",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"2.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4470736,43.4210675]
+    },
+    "properties": {
+    "business_id":"eL1IZGEWOZTbxdcqqgZjfw",
+    "name":"Ben Thanh",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.531231,43.5028859]
+    },
+    "properties": {
+    "business_id":"Emc9Y4pr7ffZMg9Xo90_rg",
+    "name":"Williams Fresh Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4349163,43.4730075]
+    },
+    "properties": {
+    "business_id":"EQIZkuJxIvjJxZjf_NYNcA",
+    "name":"Korner Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5229389,43.4680417]
+    },
+    "properties": {
+    "business_id":"eqm1NtRuPwJz0xUXLo_SNQ",
+    "name":"Fratello Pizzeria",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.518918,43.4546956]
+    },
+    "properties": {
+    "business_id":"ev161HS1EB0sox1TM8csYw",
+    "name":"Thai Bistro",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52659195,43.48214351]
+    },
+    "properties": {
+    "business_id":"ey9Aqf4c7_6UHJdhdKJ_3Q",
+    "name":"Bianca's Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4540932,43.4181002]
+    },
+    "properties": {
+    "business_id":"eYOMoRNB1tlL76L0WjX2NQ",
+    "name":"Country Boy Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.491637,43.4497651]
+    },
+    "properties": {
+    "business_id":"eYR7445A5_tF2NMu8EgJig",
+    "name":"Ellison's Bistro",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4878082,43.4495201]
+    },
+    "properties": {
+    "business_id":"f_spe_FA0Mze5h9KZVMaew",
+    "name":"Crabby Joe's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5001275,43.4183796]
+    },
+    "properties": {
+    "business_id":"F45vLhAYr-N4uAJPishm9Q",
+    "name":"Pizza Prosciutto",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5226553,43.4656754]
+    },
+    "properties": {
+    "business_id":"F5YC0NueNyG2Zb8qgcDmjA",
+    "name":"Nick and Nat's Uptown 21",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"33",
+    "stars":"4",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4788772,43.4130187]
+    },
+    "properties": {
+    "business_id":"F7w2Oog07aWL0ZJi3YDS-w",
+    "name":"Hong Kong Seafood Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52301881,43.46340486]
+    },
+    "properties": {
+    "business_id":"FDKGQmZbP-4T_QVpbikdMw",
+    "name":"Zoup!",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4849732,43.4472061]
+    },
+    "properties": {
+    "business_id":"FdOzMmqDob-cpml62QmRDw",
+    "name":"Pupuseria Latinos",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.56125551,43.4357667]
+    },
+    "properties": {
+    "business_id":"fe4eDREGnGgxpdJDVR7yxw",
+    "name":"Coffee Culture",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5227689,43.4813358]
+    },
+    "properties": {
+    "business_id":"FecbmCg0LS8Yr7PZNk0Wiw",
+    "name":"Games on Tap Board Game Café",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.488745,43.4493844]
+    },
+    "properties": {
+    "business_id":"fi0T2Jrq2ZfK7EFmkMkW0Q",
+    "name":"Rainbow Caribbean Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5380519,43.472285]
+    },
+    "properties": {
+    "business_id":"fKIk6YXJVwz96vH89tLAcQ",
+    "name":"Morals Village",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4513095,43.4196543]
+    },
+    "properties": {
+    "business_id":"f-RzhOpsUu8-0Odieebn0w",
+    "name":"Fresh Burrito Mexican Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5265216,43.4842604]
+    },
+    "properties": {
+    "business_id":"fVOxPX70sxVApYJQr5G05Q",
+    "name":"New Asia Fast Food",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53806935,43.47223166]
+    },
+    "properties": {
+    "business_id":"fWiD6lxP6qsKFLmv040bNA",
+    "name":"Empire Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5196553,43.4777192]
+    },
+    "properties": {
+    "business_id":"FyKytV3WWoWqPWLWutYxYw",
+    "name":"Titos Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4944061,43.45150907]
+    },
+    "properties": {
+    "business_id":"FZaS-3nwO_PJs7xHBAio8Q",
+    "name":"The Guanaquita Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"50",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52632041,43.48473647]
+    },
+    "properties": {
+    "business_id":"G4DOzmqIj36ckJVJk4DJsw",
+    "name":"Harvey's Restaurants",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5218111,43.4630811]
+    },
+    "properties": {
+    "business_id":"G7v7qyn0R7VeSgzeNBaNAA",
+    "name":"GBS German Baked Specialties",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5387665,43.47229484]
+    },
+    "properties": {
+    "business_id":"GEA6enqtCYl0Ud2Bu_RKjw",
+    "name":"Phat Hat",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51010136,43.43837609]
+    },
+    "properties": {
+    "business_id":"GfbLQKV_dpvfA37KfGNVfA",
+    "name":"Quesada Burritos and Tacos",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.448766,43.433293]
+    },
+    "properties": {
+    "business_id":"gfQCJC3cyYDQ9-mK_uIFRA",
+    "name":"WingsUp!",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5323851,43.5025807]
+    },
+    "properties": {
+    "business_id":"GitvoU8mPOLieMiiw503rg",
+    "name":"Sushi 99",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"39",
+    "stars":"3.5",
+    "cuisine":"Japanese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51730389,43.47605336]
+    },
+    "properties": {
+    "business_id":"gSqErDgz-MRp9C0Sp4mwJg",
+    "name":"Angel's Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5406843,43.484638]
+    },
+    "properties": {
+    "business_id":"H_CQGmXaCBj3Qw-PZXswww",
+    "name":"Ming's Chinese Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5223045,43.4646939]
+    },
+    "properties": {
+    "business_id":"H2AhZbhQ9CJ66MjzpSh-1g",
+    "name":"Famoso Neapolitan Pizzeria",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"29",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5363124,43.472092]
+    },
+    "properties": {
+    "business_id":"HAVSQenQvIsNVpCigZw-5w",
+    "name":"Pizza Nova",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5257335,43.4773047]
+    },
+    "properties": {
+    "business_id":"hD7jwIBotMkXijCL8PpilQ",
+    "name":"CaliBurger",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4902234,43.448627]
+    },
+    "properties": {
+    "business_id":"HeZjAnSpfQ4-gVn_ZykZ9w",
+    "name":"Northern Thai",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"37",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.43903664,43.43315286]
+    },
+    "properties": {
+    "business_id":"HiyOTXRkGAACoa7itUOVRQ",
+    "name":"China Taste",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4909201,43.4505241]
+    },
+    "properties": {
+    "business_id":"hKmkXj_0IHrmmo36gOdskw",
+    "name":"Taste of Philly Cheesesteak",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53534758,43.47300611]
+    },
+    "properties": {
+    "business_id":"HNDzbJopEXjGn78LAKOhSA",
+    "name":"Kenzo Japanese Noodles House",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"32",
+    "stars":"3",
+    "cuisine":"Japanese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5303193,43.5031844]
+    },
+    "properties": {
+    "business_id":"hpMWllZfYKMTv8wM4QuZcA",
+    "name":"Keg Steakhouse & Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5188167,43.4655683]
+    },
+    "properties": {
+    "business_id":"HpWEdQR8lGree5jSdtGkMg",
+    "name":"Teremok Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4886641,43.4497835]
+    },
+    "properties": {
+    "business_id":"HRRD5U7TWHGOK_4lby461w",
+    "name":"Amaya Express Kitchener",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52544009,43.47687489]
+    },
+    "properties": {
+    "business_id":"Huhq4kBDZhTv9rDRB2rK2A",
+    "name":"Fat Bastard Burrito Co",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"16",
+    "stars":"3",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5355568,43.4729458]
+    },
+    "properties": {
+    "business_id":"hxIf6b7Z22qNsG4pY3Cx6A",
+    "name":"Sowon",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"3",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5220555,43.4646959]
+    },
+    "properties": {
+    "business_id":"hyBElfDr9soQ1IAxUAtmFg",
+    "name":"Cafe 22",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.389624,43.405947]
+    },
+    "properties": {
+    "business_id":"I62H1dALytJNg4woY5b8Yw",
+    "name":"Wendy's",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.432996,43.42898]
+    },
+    "properties": {
+    "business_id":"ICnVPbQaECS7vb4stmN17A",
+    "name":"Dels Enoteca Pizzeria",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4327628,43.4290777]
+    },
+    "properties": {
+    "business_id":"IcXqLqEdepAt_RuxKZnKvg",
+    "name":"Charcoal Steak House",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"36",
+    "stars":"3.5",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4940984,43.4514794]
+    },
+    "properties": {
+    "business_id":"-iErUyidzk-c02Od6GDG2w",
+    "name":"271 West",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"4.5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4910563,43.4504427]
+    },
+    "properties": {
+    "business_id":"IFHJGMV-vhNdj5oV5jlupw",
+    "name":"Ye's Sushi",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"33",
+    "stars":"2.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.538946,43.47182078]
+    },
+    "properties": {
+    "business_id":"IgzR6POabSODv_hURV5SOQ",
+    "name":"Nuri Village",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"34",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3966612,43.4069025]
+    },
+    "properties": {
+    "business_id":"IORqMMLjr0afaMKnt6tcig",
+    "name":"Modern India Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"21",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5931956,43.4707272]
+    },
+    "properties": {
+    "business_id":"IOzYHqgSj7MOBTjmGQX3tA",
+    "name":"Funny BBQ",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5235711,43.4635366]
+    },
+    "properties": {
+    "business_id":"IqIp3Dqvsb5VD6ClFZZkJw",
+    "name":"Thai Sun",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4793437,43.4315337]
+    },
+    "properties": {
+    "business_id":"iQJ7bvH3aA0H4Re03XkWRw",
+    "name":"Concordia Club",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4911879,43.455928]
+    },
+    "properties": {
+    "business_id":"Iy0ODOuWkzdwv_Y4xxNmgA",
+    "name":"Metro Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5228558,43.4652318]
+    },
+    "properties": {
+    "business_id":"iZ3mPsUct87y-yBGm_8CrQ",
+    "name":"Taco Farm",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"64",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3559723,43.3946203]
+    },
+    "properties": {
+    "business_id":"J0U20ivx1cliqmOHS8KRgg",
+    "name":"Fusion",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.395307,43.408465]
+    },
+    "properties": {
+    "business_id":"j9g--_irBzX0cwX0fu3v_A",
+    "name":"Moose Winooski's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"3.5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4843486,43.4692203]
+    },
+    "properties": {
+    "business_id":"JBu1kh-SIERKThPqIklwdg",
+    "name":"Kypreos Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.565162,43.44087]
+    },
+    "properties": {
+    "business_id":"jEOcq5m0y5IDohxgpRkfZw",
+    "name":"South Street Burger Company",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5374452,43.461748]
+    },
+    "properties": {
+    "business_id":"jkxZyisHsLsCLtY8IfKh5A",
+    "name":"L.A. Boil Seafood - Waterloo",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5225426,43.4665383]
+    },
+    "properties": {
+    "business_id":"jmCTyc_KgUsHpdZKBBTklQ",
+    "name":"Princess Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"4.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3962906,43.4077478]
+    },
+    "properties": {
+    "business_id":"JnZV9ZpkkSUENxmbSdqsTQ",
+    "name":"Pierogi House",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5179115,43.4531349]
+    },
+    "properties": {
+    "business_id":"JQDBnKXo-XziFQCOQxa8nw",
+    "name":"Janet Lynn's Bistro",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52763721,43.5026116]
+    },
+    "properties": {
+    "business_id":"JxyHe2llgblxn5JvA5BsMg",
+    "name":"Yummyaki Japanese Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52383132,43.46879097]
+    },
+    "properties": {
+    "business_id":"jYJ7RXA8qORygo2l11VN1g",
+    "name":"Empress of India",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4335254,43.4284856]
+    },
+    "properties": {
+    "business_id":"K-50BBoi1Sens8u36nBo-Q",
+    "name":"Miltons Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.536591,43.472091]
+    },
+    "properties": {
+    "business_id":"K9xE-w8JYXE9k4uYSdJVFQ",
+    "name":"Kismet Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"21",
+    "stars":"3",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5220724,43.4654191]
+    },
+    "properties": {
+    "business_id":"kdq8IpZHw_ehrZSXLIqcOg",
+    "name":"The Famous Owl Of Minerva Korean Restaurant & Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"37",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4305223,43.4555894]
+    },
+    "properties": {
+    "business_id":"kDz4lAf5KdftESXeBHJthQ",
+    "name":"Jumbo Dragon",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4883922,43.4483885]
+    },
+    "properties": {
+    "business_id":"kl9uNBM5K6IE1n6Pb7uMMA",
+    "name":"Downtown Crepe cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.489531,43.4492623]
+    },
+    "properties": {
+    "business_id":"kNNuKEOVQP8_5CWXj2jPxg",
+    "name":"Queen Street Commons Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52208163,43.46439537]
+    },
+    "properties": {
+    "business_id":"krdgHbil2McRJPB_WQ5fHQ",
+    "name":"King Street Trio",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"31",
+    "stars":"3.5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4820681,43.4466721]
+    },
+    "properties": {
+    "business_id":"KUwSpnFh274PNJn8P8HvGA",
+    "name":"Sushi Star",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53790962,43.472713]
+    },
+    "properties": {
+    "business_id":"LD5HgMFWBgmbP8L5oIHOaw",
+    "name":"Grab A Greek",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5247756,43.4770643]
+    },
+    "properties": {
+    "business_id":"LGLLC15YCxb4CByzzXMQMA",
+    "name":"The China Bowl",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.484322,43.4687616]
+    },
+    "properties": {
+    "business_id":"L-KgdXpFq_aSX0OGy5TmEA",
+    "name":"Public Kitchen & Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"23",
+    "stars":"4.5",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53706555,43.47249218]
+    },
+    "properties": {
+    "business_id":"lkRkcxD2rdifSTeHxmOT6A",
+    "name":"The Grill Burger Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5222337,43.4655488]
+    },
+    "properties": {
+    "business_id":"lmPFH4eyowWiX5Q1ttf7gw",
+    "name":"Hot Wheels Tea House",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5013825,43.453308]
+    },
+    "properties": {
+    "business_id":"lmU5VvjX8Xbc1BMb8fPDHw",
+    "name":"KW Korean Food Market",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5215754,43.4631816]
+    },
+    "properties": {
+    "business_id":"Lq-iJqgKjAl6-w0ogUtFwA",
+    "name":"The Works",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"39",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5461473,43.4550137]
+    },
+    "properties": {
+    "business_id":"LRnTluTKYF3Vsp-_f4-djQ",
+    "name":"Double Double Pizza & Chicken",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.428073,43.434352]
+    },
+    "properties": {
+    "business_id":"lw_wh0xLTKJYXnsIwo0vkQ",
+    "name":"Lin Hai Sushi",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53556686,43.47293495]
+    },
+    "properties": {
+    "business_id":"M6aafMDJtR8folbqGgcepg",
+    "name":"Mel's Diner",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"78",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.355435,43.3940089]
+    },
+    "properties": {
+    "business_id":"-m-6hfmsEfNKovsmBfK4cA",
+    "name":"Crazy Shawarma Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5250976,43.4837748]
+    },
+    "properties": {
+    "business_id":"mcFgalxlyOZw0bUZ0HYNNg",
+    "name":"KFC",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"2",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.47895813,43.41414642]
+    },
+    "properties": {
+    "business_id":"Mgccp4cEshs0qpUaSiDJIA",
+    "name":"Andy's Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5283258,43.4977272]
+    },
+    "properties": {
+    "business_id":"mlGFooQtqWXMnOdND2LbQw",
+    "name":"Bourbon St Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53623215,43.47263314]
+    },
+    "properties": {
+    "business_id":"mNyXXerIPD8Zer88YidV4w",
+    "name":"Almadina Egyptian Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"2.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4444652,43.4516523]
+    },
+    "properties": {
+    "business_id":"MPeKmMlWVBCXkKLjBgAZNw",
+    "name":"Pizza Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"4",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.50210813,43.40568007]
+    },
+    "properties": {
+    "business_id":"mwkdmPr053cHNBBwBHVWCA",
+    "name":"Lisboa Bakery & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.50161159,43.40515681]
+    },
+    "properties": {
+    "business_id":"MW-PC5Vpb9Gaq8cGxJ8Chg",
+    "name":"Williamsburg Arms",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"3.5",
+    "cuisine":"British",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4907162,43.4504201]
+    },
+    "properties": {
+    "business_id":"mwX9vBj0JlezKv1TVjhdPw",
+    "name":"Big Fat Pita",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4956966,43.4471282]
+    },
+    "properties": {
+    "business_id":"n_XFpY9QzupUUiJa0JF8Kw",
+    "name":"The Boathouse",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5005145,43.4500214]
+    },
+    "properties": {
+    "business_id":"n1osXUfz_Fv1N03xX96LPw",
+    "name":"Sing Lee Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5413197,43.4767552]
+    },
+    "properties": {
+    "business_id":"n9tzswbOPrdqoNlcWPRhtw",
+    "name":"Mambella's",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5506807,43.484303]
+    },
+    "properties": {
+    "business_id":"NBCOo5xh5wSE851HJHKzfQ",
+    "name":"Twin City Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.55793485,43.50949739]
+    },
+    "properties": {
+    "business_id":"NbyrgNMWwNJcZmxr3Gj61Q",
+    "name":"The Crazy Canuck",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5219981,43.4649897]
+    },
+    "properties": {
+    "business_id":"NCvNgK91IqtSub9JmH8H7g",
+    "name":"Crystal Palace Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5254079,43.4777702]
+    },
+    "properties": {
+    "business_id":"nDqeydIBH7I2BMuE_dxk-g",
+    "name":"Big Tex's Burgers & BBQ",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4491669,43.4205868]
+    },
+    "properties": {
+    "business_id":"NdY_W0KQIF2abwfSw_UVfw",
+    "name":"Harvey's Restaurants",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5380519,43.472285]
+    },
+    "properties": {
+    "business_id":"NIkRE72lwk-Fmp2Jr6xfew",
+    "name":"China Legend",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.39623847,43.40791508]
+    },
+    "properties": {
+    "business_id":"NKZl3NNtObpnPF7grstzpw",
+    "name":"Bombay Bhel",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3991116,43.4107049]
+    },
+    "properties": {
+    "business_id":"Nlnc6b4GLIKHy8jdMxUbtQ",
+    "name":"Mandarin Restaurant - Kitchener",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.535921,43.3520137]
+    },
+    "properties": {
+    "business_id":"NxIlkGWegkX1OjmOSVUGuw",
+    "name":"The New Dundee Emporium",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"7",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4810254,43.4591015]
+    },
+    "properties": {
+    "business_id":"nY21kL3VP8SJnId4MdoRYA",
+    "name":"Sam's Chinese Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"3.5",
+    "cuisine":"Dim Sum",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4877146,43.4506448]
+    },
+    "properties": {
+    "business_id":"OaaMudpf-T2OFpW1k7-2kg",
+    "name":"Bread Heads",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4620831,43.3964544]
+    },
+    "properties": {
+    "business_id":"OAQJI0rAx5-VwZnEvkzs9Q",
+    "name":"Rustic Slice",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52566595,43.47763158]
+    },
+    "properties": {
+    "business_id":"OArbu8-R2-Q42GeK-pXGYg",
+    "name":"Smoke's Poutinerie",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"24",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5189731,43.47796871]
+    },
+    "properties": {
+    "business_id":"ObjjaNoW5ka25Z7tgxVHFg",
+    "name":"Johnny Fresco",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.487995,43.45079674]
+    },
+    "properties": {
+    "business_id":"OcuL-nk29UVFGUU_TPl5iw",
+    "name":"Spice Tree Indian Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.518611,43.454122]
+    },
+    "properties": {
+    "business_id":"oGIM59fzVVKLMA5tRSBDZA",
+    "name":"Raja Fine Indian Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.519886,43.478765]
+    },
+    "properties": {
+    "business_id":"oHdA-zwQ2k_RzDIa6JaclA",
+    "name":"Sonny's Drive-In Limited",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5338427,43.5019785]
+    },
+    "properties": {
+    "business_id":"oKpZRrSqiqr5DzrYBlHfsw",
+    "name":"Ye's Buffet",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"2.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4924059,43.4493439]
+    },
+    "properties": {
+    "business_id":"OraAjmJ4wy52VezIR5czKg",
+    "name":"Transfers Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.3582264,43.3957925]
+    },
+    "properties": {
+    "business_id":"OT9beQMl26vCW2WQF5Ft5w",
+    "name":"The Fiddle & Firkin",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.538687,43.471747]
+    },
+    "properties": {
+    "business_id":"OWlG92z5xteWsVzIByRxfA",
+    "name":"Harvey's Restaurants",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5135767,43.4361617]
+    },
+    "properties": {
+    "business_id":"P_GNbckNEu0l-scLRjPIqg",
+    "name":"Red Ginger Modern Thai & Viet cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.523219,43.466999]
+    },
+    "properties": {
+    "business_id":"p3PrAbM6GkPkUXcp0FouNQ",
+    "name":"Cafe 1842",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5187658,43.459564]
+    },
+    "properties": {
+    "business_id":"P4doxt_O6a3cWcaX5bhT2w",
+    "name":"Thrive Energy Lab",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5211699,43.42439998]
+    },
+    "properties": {
+    "business_id":"p9SQ16k3KSZI7KO4xGHDgQ",
+    "name":"BarBurrito",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.523331,43.466627]
+    },
+    "properties": {
+    "business_id":"PAKFTqXk-pkqE6JOhVnlkg",
+    "name":"Jane Bond Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.50601583,43.44072238]
+    },
+    "properties": {
+    "business_id":"PatS8JBdNF5wS5j5HOu1rA",
+    "name":"McMullans On Highland",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4645136,43.4391999]
+    },
+    "properties": {
+    "business_id":"pGGvJTENMujDfrXhAmweOA",
+    "name":"Leung Yue Hot Pot",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5230569,43.4682298]
+    },
+    "properties": {
+    "business_id":"PMClMEobREkuwxzxiaVIMw",
+    "name":"Harmony Lunch",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5067663,43.4401506]
+    },
+    "properties": {
+    "business_id":"pNKBJpX6I7S7U_qBXOSNAQ",
+    "name":"Muya Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.45122931,43.41640085]
+    },
+    "properties": {
+    "business_id":"PS2vBk61vgCUcrNCU9vTdw",
+    "name":"Nostra Cucina",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"8",
+    "stars":"5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51139137,43.41545078]
+    },
+    "properties": {
+    "business_id":"PwlTG5rzh-xefcVhYqDm2Q",
+    "name":"Pho dau Bo",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"2.5",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5274971,43.4980824]
+    },
+    "properties": {
+    "business_id":"pwsXyKGJnLRZB4kNkdM97g",
+    "name":"Feta & Olives Mediterranean Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5183238,43.4538467]
+    },
+    "properties": {
+    "business_id":"Q3HGr2xfKunPCMp_rIDHTA",
+    "name":"Checkerboard Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53833433,43.4715605]
+    },
+    "properties": {
+    "business_id":"qb55mu06oq9RpKNny8xkoQ",
+    "name":"East Side Mario's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"21",
+    "stars":"2",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53918532,43.47221348]
+    },
+    "properties": {
+    "business_id":"qinff4BZ55Ci0LC27HrJNA",
+    "name":"Mongolian Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"2",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5298676,43.476461]
+    },
+    "properties": {
+    "business_id":"QLwdBJFNtwB6oAEqEhF6lg",
+    "name":"Bogda",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5257335,43.4773047]
+    },
+    "properties": {
+    "business_id":"qm4mo4XqntQAIXGh8V9NDQ",
+    "name":"Sakura Island Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53811643,43.47218917]
+    },
+    "properties": {
+    "business_id":"qOQotJKhbqstpVWkgeLWnA",
+    "name":"Campus Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"19",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.528095,43.474541]
+    },
+    "properties": {
+    "business_id":"QQGiy_9IFMk_KMHl6Evcbg",
+    "name":"Veritas Café",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4363464,43.4302141]
+    },
+    "properties": {
+    "business_id":"qvBSGEMA_BOx_0GpD-Nw-w",
+    "name":"The Bent Elbow",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"4",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53785136,43.47224184]
+    },
+    "properties": {
+    "business_id":"qwuP41JaUOTDeexrfGGU9Q",
+    "name":"Subway",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"2",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4843976,43.4796303]
+    },
+    "properties": {
+    "business_id":"qYkr0d-tt-y9BHmofQ2jEw",
+    "name":"The Lancaster Smokehouse",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"75",
+    "stars":"4.5",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.521769,43.479372]
+    },
+    "properties": {
+    "business_id":"r0TbVJL9ZuFLrm83wZroMg",
+    "name":"Swiss Chalet Rotisserie & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.49323809,43.45120447]
+    },
+    "properties": {
+    "business_id":"r4P8bKmZVl-0Hs0G2hT_Mg",
+    "name":"Kinkaku Izakaya",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"125",
+    "stars":"4",
+    "cuisine":"Japanese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4895253,43.4498147]
+    },
+    "properties": {
+    "business_id":"RfvJjvbC8r-lQ2EfdCU_MQ",
+    "name":"TWH Social",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4833476,43.4248645]
+    },
+    "properties": {
+    "business_id":"rGtwmUTDCpGkFCqNszJ-_w",
+    "name":"McDonald's",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5109191,43.4379818]
+    },
+    "properties": {
+    "business_id":"rKSqKvxRkv246qCqDTAajA",
+    "name":"Joey's Seafood Restaurants",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4378232,43.4311344]
+    },
+    "properties": {
+    "business_id":"rMocHMbMnGrliwY73t-PJw",
+    "name":"Bangkok Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4854713,43.44836]
+    },
+    "properties": {
+    "business_id":"RyQpNjDVNRu6M4tKnjXPxQ",
+    "name":"Deli Banh Mi Givral",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"16",
+    "stars":"4.5",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4138543,43.3867629]
+    },
+    "properties": {
+    "business_id":"s2-DzGfWm0CZ6sQPN1fsnA",
+    "name":"McDonald's",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"2",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.411922,43.387164]
+    },
+    "properties": {
+    "business_id":"si8CU5aavaqWeQ-HPCyB5A",
+    "name":"Mango King",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5031801,43.5410635]
+    },
+    "properties": {
+    "business_id":"sj3K8pzLRzTpYn9JSp3-Bg",
+    "name":"Rumbletum Cafe & Gifts",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53860741,43.47237192]
+    },
+    "properties": {
+    "business_id":"SsV9YH7aPh7PePHNjLg62Q",
+    "name":"Williams Fresh Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4917302,43.4503865]
+    },
+    "properties": {
+    "business_id":"T_SC3uAl6-_uK1hP_6Fetg",
+    "name":"Bobby O'Brien's Irish Pub",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5380519,43.472285]
+    },
+    "properties": {
+    "business_id":"TFXi2C_O5FYLoVXEANJC8A",
+    "name":"Mr Panino",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.40020544,43.40855178]
+    },
+    "properties": {
+    "business_id":"tHJW1FLXNpY1gbSnBcc_7g",
+    "name":"Pho Bistro",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.428049,43.433952]
+    },
+    "properties": {
+    "business_id":"Tj75bw6qjYXxoAFEF5uXTw",
+    "name":"Tito's Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5333899,43.4723301]
+    },
+    "properties": {
+    "business_id":"tQE90HfSD2_zzc9REODB_A",
+    "name":"VanDijk Fish Co",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4862708,43.4485888]
+    },
+    "properties": {
+    "business_id":"TSveSFuF-wQ6ksYc_U2ikQ",
+    "name":"Shinla Garden",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4598546,43.42192445]
+    },
+    "properties": {
+    "business_id":"TVcPzNcF7M_HNBQhjVfv_w",
+    "name":"Pisa Pizzeria",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.522773,43.4638688]
+    },
+    "properties": {
+    "business_id":"TXpblNI207D-ddLzTGnU_w",
+    "name":"Cora's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4952468,43.4519271]
+    },
+    "properties": {
+    "business_id":"TyWhulwEZaHZUAXYDI4IRg",
+    "name":"Golden Turtle Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5406843,43.484638]
+    },
+    "properties": {
+    "business_id":"u0wY6ffKnBs5JNJgGmIG7Q",
+    "name":"Koh I-Noor Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5232652,43.4692451]
+    },
+    "properties": {
+    "business_id":"U1oOuZI2Hyo7bnLBvCcQ3Q",
+    "name":"Ethel's Lounge",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"26",
+    "stars":"3.5",
+    "cuisine":"Tex-Mex",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.44813692,43.41969414]
+    },
+    "properties": {
+    "business_id":"U6imYsdxFHspz8jnD4-XnA",
+    "name":"Kelsey's",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53118,43.502488]
+    },
+    "properties": {
+    "business_id":"U7PiSfu-xOvNVRXKqNOgAA",
+    "name":"Ben Thanh",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"74",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4830766,43.4473992]
+    },
+    "properties": {
+    "business_id":"u9Ns-n_3zaZItaAbxjMidQ",
+    "name":"Nova Era Bakery",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.484565,43.42381]
+    },
+    "properties": {
+    "business_id":"udYZ82zdbH_0Lh-SihLs1w",
+    "name":"Cora's Breakfast & Lunch",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4887735,43.4230171]
+    },
+    "properties": {
+    "business_id":"uRDAqWkQFhG8hQo2winZUA",
+    "name":"Fireside Deli & Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.518259,43.47822]
+    },
+    "properties": {
+    "business_id":"UUcZWaHzU30B7EtKaxDllA",
+    "name":"Pizza Hut",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53630829,43.4748473]
+    },
+    "properties": {
+    "business_id":"uVNhjZbAjraiidicvedEnQ",
+    "name":"Waterloo Sogo Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"31",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4949934,43.4515061]
+    },
+    "properties": {
+    "business_id":"UwgraS9kAhFd2S3HAjj71Q",
+    "name":"Pure Juice Bar + Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.498612,43.52149]
+    },
+    "properties": {
+    "business_id":"V_3hILchLhO05J7BYkNaUg",
+    "name":"Levetto",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.520759,43.4768671]
+    },
+    "properties": {
+    "business_id":"V0-zOhvwpPxU4u7aVqSG0w",
+    "name":"WingsUp!",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5252519,43.4766504]
+    },
+    "properties": {
+    "business_id":"v5xwwjS89KjOREvZdOUoPg",
+    "name":"itamae AYCE Sushi",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"2.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4378024,43.4313627]
+    },
+    "properties": {
+    "business_id":"vCJjshlJ8Vd3__u34SFw9Q",
+    "name":"Wimpy's Diner",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4604412,43.4379383]
+    },
+    "properties": {
+    "business_id":"vExZVaP_FNWDaY_Bv6YuXA",
+    "name":"Red Lobster",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5257335,43.4773047]
+    },
+    "properties": {
+    "business_id":"vHCaC8ra1OIVzPqKWh7wPQ",
+    "name":"Quick Sandwiches",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.524968,43.505171]
+    },
+    "properties": {
+    "business_id":"Vhv2KNJVPYykv7IPQv0MRw",
+    "name":"Classic Indian Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"4",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52925057,43.50376245]
+    },
+    "properties": {
+    "business_id":"VKjRWRdiylULbeaMaa4-Zw",
+    "name":"The Daily Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52286609,43.46640839]
+    },
+    "properties": {
+    "business_id":"Vm4trze7_NxhoHfeZ6ebKg",
+    "name":"White Rabbit",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5183849,43.4538437]
+    },
+    "properties": {
+    "business_id":"VMUjD1RfidHMBeYrWJkd6w",
+    "name":"Casa Rugantino",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5276539,43.4866257]
+    },
+    "properties": {
+    "business_id":"voJwYWjdoiJABZGVKLe_5g",
+    "name":"Wildcraft",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"47",
+    "stars":"3.5",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5232455,43.46775513]
+    },
+    "properties": {
+    "business_id":"VtzLN7EutL4O9X-fVfXRQw",
+    "name":"The Pub On King",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51864785,43.47813546]
+    },
+    "properties": {
+    "business_id":"VUstF8iT9BSwQ-gN-gHXEQ",
+    "name":"Popeye's Chicken",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"2.5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.524143,43.464582]
+    },
+    "properties": {
+    "business_id":"Vz2bGRrQ1mOjOR6lcaw7Kg",
+    "name":"Angie's Waterloo",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"36",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5256905,43.4770992]
+    },
+    "properties": {
+    "business_id":"Vz4Zan4bV_S7PUAOsKzvOw",
+    "name":"Freshii",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5536705,43.5386529]
+    },
+    "properties": {
+    "business_id":"W1YUWp3SUsKrv05HC1i4CA",
+    "name":"Stone Crock",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4868599,43.450476]
+    },
+    "properties": {
+    "business_id":"wbzpgqC-SF-hPL-3HzdARw",
+    "name":"Exclamation",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"4.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52577913,43.47610538]
+    },
+    "properties": {
+    "business_id":"WCnD3K16HbrEPg7_WZXa_Q",
+    "name":"Frat Burger",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"30",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5256905,43.4770992]
+    },
+    "properties": {
+    "business_id":"wfFZ48Ix8kdGfNGJUuDRSA",
+    "name":"Village Shawarma",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4922923,43.4538736]
+    },
+    "properties": {
+    "business_id":"wGcqfkHwQ5HJogSbGDZbFw",
+    "name":"Two Goblets Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.492957,43.454132]
+    },
+    "properties": {
+    "business_id":"WjsGAffrtEcS_UPWUOCFxA",
+    "name":"Pepi's Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"2.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5358275,43.47424731]
+    },
+    "properties": {
+    "business_id":"WjYHY3AfycS19EeNmeV8zQ",
+    "name":"Pho-Nomenom Restaurant Vietnamese & Thai Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"2",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5375756,43.47280754]
+    },
+    "properties": {
+    "business_id":"WKiZiAwKrF81YcfAjnOSjA",
+    "name":"Bubble Tease Resto Bar Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"2.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5243892,43.4752375]
+    },
+    "properties": {
+    "business_id":"wKSupdOGziF7c4ZzvQpfug",
+    "name":"Raintree Cafe",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4923337,43.4893406]
+    },
+    "properties": {
+    "business_id":"wR7XYeVVTi6vAQN9FLoC_A",
+    "name":"Mediterraneo Family Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"21",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5283258,43.4977272]
+    },
+    "properties": {
+    "business_id":"wzdDv1Hb-MpY7nl9N30y7Q",
+    "name":"Spring Rolls",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"33",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4586875,43.4668143]
+    },
+    "properties": {
+    "business_id":"X8r7YNA2EzoTUUUV8Nn6jw",
+    "name":"Casey's Bar and Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.48989903,43.45000544]
+    },
+    "properties": {
+    "business_id":"xbvvyaN3YURSnGAJoM1ezw",
+    "name":"The Berlin",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"22",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5213112,43.462357]
+    },
+    "properties": {
+    "business_id":"xcvXcRBNUB6WM26oBqKLJA",
+    "name":"Wildfire Steakhouse & Wine Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.549031,43.5120396]
+    },
+    "properties": {
+    "business_id":"XeR6gJVyw0cA_2O56ra3pQ",
+    "name":"Arby's",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5934282,43.4727988]
+    },
+    "properties": {
+    "business_id":"XF-CBezQb9-pM6WnZjp_RA",
+    "name":"Twice the Deal Pizza",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5380519,43.472285]
+    },
+    "properties": {
+    "business_id":"XI605V-ZprXEMhFzGkpkaQ",
+    "name":"Home Garden Taste of Taiwan",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"19",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4405146,43.4714851]
+    },
+    "properties": {
+    "business_id":"XiFUp_iUjBkUuc66aejbRQ",
+    "name":"Tim Hortons",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5355568,43.4729458]
+    },
+    "properties": {
+    "business_id":"xIju4RdGQ9waB_E6E1DCAg",
+    "name":"The Pita Pit",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"2",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5257335,43.4773047]
+    },
+    "properties": {
+    "business_id":"XivYHEauoBk4Va9HjEmVsQ",
+    "name":"Jia Jia Lok Chinese Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"14",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5183314,43.4537642]
+    },
+    "properties": {
+    "business_id":"XL9zBtRNlIe-ZGXyCjzTzw",
+    "name":"The Belmont",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53118,43.502488]
+    },
+    "properties": {
+    "business_id":"xYS5aeNAxxfBGUnxBQpNMw",
+    "name":"Q Bbq & Burger",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5640846,43.4387751]
+    },
+    "properties": {
+    "business_id":"y_lvJvG2hj8UNCKu6AuF1w",
+    "name":"Montana's BBQ & Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5222308,43.4653383]
+    },
+    "properties": {
+    "business_id":"y0pmoFzlKOhozDmJPQYNcA",
+    "name":"Symposium Café Restaurant & Lounge - Waterloo",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"47",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.510377,43.415803]
+    },
+    "properties": {
+    "business_id":"y2aSun6l7fzZljOCFT6k0A",
+    "name":"Wild Wing",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"2.5",
+    "cuisine":"Chicken Wings",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4552956,43.4661649]
+    },
+    "properties": {
+    "business_id":"y4gugUPFULlGwC3DoWhKqQ",
+    "name":"Swiss Chalet Rotisserie & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.48394084,43.42375955]
+    },
+    "properties": {
+    "business_id":"Y7utXTGESvkNExT6nr2MWw",
+    "name":"Chicago",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"2",
+    "cuisine":"Chicken Wings",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.520759,43.4768671]
+    },
+    "properties": {
+    "business_id":"YaTVcicMEGa3F8v5clzL1w",
+    "name":"Holy Guacamole Fresh Mex",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.392713,43.40917046]
+    },
+    "properties": {
+    "business_id":"YF3EjAHiqfqc_p4p9LXs0w",
+    "name":"Ye's Sushi",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53817979,43.47257126]
+    },
+    "properties": {
+    "business_id":"yfpixV5IGLY6uezjNiM7Ng",
+    "name":"The Pita Factory",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"20",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4951934,43.4517986]
+    },
+    "properties": {
+    "business_id":"YlUdUuJ9TWzLNaexcHmzjA",
+    "name":"Rana Döner Kebabs",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.36827474,43.40035126]
+    },
+    "properties": {
+    "business_id":"YLX7g6tyRMRpkAwzSUtsyA",
+    "name":"Riverside Fish Hut",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.52986797,43.4764611]
+    },
+    "properties": {
+    "business_id":"ynAlJyFhiq1fImUEZ6u6Gw",
+    "name":"Bao Sandwich Bar",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"83",
+    "stars":"4.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5955682,43.4708396]
+    },
+    "properties": {
+    "business_id":"yOjq1mnoAtR2D7UU7gOSKA",
+    "name":"Wild Wing",
+    "city":"Waterloo",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"2",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4904612,43.4503123]
+    },
+    "properties": {
+    "business_id":"yTilp8T2v_dZmNJQHbRoHw",
+    "name":"Zoup!",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4946334,43.45157574]
+    },
+    "properties": {
+    "business_id":"YUWz0bf2DgKBb4afHrt3Ig",
+    "name":"Gilt Restaurant",
+    "city":"Waterloo",
+    "attributes.Price Range":"3",
+    "review_count":"16",
+    "stars":"4",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5608444,43.4357503]
+    },
+    "properties": {
+    "business_id":"Z44PflK_OUA7P3eyT0PGQg",
+    "name":"Almadina Woodstone Oven & Grill",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4317595,43.4566835]
+    },
+    "properties": {
+    "business_id":"Z4UuyC0XJTNQ3bAlluOY9g",
+    "name":"Casey's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Canadian (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.51949298,43.47695607]
+    },
+    "properties": {
+    "business_id":"Z6J6n1X-MMg42gLtJW60uA",
+    "name":"Wendy's",
+    "city":"Waterloo",
+    "attributes.Price Range":"4",
+    "review_count":"4",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5262205,43.4876796]
+    },
+    "properties": {
+    "business_id":"zD_0Ubr8kY7vGIwxKZCZZw",
+    "name":"East Side Mario's",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.538645,43.471733]
+    },
+    "properties": {
+    "business_id":"zEJxugenoiGFQ_ZZUVPnAw",
+    "name":"Chen's Oriental Cuisine",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"29",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.4944781,43.4514307]
+    },
+    "properties": {
+    "business_id":"ZEztzi5cbAevZ6chnC8YAA",
+    "name":"Union Burger",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.5067343,43.4407758]
+    },
+    "properties": {
+    "business_id":"zIML0MERIGOwRlLqXltssw",
+    "name":"Highland Halal Shawarma",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"4.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.53730613,43.47217511]
+    },
+    "properties": {
+    "business_id":"zK-Z88fJYTMIsS--2gfJsg",
+    "name":"Aunty's Kitchen",
+    "city":"Waterloo",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-80.49303939,43.45018539]
+    },
+    "properties": {
+    "business_id":"z-yyekxuq1d3Aix9x9mubg",
+    "name":"Kavabean Bistro",
+    "city":"Waterloo",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+]
+}

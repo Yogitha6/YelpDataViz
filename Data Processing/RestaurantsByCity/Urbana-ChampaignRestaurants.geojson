@@ -1,0 +1,3509 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2384807,40.1147989]
+    },
+    "properties": {
+    "business_id":"_dOcOVjrFcIKbMWX1VTdBA",
+    "name":"Fiesta Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"44",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.209562,40.112708]
+    },
+    "properties": {
+    "business_id":"_FAKUOcKi8PoztprX95oGw",
+    "name":"A Plus VIP Lounge",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2272456,40.109387]
+    },
+    "properties": {
+    "business_id":"_fcrxqrOkoC7R-p0pbPDrg",
+    "name":"Qdoba",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.20768925,40.11381822]
+    },
+    "properties": {
+    "business_id":"_rrWTz0W1K_eWafh-8r3fA",
+    "name":"Black Dog Smoke & Ale House",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"662",
+    "stars":"4.5",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2311675,40.1105579]
+    },
+    "properties": {
+    "business_id":"05FJCAvUFOAk8B_nIOqt7A",
+    "name":"Legends",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"65",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.208652,40.111959]
+    },
+    "properties": {
+    "business_id":"0a4lX5VhCXJOwe-idxnVbw",
+    "name":"Sitara",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"135",
+    "stars":"4",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2080393,40.1122506]
+    },
+    "properties": {
+    "business_id":"-0GkcDiIgVm0XzDZC8RFOg",
+    "name":"Crane Alley",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"140",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.197784,40.128807]
+    },
+    "properties": {
+    "business_id":"0kRBRm5xOWclzemsLl9iQA",
+    "name":"Hickory River Smokehouse",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"75",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.244967,40.118535]
+    },
+    "properties": {
+    "business_id":"0lFRJ0q1PU_R4YaLNRWnpA",
+    "name":"Nitaya Thai Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"49",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.240506,40.109988]
+    },
+    "properties": {
+    "business_id":"0mLadTWoDC6K_NFLMe29mA",
+    "name":"K-Bowl",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"45",
+    "stars":"4",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.246188,40.0856319]
+    },
+    "properties": {
+    "business_id":"0P0XckSv_2_ZNKoYlhT4Gw",
+    "name":"Culver's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.242964,40.116869]
+    },
+    "properties": {
+    "business_id":"1A_4WE4hdpdU3pG6PWUOVw",
+    "name":"Pizzeria Antica",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"62",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.245852,40.0949565]
+    },
+    "properties": {
+    "business_id":"1d5XAAH39FKenV3_9gcFIw",
+    "name":"Steak 'n Shake",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"34",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.229192,40.1113]
+    },
+    "properties": {
+    "business_id":"-1oj6-fkP-iO6OyW8QBqPg",
+    "name":"Jerusalem Middle Eastern Cuisine",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"42",
+    "stars":"3.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2317829,40.109713]
+    },
+    "properties": {
+    "business_id":"1T2rnvl67Gk9Uc0gzsCKQA",
+    "name":"Joe's Brewery",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"36",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.233544,40.110474]
+    },
+    "properties": {
+    "business_id":"1tK0k-vRgGFC3oSZNUJ58Q",
+    "name":"Bombay Indian Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"76",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1925483,40.1050134]
+    },
+    "properties": {
+    "business_id":"27q7XsLrKPNwr8i5RcCOvQ",
+    "name":"Boomerang's Bar & Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22085,40.11634]
+    },
+    "properties": {
+    "business_id":"2g4mMfy5COvUlzZWfuQkKQ",
+    "name":"Taco Bell",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.222501,40.108]
+    },
+    "properties": {
+    "business_id":"2M-UBKKG7DyAXcvGLwNH2w",
+    "name":"Intermezzo Café",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2470018,40.0865554]
+    },
+    "properties": {
+    "business_id":"2SycDjGWWpFs1ODL-YBoHA",
+    "name":"Biaggi's Ristorante Italiano",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"160",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2427068,40.1169853]
+    },
+    "properties": {
+    "business_id":"2UAbUSTMsR9G26A8AYO3dA",
+    "name":"Sam's Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"80",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.21977,40.116138]
+    },
+    "properties": {
+    "business_id":"4PatE4TUcea0Dj0hKICGJw",
+    "name":"Einstein Bros Bagels",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.197063,40.111024]
+    },
+    "properties": {
+    "business_id":"4UG9uGnByKgoiuVpC0DthA",
+    "name":"Tang Dynasty",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2452215,40.1369071]
+    },
+    "properties": {
+    "business_id":"562AuYjOuZwtTbS1UYhY6Q",
+    "name":"Alexander's Steakhouse",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"53",
+    "stars":"3",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2351429,40.110039]
+    },
+    "properties": {
+    "business_id":"5CKtgK5jb0wX0LGs3JthEw",
+    "name":"Wingin Out",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"29",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2328394,40.1160086]
+    },
+    "properties": {
+    "business_id":"5FPsw0_mNhylWujmJHseCQ",
+    "name":"Golden Wok",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"86",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2325689,40.1102881]
+    },
+    "properties": {
+    "business_id":"5RGl0_k489Q8vfr7spyDmQ",
+    "name":"Burrito King At Torticas",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23669,40.110524]
+    },
+    "properties": {
+    "business_id":"6AHfkdtpx7yLOFetI38gHQ",
+    "name":"Chopstix",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"50",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2326799,40.1104308]
+    },
+    "properties": {
+    "business_id":"-6GmhSnM8D48JtJkxVAmbA",
+    "name":"Burrito King",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.247837,40.086902]
+    },
+    "properties": {
+    "business_id":"6HKjKhgDLBpuZFNBOCzVQw",
+    "name":"Le Peep Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"91",
+    "stars":"3.5",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2435916,40.1374307]
+    },
+    "properties": {
+    "business_id":"6LtZI1tpMHPZv5nVHAF6rA",
+    "name":"McDonald's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"1.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.232373,40.110554]
+    },
+    "properties": {
+    "business_id":"6M1F5AECDtWff1Tu3uLEWA",
+    "name":"Empire Chinese Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"39",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2283044,40.1108681]
+    },
+    "properties": {
+    "business_id":"6Ori-rHJC0lJ6uEt4D_Lkw",
+    "name":"Sushi Ichiban",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"40",
+    "stars":"3",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24151398,40.11774191]
+    },
+    "properties": {
+    "business_id":"6U94ybDpNd0fTL7TIzb5Kg",
+    "name":"Jupiter's Pizzeria and Billiards",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"86",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.228907,40.1113654]
+    },
+    "properties": {
+    "business_id":"6UftUvNBqANqybf8wpWeNA",
+    "name":"Ambar India",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"44",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.230064,40.10959]
+    },
+    "properties": {
+    "business_id":"7QyBU6vqp1R9JnZYfPtNPQ",
+    "name":"Woori Jib Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"70",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.227253,40.109243]
+    },
+    "properties": {
+    "business_id":"8LCPOZXh_yvigEOWg0ZR2g",
+    "name":"Sushi San",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2217353,40.1065482]
+    },
+    "properties": {
+    "business_id":"8RP_A9rBaDRMQUwNYSl7YA",
+    "name":"Basil Thai Urbana",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"78",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2218027,40.1065109]
+    },
+    "properties": {
+    "business_id":"9nmeU-OOyxkn8vRy5dolNg",
+    "name":"Caffebene",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"48",
+    "stars":"2.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2454984,40.0956999]
+    },
+    "properties": {
+    "business_id":"9SFWEreW7wAXB3zYu28r_Q",
+    "name":"Hardee's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24448,40.101522]
+    },
+    "properties": {
+    "business_id":"a4JU2JqAbT0p8_A8s_v8Kw",
+    "name":"Meatheads",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"120",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2426687,40.1171251]
+    },
+    "properties": {
+    "business_id":"AB5RgQ0ZnMThdqgFS3cPuw",
+    "name":"Radio Maria",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"241",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.205811,40.1167919]
+    },
+    "properties": {
+    "business_id":"AjgLxtP_cejKAlw3GmXpsQ",
+    "name":"Po' Boys Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2438559,40.119807]
+    },
+    "properties": {
+    "business_id":"Aln3dngHMyG6OyPBe7fucw",
+    "name":"Wedge Tequila Bar & Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"91",
+    "stars":"3",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2462073,40.0991265]
+    },
+    "properties": {
+    "business_id":"amHyyeQJ7Q8k8jTw_miXLw",
+    "name":"Hilton Garden Inn",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"3.5",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.211,40.1163]
+    },
+    "properties": {
+    "business_id":"AodYROfPTfYuRAL4f_dTdg",
+    "name":"KFC",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2432482,40.1170088]
+    },
+    "properties": {
+    "business_id":"bcW-OuYklAXeEZWBgc7TaA",
+    "name":"Pekara Bakery and Bistro",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"124",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2438816,40.1190386]
+    },
+    "properties": {
+    "business_id":"BikDzi8YhQkTJP_nAGOEUA",
+    "name":"Dublin O'Neil's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"106",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2236278,40.1066554]
+    },
+    "properties": {
+    "business_id":"bkbOmsZ9cOggOnpKsxOyiQ",
+    "name":"The Bread Company",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"101",
+    "stars":"3.5",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22563461,40.11089981]
+    },
+    "properties": {
+    "business_id":"BYqyxLaW9aIQ07BRs-Khrw",
+    "name":"Shanghai 1938",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"1",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2433829,40.1164204]
+    },
+    "properties": {
+    "business_id":"cab8Jri_Zdz2487hG5em6w",
+    "name":"Dragon Fire Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"21",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2404819,40.1097873]
+    },
+    "properties": {
+    "business_id":"caK31Iq3TClNCRB9WH9lhQ",
+    "name":"Mirsung",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2431919,40.117237]
+    },
+    "properties": {
+    "business_id":"CcsJm10_5ULE0j41DkcQ6g",
+    "name":"V Picasso",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"3",
+    "review_count":"59",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.220314,40.116138]
+    },
+    "properties": {
+    "business_id":"cF2s9dlQ0ZiSDUdH-odoKQ",
+    "name":"Dairy Queen",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.225188,40.106704]
+    },
+    "properties": {
+    "business_id":"cmLB5X26RJXWdZ2qrS5KOg",
+    "name":"The Red Herring Vegetarian Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"48",
+    "stars":"4",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2458799,40.09183867]
+    },
+    "properties": {
+    "business_id":"CRgeCxjrOrAqW3x_bt7e8g",
+    "name":"Pancheros Mexican Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2395746,40.1100704]
+    },
+    "properties": {
+    "business_id":"cT9uP_Lr5bz6jhIqZPlLcw",
+    "name":"El Charro",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"46",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2412504,40.1166102]
+    },
+    "properties": {
+    "business_id":"Cu4WjKd2EZ-b5PxPXyH9EA",
+    "name":"Kato's Cajun",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2004115,40.1242205]
+    },
+    "properties": {
+    "business_id":"CyS-v4frMGcXeDIl2sZtqQ",
+    "name":"Domino's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.243173,40.138507]
+    },
+    "properties": {
+    "business_id":"d1ZT8gm7MTNHipyHEphKYA",
+    "name":"Panera Bread",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"25",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.229804,40.110039]
+    },
+    "properties": {
+    "business_id":"D7ENnY6AzeFxlhNfnVH54w",
+    "name":"Pho Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"32",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.241292,40.112114]
+    },
+    "properties": {
+    "business_id":"DB5rZ9spvyhBJsqOwckncw",
+    "name":"South China Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2443626,40.118742]
+    },
+    "properties": {
+    "business_id":"DjJS8vJXzmpwMUEAcxCexg",
+    "name":"301 Mongolia",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"53",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.208633,40.116262]
+    },
+    "properties": {
+    "business_id":"dJO8yBh-GIIn1vl9MDSX3A",
+    "name":"Windy City Express",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24393324,40.11839264]
+    },
+    "properties": {
+    "business_id":"dnRzZsej_I1URXYqEGGm7w",
+    "name":"Miga",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"3",
+    "review_count":"81",
+    "stars":"4",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2246853,40.1047765]
+    },
+    "properties": {
+    "business_id":"DntkMrzlbFPdOdxJtEWLBw",
+    "name":"Bevier Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"23",
+    "stars":"4",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2458532,40.1399247]
+    },
+    "properties": {
+    "business_id":"doCqqCuoDsIQYDSY2gkUtQ",
+    "name":"Za's Italian Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"30",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2088348,40.1137608]
+    },
+    "properties": {
+    "business_id":"dvO4zlxg3GoK_CiqbvtxbQ",
+    "name":"Masijta Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"57",
+    "stars":"4",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.198592,40.133231]
+    },
+    "properties": {
+    "business_id":"DWZ1_iy-cTeehK5FTiqH-g",
+    "name":"Steak 'n Shake",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"1.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.231538,40.108761]
+    },
+    "properties": {
+    "business_id":"ec1gbPLxYhUYDu_1h4c7dQ",
+    "name":"Cafe Sababa",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"5",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2447937,40.0996476]
+    },
+    "properties": {
+    "business_id":"efJQBC6yfKzUvn0Fk08vbw",
+    "name":"Cactus Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"44",
+    "stars":"4",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22906041,40.11122037]
+    },
+    "properties": {
+    "business_id":"EJCIIIy4RghSG3Blsg9BrA",
+    "name":"Cravings",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"121",
+    "stars":"4",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2290979,40.1105984]
+    },
+    "properties": {
+    "business_id":"ekRwCkp1nS1hsbXLAOiPzw",
+    "name":"Panda Express",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2030631,40.1134464]
+    },
+    "properties": {
+    "business_id":"eKzME8Ax_RHe1f0YmXD8tg",
+    "name":"China Garden",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"15",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2194171,40.1055528]
+    },
+    "properties": {
+    "business_id":"elwuxXreWA3IVAW5qNOw3g",
+    "name":"Jimmy John's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2459946,40.0929439]
+    },
+    "properties": {
+    "business_id":"ey7-ihj-OjM4sEOwWTc06Q",
+    "name":"Atlanta Bread",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"47",
+    "stars":"3",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2315641,40.1092381]
+    },
+    "properties": {
+    "business_id":"Fb3Pl0PO_ojEyChkM_SApA",
+    "name":"Fat Sandwich Company",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"77",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2296889,40.110041]
+    },
+    "properties": {
+    "business_id":"fREkmfcmiusbDkXDKRit3g",
+    "name":"Mashawi Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"63",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.221653,40.106437]
+    },
+    "properties": {
+    "business_id":"fXpuT4mNzxzUZbt--vqzIg",
+    "name":"Subway",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"2",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.205811,40.1167919]
+    },
+    "properties": {
+    "business_id":"fxYiDAxCK33ANk8-QemInA",
+    "name":"Rainbow Garden",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"30",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2304288,40.1114257]
+    },
+    "properties": {
+    "business_id":"fYE54FZCIFYYdFs-AkqRuw",
+    "name":"Flat Top Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"89",
+    "stars":"3",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22542369,40.11664654]
+    },
+    "properties": {
+    "business_id":"g5I1qNIGWTU3lizsneXQiw",
+    "name":"Perkins Restaurant & Bakery",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"37",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.16253328,40.13367035]
+    },
+    "properties": {
+    "business_id":"Gf9HbiraKNZpxbxwScHBVw",
+    "name":"The Apple Dumplin'",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"28",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.245141,40.096139]
+    },
+    "properties": {
+    "business_id":"gVSokyUWqy14UEp_JNVL7Q",
+    "name":"Taco Bell",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2407666,40.1099064]
+    },
+    "properties": {
+    "business_id":"gY7617TMFGmPQR2A70L2vA",
+    "name":"DP Dough",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"38",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.233218,40.110113]
+    },
+    "properties": {
+    "business_id":"h_usUndeAdHj-wH219-wUA",
+    "name":"Sakanaya Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"218",
+    "stars":"4.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24112795,40.13585198]
+    },
+    "properties": {
+    "business_id":"H0D2HYqLd9MRCq68rtbTyQ",
+    "name":"Olive Garden Italian Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"47",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2438923,40.1051831]
+    },
+    "properties": {
+    "business_id":"h1kMWbt6gjkIy4VC8VqVuQ",
+    "name":"Good Fella Korean Bistro",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"22",
+    "stars":"4",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.243507,40.1175503]
+    },
+    "properties": {
+    "business_id":"H8_t8PEf1FBVGPoQyVvi1w",
+    "name":"Nando Milano Trattoria",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"3",
+    "review_count":"75",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24260192,40.11690698]
+    },
+    "properties": {
+    "business_id":"h9xdY1NO4GnNijNChTy-8A",
+    "name":"Bacaro",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"3",
+    "review_count":"140",
+    "stars":"4",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2396119,40.1430719]
+    },
+    "properties": {
+    "business_id":"hy9t4AZaPOszsR73wEKm3w",
+    "name":"Sarku Japan",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"9",
+    "stars":"2.5",
+    "cuisine":"Japanese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2333105,40.1104755]
+    },
+    "properties": {
+    "business_id":"i0_W9_1abdjBS7d5-pWORQ",
+    "name":"Lai Lai Wok",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"89",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.241458,40.11566]
+    },
+    "properties": {
+    "business_id":"i7lY2Ip8dEIkyuI75vNO4Q",
+    "name":"Subway",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"7",
+    "stars":"2",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2406815,40.117421]
+    },
+    "properties": {
+    "business_id":"icumGKhp1TQEPBm5kUs3XQ",
+    "name":"Black Dog Smoke & Ale House",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"96",
+    "stars":"4",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22929,40.1065381]
+    },
+    "properties": {
+    "business_id":"iK_jWW1xRfLCq693JVmD6A",
+    "name":"The Y Eatery",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"27",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2218027,40.1065109]
+    },
+    "properties": {
+    "business_id":"iUuHgmsuCPstwJlr5jH02w",
+    "name":"J Gumbo's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"58",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2389546,40.1104086]
+    },
+    "properties": {
+    "business_id":"ivZo1goh7HXdep03NfA7Cg",
+    "name":"Maize Mexican Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"400",
+    "stars":"4.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1951107,40.105859]
+    },
+    "properties": {
+    "business_id":"iYaDjwYdtqhLMY_tQFRlKA",
+    "name":"Huaraches Moroleon",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"116",
+    "stars":"4.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2093142,40.112655]
+    },
+    "properties": {
+    "business_id":"iZ5BEHyjL9WOre19gx_FxQ",
+    "name":"Bar M",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2085029,40.112757]
+    },
+    "properties": {
+    "business_id":"IZOKtFjm_hiL4OGmCq2NNA",
+    "name":"The Dancing Dog Eatery & Juicery",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"45",
+    "stars":"4",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2408101,40.1097893]
+    },
+    "properties": {
+    "business_id":"j9N_fG1PVCSY-3HY1TRQ5Q",
+    "name":"Jimmy John's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.243876,40.117733]
+    },
+    "properties": {
+    "business_id":"JaIXI_TRhHh1HbXlFC-n3w",
+    "name":"Watson's Shack & Rail",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"67",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24339986,40.11828541]
+    },
+    "properties": {
+    "business_id":"JCqFWCn31OMSk-vqF5aYNQ",
+    "name":"Big Grove Tavern",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"225",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2306035,40.1094391]
+    },
+    "properties": {
+    "business_id":"jg8rb2o3n0WTB1cBxhEycg",
+    "name":"Evo Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"43",
+    "stars":"2.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2468548,40.1271729]
+    },
+    "properties": {
+    "business_id":"JhEA8qHfNmIh8c6OHXnaYA",
+    "name":"Hooters",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2306324,40.1105017]
+    },
+    "properties": {
+    "business_id":"jKPEJgRE_WvryvExq7zogQ",
+    "name":"Noodles & Company",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"36",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2373608,40.0937168]
+    },
+    "properties": {
+    "business_id":"JlcbIU8V6ohFCwfuMr7tBg",
+    "name":"Houlihan's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"66",
+    "stars":"3",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2331177,40.1104696]
+    },
+    "properties": {
+    "business_id":"jS0mmzYf4mouMEcGzQ5Z-Q",
+    "name":"Jurassic Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"26",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2461385,40.1150169]
+    },
+    "properties": {
+    "business_id":"jydmaHFFWpKKDKTJLwThyA",
+    "name":"The Clark Bar",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2325823,40.1105683]
+    },
+    "properties": {
+    "business_id":"k0kNhfkp1GrYE15YDApKMg",
+    "name":"Bangkok Thai and Pho 911",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"126",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.199861,40.128228]
+    },
+    "properties": {
+    "business_id":"KI96Ec7doScwF2jD6B7RdA",
+    "name":"Toro Loco",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.243865,40.1427776]
+    },
+    "properties": {
+    "business_id":"kMcbuXZx3iILJVEPyLgPpQ",
+    "name":"Panda Express",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23139496,40.10928113]
+    },
+    "properties": {
+    "business_id":"KQXusKEWX5iTdzSJStW8Dg",
+    "name":"Asian Taste Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2444325,40.1375386]
+    },
+    "properties": {
+    "business_id":"KUpdnQi16DGP54FlDWOJ6g",
+    "name":"Bob Evans",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"19",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.244739,40.0997492]
+    },
+    "properties": {
+    "business_id":"L3S29vAyPOxmDZ04AilwnQ",
+    "name":"Subway",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"1.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2436597,40.10769667]
+    },
+    "properties": {
+    "business_id":"l6KWHEZMr1AuabPA61wlUw",
+    "name":"Yori Q Korean Grill & Bar",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"36",
+    "stars":"4",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2303603,40.1096938]
+    },
+    "properties": {
+    "business_id":"l8B35OwrDUQTg5ojQu0tEA",
+    "name":"Firehaus",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"70",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23063957,40.11036743]
+    },
+    "properties": {
+    "business_id":"leH24AjTrmcImAbsdh4HFQ",
+    "name":"Jimmy John's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2452826,40.0975069]
+    },
+    "properties": {
+    "business_id":"ljsTa0MiQyVfKrgq2FOKdg",
+    "name":"McDonald's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"14",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.20278764,40.11339039]
+    },
+    "properties": {
+    "business_id":"lmDV-oW_dNn8kGHBbuNzXg",
+    "name":"Xinh Xinh Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"149",
+    "stars":"4",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.207131,40.116832]
+    },
+    "properties": {
+    "business_id":"LN0mZ37BeruC0XjyhES-ug",
+    "name":"Panchero's Mexican Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"34",
+    "stars":"2.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.227516,40.115813]
+    },
+    "properties": {
+    "business_id":"m19xUciXTS5zcjkYiy4xUQ",
+    "name":"Beckman Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2051296,40.1172246]
+    },
+    "properties": {
+    "business_id":"M2boe4Te0rQ5RasVJkPXng",
+    "name":"Wendy's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2450179,40.1178493]
+    },
+    "properties": {
+    "business_id":"M5E7DW8rqI4v37HhD2pzGQ",
+    "name":"Peking Garden Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"52",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.190285,40.0974422]
+    },
+    "properties": {
+    "business_id":"McjqmrsudvpnVxtYJKSUtQ",
+    "name":"Burger King",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2410371,40.1099022]
+    },
+    "properties": {
+    "business_id":"M-eAou5siImNKoxxcSEX-g",
+    "name":"Green Street Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.207131,40.116832]
+    },
+    "properties": {
+    "business_id":"mSTjlawGZcbg8YBQx9UxFg",
+    "name":"Jimmy John's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"15",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2030657,40.1134471]
+    },
+    "properties": {
+    "business_id":"mv1gFZ8FYsFIOTENKhXddw",
+    "name":"Papa Murphy's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23018797,40.11037991]
+    },
+    "properties": {
+    "business_id":"MVH3JOKpQvMTP4jxwBUhkA",
+    "name":"Murphy's Pub",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"102",
+    "stars":"3.5",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2452807,40.091899]
+    },
+    "properties": {
+    "business_id":"niK-GkBZ_RIFscfy-nH1rg",
+    "name":"Old Time Meat & Deli Shoppe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"36",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2236523,40.1064412]
+    },
+    "properties": {
+    "business_id":"NQvZ_RotIEalBKsJ8zuLIw",
+    "name":"Timpone's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"74",
+    "stars":"3.5",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2212475,40.1065086]
+    },
+    "properties": {
+    "business_id":"NR9KuzgfS39H5YODLMPurQ",
+    "name":"BBQ Premium Chicken",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2272864,40.110446]
+    },
+    "properties": {
+    "business_id":"O_HxmcRtxdJluerS2RYqtA",
+    "name":"Illini Union Ballroom Dining",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.209446,40.112708]
+    },
+    "properties": {
+    "business_id":"oIU_awAiDThL0Xz0iGD5TA",
+    "name":"Siam Terrace",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"145",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2314617,40.1099251]
+    },
+    "properties": {
+    "business_id":"OkNhrobZUhpybZlpHAA_bQ",
+    "name":"Azzip Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2218579,40.1068411]
+    },
+    "properties": {
+    "business_id":"oL91dKGJxL7F1u9X-QKXiw",
+    "name":"Merry Ann's Diner",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"31",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2402729,40.1101985]
+    },
+    "properties": {
+    "business_id":"OQIDPNTLuOD8io9FoKKIKA",
+    "name":"Auntie Lee's Chinese Kitchen",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2458718,40.0903007]
+    },
+    "properties": {
+    "business_id":"oVX8BPEWRl4iBgApA3PBYw",
+    "name":"Brixx Wood Fired Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"46",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.238456,40.11042]
+    },
+    "properties": {
+    "business_id":"p6hu5CtjfAzBiYhMDY_s7A",
+    "name":"Domino's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"2",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.242982,40.110411]
+    },
+    "properties": {
+    "business_id":"p7pGpir_7sZZrxmOUV3Leg",
+    "name":"Wingstop",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"2.5",
+    "cuisine":"Chicken Wings",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2432469,40.1170558]
+    },
+    "properties": {
+    "business_id":"p8GMdsCCy-NV_wZuDaU2Jw",
+    "name":"Aroma Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"106",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24201277,40.11655588]
+    },
+    "properties": {
+    "business_id":"PeQ3gtLHAg9ov0YuM-m21A",
+    "name":"Seven Saints",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"228",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.242292,40.116597]
+    },
+    "properties": {
+    "business_id":"pPWre8lbVAssER6CN0uWMw",
+    "name":"Esquire Lounge",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"88",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23175193,40.11032891]
+    },
+    "properties": {
+    "business_id":"px_FHVv6bmidLZXlfEVhaQ",
+    "name":"Bobo China",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"2",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.209325,40.112709]
+    },
+    "properties": {
+    "business_id":"pXZtvvXtVSXHgodcGfiX_g",
+    "name":"Pizza M",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"53",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23069222,40.11037478]
+    },
+    "properties": {
+    "business_id":"PYG1nrz2yYDSQk3W-vYwAA",
+    "name":"Chipotle Mexican Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"60",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2448027,40.1185309]
+    },
+    "properties": {
+    "business_id":"Q_y3CeG_tsKTang0NHtVLQ",
+    "name":"Sushi Kame",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"119",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2303911,40.1114033]
+    },
+    "properties": {
+    "business_id":"Q4H5csHMZiQOZrwk-oU7yg",
+    "name":"Seoul Taco",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"32",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2296312,40.1106295]
+    },
+    "properties": {
+    "business_id":"q4raCE4a8wMEETPG45HgAA",
+    "name":"Panera Bread",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2428344,40.1212439]
+    },
+    "properties": {
+    "business_id":"qevmzWge4_pwJ6SB8gKTiA",
+    "name":"Escobar's Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"147",
+    "stars":"4",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.207915,40.116214]
+    },
+    "properties": {
+    "business_id":"qgIAjfsGIqteEu0473miPg",
+    "name":"Lil Porgy's Bar-B-Que",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"75",
+    "stars":"3.5",
+    "cuisine":"Barbeque",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2307377,40.1159605]
+    },
+    "properties": {
+    "business_id":"qJlrHs5iyFOLA7Wly-M0pg",
+    "name":"World Harvest Foods",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"51",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2380132,40.1103562]
+    },
+    "properties": {
+    "business_id":"qUWDPFWaW0fOY66lL0diqg",
+    "name":"Papa John's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"23",
+    "stars":"2.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2452981,40.0920944]
+    },
+    "properties": {
+    "business_id":"QUZUgIHFKgYEgM-QNROgHw",
+    "name":"B Won",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"75",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2216645,40.116102]
+    },
+    "properties": {
+    "business_id":"QZBQBQkNEefPbTo5SIoE7A",
+    "name":"Niro's Gyros",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"42",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2217353,40.1065482]
+    },
+    "properties": {
+    "business_id":"R-0IVFEKseAL9wYgIhPy1w",
+    "name":"Rosati's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"39",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24323304,40.11856662]
+    },
+    "properties": {
+    "business_id":"r2pKiQ9LLaaVNNvBDfPd2w",
+    "name":"Kofusion",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"224",
+    "stars":"3.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2041131,40.1186156]
+    },
+    "properties": {
+    "business_id":"R3dSeFD8k_Z-EHNLlUELiw",
+    "name":"Taco Motorizado",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"25",
+    "stars":"4.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2296092,40.1100646]
+    },
+    "properties": {
+    "business_id":"RbThUOAzsx7am1xaft29zg",
+    "name":"Antonio's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"71",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2330779,40.1100319]
+    },
+    "properties": {
+    "business_id":"rE8048_DAh3Z8Tep466wrA",
+    "name":"Mandarin Wok",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"50",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2428884,40.1105978]
+    },
+    "properties": {
+    "business_id":"Rj0EiZoTEHqUo_wt-MTd0g",
+    "name":"Jet's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"38",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24330139,40.1178627]
+    },
+    "properties": {
+    "business_id":"rm2OnyNDnlWkSNUSxETsGg",
+    "name":"Guido's Bar & Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"86",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1695257,40.0879614]
+    },
+    "properties": {
+    "business_id":"RSk-BYX8s5027cKo_aELrw",
+    "name":"Attie's Bar & Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2295058,40.1079898]
+    },
+    "properties": {
+    "business_id":"RwhUzMEG2tVnZQY9dEuXzw",
+    "name":"Kam's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"46",
+    "stars":"2",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2441689,40.1111456]
+    },
+    "properties": {
+    "business_id":"rzH3NU9teI9WVKt-hBsJjg",
+    "name":"Golden Harbor Authentic Chinese Cuisine",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"271",
+    "stars":"4.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2437014,40.11837952]
+    },
+    "properties": {
+    "business_id":"sBw0ZgTVeRgdOA3sfGIcwQ",
+    "name":"Destihl Restaurant & Brew Works",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"348",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2086039,40.115461]
+    },
+    "properties": {
+    "business_id":"SeQv-RJ2rS070NvSRh_siQ",
+    "name":"Silvercreek",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"104",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.220285,40.116597]
+    },
+    "properties": {
+    "business_id":"shwDnhZS6pvQZXaN903XgQ",
+    "name":"Burrito King",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2454553,40.096106]
+    },
+    "properties": {
+    "business_id":"SoyigEmlt4JYwnOqR_cqUw",
+    "name":"The Ribeye",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"53",
+    "stars":"3.5",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2296109,40.1105931]
+    },
+    "properties": {
+    "business_id":"SQASst3NU4tA-t4cmWLILA",
+    "name":"Subway",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"9",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2429304,40.1423318]
+    },
+    "properties": {
+    "business_id":"sz6liH4acI8N17UCxiheXA",
+    "name":"Campus Burger",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2226072,40.1166669]
+    },
+    "properties": {
+    "business_id":"TD11IPIlFL9sLAWbN9FzdA",
+    "name":"Hot Wok Express",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"20",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.232373,40.110554]
+    },
+    "properties": {
+    "business_id":"tSObxv4wRa99nEDaB8Xisw",
+    "name":"Milk Tea House",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.230005,40.108116]
+    },
+    "properties": {
+    "business_id":"u06X5C_pIAVuOXOznIcPYw",
+    "name":"Home of Gourmet Chinese & Thai Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"36",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2296312,40.1106295]
+    },
+    "properties": {
+    "business_id":"U2VUcIbuxGT6rK1EETf8aA",
+    "name":"Spoon House Korean Kitchen",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"63",
+    "stars":"3",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22904367,40.11117352]
+    },
+    "properties": {
+    "business_id":"U8fJ4fEhoFGqxYLK_VNoEQ",
+    "name":"A-Ri-Rang",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"44",
+    "stars":"3.5",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2438972,40.1070836]
+    },
+    "properties": {
+    "business_id":"UBriZt4m5BzkvNqnCeuGmw",
+    "name":"El Toro Mexican Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"79",
+    "stars":"3",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22974501,40.11042079]
+    },
+    "properties": {
+    "business_id":"ucqMmYA5hiXZO1uV0YN8Vw",
+    "name":"McDonalds",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"15",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1813252,40.114686]
+    },
+    "properties": {
+    "business_id":"UcuoAlVyNXeD1Na9M47qZw",
+    "name":"Casey's Carry Out Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.208287,40.1132]
+    },
+    "properties": {
+    "business_id":"ufOY2lQHDgSvou3YLT8gHA",
+    "name":"Bunny's Tavern",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"30",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.231789,40.1100629]
+    },
+    "properties": {
+    "business_id":"uhzZM-WwNsaVuvGRjv3mXw",
+    "name":"Potbelly Sandwich Shop",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"31",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1904943,40.0838527]
+    },
+    "properties": {
+    "business_id":"uJczFcnoK8f9uWgtb0hFGw",
+    "name":"Milo's Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"67",
+    "stars":"3.5",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2228985,40.0835383]
+    },
+    "properties": {
+    "business_id":"umq8alp-uLf3hXnpSC99WA",
+    "name":"Green Jade",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.192765,40.098023]
+    },
+    "properties": {
+    "business_id":"URAkdLzbFwbhvp087RlvzA",
+    "name":"Papa John's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"2",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.229304,40.110085]
+    },
+    "properties": {
+    "business_id":"UrxAu3jjRM_u6iQXDPzkSQ",
+    "name":"Zorba's Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"96",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1994841,40.133434]
+    },
+    "properties": {
+    "business_id":"u-y1z3usKenHtOGrH5Vveg",
+    "name":"Cracker Barrel Old Country Store",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24424621,40.09845251]
+    },
+    "properties": {
+    "business_id":"vBg5V39Vf4eTx1JVgl_5Pg",
+    "name":"Merry-Ann's Diner",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"56",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2188183,40.1329664]
+    },
+    "properties": {
+    "business_id":"VI-zVIlK11AUz47mro8nMA",
+    "name":"Urbana Garden Family Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"33",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24905396,40.06959884]
+    },
+    "properties": {
+    "business_id":"vJ8mUl29TkJLXckZSxCC6A",
+    "name":"Applebee's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"2.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.230634,40.110756]
+    },
+    "properties": {
+    "business_id":"VlWL5QDNc0fFskZeougbhw",
+    "name":"Penn Station",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3",
+    "cuisine":"American (New)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1920978,40.0962948]
+    },
+    "properties": {
+    "business_id":"vubRS4bmJ_8yXpn-67wNZA",
+    "name":"First Wok",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.20475,40.117801]
+    },
+    "properties": {
+    "business_id":"vxFeYTFre83stnrcLAj84A",
+    "name":"Arby's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.239211,40.112825]
+    },
+    "properties": {
+    "business_id":"VyqJehEkM6jlrzbXOudviw",
+    "name":"Szechuan China",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2212475,40.1065086]
+    },
+    "properties": {
+    "business_id":"wGp0fgsmqCL8ovLwQrlSKw",
+    "name":"Bab Plus Korean Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"3",
+    "cuisine":"Korean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.243455,40.137098]
+    },
+    "properties": {
+    "business_id":"Wh6FdYZJz9b3x4rf6RJK_A",
+    "name":"Taco Bell",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.20902299,40.11282253]
+    },
+    "properties": {
+    "business_id":"wO8c-FbduauxCGiEHchGRA",
+    "name":"Courier Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"274",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.237281,40.110518]
+    },
+    "properties": {
+    "business_id":"wYT34MQMvjXU_j62UiyFtQ",
+    "name":"Hot Pot Lab",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"3.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24623923,40.09021818]
+    },
+    "properties": {
+    "business_id":"X3WnRljmATFjSluwVWFzdQ",
+    "name":"Moe's Southwest Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"3",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.203156,40.117278]
+    },
+    "properties": {
+    "business_id":"xjSFeUIvCZBzDHwQ_26TJg",
+    "name":"El Oasis",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"57",
+    "stars":"5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2435604,40.1221402]
+    },
+    "properties": {
+    "business_id":"xJwYqy04FB7GRRUNQmMDBQ",
+    "name":"Tasty Fish Chicken & Grill",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2487,40.0712]
+    },
+    "properties": {
+    "business_id":"xKoqmvyHBovS7RmKQn3_jg",
+    "name":"KFC",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"2",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24896812,40.07064976]
+    },
+    "properties": {
+    "business_id":"XLCnhlUqBLmb39LiitikkQ",
+    "name":"Burger King",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.238622,40.126987]
+    },
+    "properties": {
+    "business_id":"XMLbJeauBC6DANgNsJO6CQ",
+    "name":"Big J J Fish & Chicken",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"21",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2470903,40.0987255]
+    },
+    "properties": {
+    "business_id":"XPmdbNofdUUGQuc6QxD2pA",
+    "name":"Yellowfin Japanese Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"94",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22967064,40.11018144]
+    },
+    "properties": {
+    "business_id":"X-UNqji6i-G6q_5jPMHV5g",
+    "name":"Spicy Tang",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.191295,40.097699]
+    },
+    "properties": {
+    "business_id":"XW3R4wyKl3GPSO7q0_USiw",
+    "name":"Sunny China Buffet",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.23873,40.1158806]
+    },
+    "properties": {
+    "business_id":"ygZ1n-RjzZibC80NLgHauw",
+    "name":"Manzellas Italian Restaurant",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2194085,40.1057373]
+    },
+    "properties": {
+    "business_id":"YkKEsYsSpOkDBbHBGKuWQA",
+    "name":"Caffe Paradiso",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"87",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2217281,40.10682268]
+    },
+    "properties": {
+    "business_id":"YPLuTiEIrkVGxfxzuq54FA",
+    "name":"Kofusion",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"27",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.1905185,40.0833818]
+    },
+    "properties": {
+    "business_id":"yTlW8Xh1wPpvHBl3dGz9mA",
+    "name":"Monical's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.22340637,40.10693224]
+    },
+    "properties": {
+    "business_id":"Z4ZP0LwHhG8SMTkvEcVvpg",
+    "name":"Manolo's Pizza & Empanadas",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"74",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24530029,40.13752747]
+    },
+    "properties": {
+    "business_id":"Z8EGaOokvK2hoD6tGup0MA",
+    "name":"TGI Fridays",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2044098,40.1182287]
+    },
+    "properties": {
+    "business_id":"Zb2Bqf6MSiSbwIz0GyK7Qw",
+    "name":"McDonald's",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"2",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2484631,40.0977984]
+    },
+    "properties": {
+    "business_id":"zLkok9inSL4lzVoSzfpxAA",
+    "name":"Vinny's East Coast Pizzeria",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"51",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2441637,40.1032417]
+    },
+    "properties": {
+    "business_id":"zMN8UGd1zDEreT58OCdnyg",
+    "name":"Papa Del's Pizza",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"305",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.243786,40.139794]
+    },
+    "properties": {
+    "business_id":"zO0xbqEznVuzPl54RExymg",
+    "name":"Old Chicago",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"50",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.24289991,40.11813314]
+    },
+    "properties": {
+    "business_id":"zOaUK1e0W7TtyYabzDBK9w",
+    "name":"Merry-Ann's Diner",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"38",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.2292247,40.1101105]
+    },
+    "properties": {
+    "business_id":"ZSTTU_-duEqyIDZgLV45DA",
+    "name":"Mia Za's Cafe",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"1",
+    "review_count":"73",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [-88.229494,40.1100643]
+    },
+    "properties": {
+    "business_id":"zWywRjPZSKVieUVnzE1eLA",
+    "name":"Sushi Rock",
+    "city":"Urbana-Champaign",
+    "attributes.Price Range":"2",
+    "review_count":"41",
+    "stars":"3",
+    "cuisine":"Japanese",
+    }
+  },
+]
+}

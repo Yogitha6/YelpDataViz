@@ -1,0 +1,8181 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.31318,49.0377]
+    },
+    "properties": {
+    "business_id":"_8tUKyMRMMt1YSlac04eqg",
+    "name":"Schiffsrestaurant Vater Rhein",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.42079,49.0084]
+    },
+    "properties": {
+    "business_id":"_CEgkUvPLL-omIutKaWs5Q",
+    "name":"Chiang Mai",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.42177,49.0106]
+    },
+    "properties": {
+    "business_id":"_Fi4b5lYGsKhI4iCw7j_BQ",
+    "name":"Rote Sonne China Schnellrestaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.405104,49.0096502]
+    },
+    "properties": {
+    "business_id":"_J9JwsqYf1hKdtsE7A9OnA",
+    "name":"Kofflers Wiener Beisel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.411165151,49.00540211]
+    },
+    "properties": {
+    "business_id":"_lhblpeTBbfG3TnWLLEGBw",
+    "name":"Fünf Sterne",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"43",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40339,49.0093]
+    },
+    "properties": {
+    "business_id":"_TgKU9RQ10RfdZz8CSGEGQ",
+    "name":"Böckeler",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39556,49.0109]
+    },
+    "properties": {
+    "business_id":"_v0l_NYqRLE12GJMflm4Zg",
+    "name":"Phó",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"4",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39079,49.001]
+    },
+    "properties": {
+    "business_id":"_WxiLrlNpPuERam8YuQ-dg",
+    "name":"Da Giovanni",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4149704,48.9375]
+    },
+    "properties": {
+    "business_id":"0_6u_uhvLYGRt9YLtZLa9A",
+    "name":"Pizzeria Luisenstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.44033,49.0108]
+    },
+    "properties": {
+    "business_id":"0123BsbSufx_cKhbbVWmIQ",
+    "name":"Rintheimer Stuben im Tsv",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3764097,49.0092602]
+    },
+    "properties": {
+    "business_id":"081EZ8AIZ4QWVaYl_1wUCw",
+    "name":"Cafe Carré",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47134,48.9994]
+    },
+    "properties": {
+    "business_id":"0h64oEQLhlMrrsko7B1eNA",
+    "name":"Sol i Luna Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"52",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.33655,48.9975]
+    },
+    "properties": {
+    "business_id":"0J0FdaT-dhECIrnnlfQqqA",
+    "name":"San Marco",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4082587,49.0062086]
+    },
+    "properties": {
+    "business_id":"0NWm7KorY2NDl9jAjZPTRw",
+    "name":"Thai Orchid",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36299,49.0116]
+    },
+    "properties": {
+    "business_id":"0OTWK0GcabvOWfaqqJsBxw",
+    "name":"Mersin Kebab-Pizza-Imbiß",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3975907,49.0083]
+    },
+    "properties": {
+    "business_id":"0Q7ftIbv1r7Jiupuxi7WDw",
+    "name":"Syrtaki",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3960922,48.9778654]
+    },
+    "properties": {
+    "business_id":"0SgsUyw0sQSpt6CSI73r6Q",
+    "name":"Zum Elsternest",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4176,48.9395]
+    },
+    "properties": {
+    "business_id":"0tIwFdNA942oqnm47cnw4w",
+    "name":"Watts Brasserie",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.28743,48.9641]
+    },
+    "properties": {
+    "business_id":"0W3K89HZ6zkNg3AqBMq4Dw",
+    "name":"Klenerts",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38194,49.0062]
+    },
+    "properties": {
+    "business_id":"0WiuRhBf8WQlr1UqFgKEXQ",
+    "name":"Olive - das kleine Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.399387249,48.99435118]
+    },
+    "properties": {
+    "business_id":"126Dmjf_NJs6OJ3ttI-J5Q",
+    "name":"McDonald's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.25346,48.91062]
+    },
+    "properties": {
+    "business_id":"14FahioZzo_F5LlscNzcUw",
+    "name":"Saray Kebap",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4715598,49.0647934]
+    },
+    "properties": {
+    "business_id":"14qE5P0ZtWe782tWQYwCcw",
+    "name":"Herrmannshäusle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"11",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.33443,48.96339]
+    },
+    "properties": {
+    "business_id":"1FVEeqJv6V6decG4S4ZNFw",
+    "name":"Jäger Biergarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3721617,49.0057518]
+    },
+    "properties": {
+    "business_id":"1vObhKVuXQF7YX5R6qxwVA",
+    "name":"Rote Taube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.384188414,49.01488101]
+    },
+    "properties": {
+    "business_id":"24nfW5gDvX9ot2hT9rf6xg",
+    "name":"Coffee Boxx",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4743368,48.9881413]
+    },
+    "properties": {
+    "business_id":"2fS1ssXEmuXH7t2zNx_DZQ",
+    "name":"Judy's Café",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3814993,49.0551485]
+    },
+    "properties": {
+    "business_id":"2hTbsev_7hF8Fyla0zoUAw",
+    "name":"Nuraghe",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"24",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3898076,49.0087904]
+    },
+    "properties": {
+    "business_id":"2J6pdzKizFye435wkEcMpg",
+    "name":"Vongruen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36618,49.04215]
+    },
+    "properties": {
+    "business_id":"2PlaD6xXItbxo0ZbjQ7iQg",
+    "name":"Pizzeria Stella Maris",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39713,49.0103]
+    },
+    "properties": {
+    "business_id":"2QclfX_80Y4T2zZ-h0FlmA",
+    "name":"Unterhaus Gaststättenbetriebs",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"1.5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39276,48.9858]
+    },
+    "properties": {
+    "business_id":"2x1USZcrV-1zrEDLzaX-lw",
+    "name":"Bombay Palace",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"3.5",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4097545,48.9420364]
+    },
+    "properties": {
+    "business_id":"35Znve8wyIqKcGRJ3vVdLA",
+    "name":"Padellino",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4141097,49.0079738]
+    },
+    "properties": {
+    "business_id":"39zkau4YW8ovL3zUS10SAA",
+    "name":"Restaurant Abrahams",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40066,49.0118]
+    },
+    "properties": {
+    "business_id":"3C70DNk7sa0KuRJu3zKiXQ",
+    "name":"Pomodoro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.397885,49.0126722]
+    },
+    "properties": {
+    "business_id":"3Dk5qrbYaP7lCYyjmo0JRg",
+    "name":"Mogogo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"38",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36071,49.0114]
+    },
+    "properties": {
+    "business_id":"3hrqeq7BVC8RP3rJBgCcIA",
+    "name":"Pizzeria Fliegender Italiener",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.42244,49.00981]
+    },
+    "properties": {
+    "business_id":"3LA8ABDMBZnlEnVMmJ-YIA",
+    "name":"Bäckerei-Konditorei Visel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.393987,48.9948165]
+    },
+    "properties": {
+    "business_id":"-3Qu8aYgOleRw-OThNPovA",
+    "name":"Sole d' Oro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4021614,49.0088748]
+    },
+    "properties": {
+    "business_id":"3Rm2NlH_9Tp249DqicoeqQ",
+    "name":"Maredo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"63",
+    "stars":"3",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3953183,49.009036]
+    },
+    "properties": {
+    "business_id":"3uIRIs9Bs1ImPjfQp-lYoA",
+    "name":"Lehner's Wirtshaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"64",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39786,49.0103]
+    },
+    "properties": {
+    "business_id":"3vhkvCQizEJqcPfdURBj3g",
+    "name":"amici",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.393407,49.010514]
+    },
+    "properties": {
+    "business_id":"41tFQSXt68OyPDbm3GAQdQ",
+    "name":"Bangkok Foodland",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"35",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3795858,49.0079271]
+    },
+    "properties": {
+    "business_id":"43A2uNd1EDp_tZGAzcl0AA",
+    "name":"Beyti",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35834,49.0289]
+    },
+    "properties": {
+    "business_id":"4fZtwMekeFdChOBQizz8Fg",
+    "name":"Burger King",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.388330448,49.00744697]
+    },
+    "properties": {
+    "business_id":"4lanRbZT3tZx9Gv63SO7kQ",
+    "name":"Pizzeria Centrale",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.484202623,49.09544514]
+    },
+    "properties": {
+    "business_id":"4qI8E_OhC1RsO4nRtim-cQ",
+    "name":"Schnitzelparadies",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40896,48.9426]
+    },
+    "properties": {
+    "business_id":"4XZmBXSb-IvtkQ2nx_TQSg",
+    "name":"Bambus-Garten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40367,49.009768]
+    },
+    "properties": {
+    "business_id":"516cVatYZRqXcHEdfSTasw",
+    "name":"Café Am Markt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.34959,49.0175]
+    },
+    "properties": {
+    "business_id":"51tbyswAGxdw9mN5qrPGeA",
+    "name":"Nat-Pob",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39144,49.0761184]
+    },
+    "properties": {
+    "business_id":"5cOhs2bPeCMYA7OdQ3AOrQ",
+    "name":"Gasthaus dBadisch",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38512,49.0103]
+    },
+    "properties": {
+    "business_id":"5jb7i9_803c0YejTudYzHA",
+    "name":"Shanghai China Schnellrestaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.382980727,49.00165894]
+    },
+    "properties": {
+    "business_id":"5VTBQov3GPKQ-dl-GW4JeA",
+    "name":"Cafe Eukalyptus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40868,48.9726]
+    },
+    "properties": {
+    "business_id":"5wfKnQS46yzNQSVfK0Cugg",
+    "name":"Class Döner & Pizzahaus Rüppurr",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37076,48.9188]
+    },
+    "properties": {
+    "business_id":"5wUave1meYwsd6UFdihW4w",
+    "name":"Maiers Restaurant Am See",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3915418,49.0088292]
+    },
+    "properties": {
+    "business_id":"5xXr_KnqboB4SclCe9d9jg",
+    "name":"Falafelhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"13",
+    "stars":"5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.292246,48.9618109]
+    },
+    "properties": {
+    "business_id":"69-bzg2RpU2mi9T79u6nUg",
+    "name":"Gasthaus Adler Rheinstetten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.392091015,49.01022814]
+    },
+    "properties": {
+    "business_id":"6Ai-Uz3h9eC7UiaLvR-irA",
+    "name":"ZEL Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36553,49.01288]
+    },
+    "properties": {
+    "business_id":"6B2uNKnslhbSFfym3Tw4ZQ",
+    "name":"Cafe Brahms",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.403436,48.9722843]
+    },
+    "properties": {
+    "business_id":"6FAJctqkP0uwTWfSV3lDSQ",
+    "name":"Kofflers Heuriger",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.44388,49.027]
+    },
+    "properties": {
+    "business_id":"6ffwWT-0iWLc7TnKkh-Nuw",
+    "name":"Ssc Gaststätte",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.52661,49.0037]
+    },
+    "properties": {
+    "business_id":"6fYqoI-jc2qpBAGOyWC65A",
+    "name":"Zum Laub",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3485875,49.0370694]
+    },
+    "properties": {
+    "business_id":"-6NaBMeSXBnY7j9p7sdPhw",
+    "name":"Brauhaus 2.0",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40342,49.0056]
+    },
+    "properties": {
+    "business_id":"6WbvAT9Il4Fi9egO4F2M5g",
+    "name":"La Pizza",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"2.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38144,49.04508]
+    },
+    "properties": {
+    "business_id":"6yCm35snSRmCQqXI8MlYSw",
+    "name":"Restaurant La Signora",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.34055,49.02983]
+    },
+    "properties": {
+    "business_id":"7a2RrK3SYgMOEuJesKBZLA",
+    "name":"Pizzeria Steinofen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.394696169,49.01019931]
+    },
+    "properties": {
+    "business_id":"7eiSjE-Q8Z9hJXkzfUYlhA",
+    "name":"McDonald's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3956589,49.0079107]
+    },
+    "properties": {
+    "business_id":"7GFd-ao4w7MzUDb-qz-ayg",
+    "name":"Oishii",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"40",
+    "stars":"4",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37467,49.0132]
+    },
+    "properties": {
+    "business_id":"7jt9kAnYOweq9y2I0uE1Dw",
+    "name":"Moghul Mahal",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.49771,49.0042]
+    },
+    "properties": {
+    "business_id":"7Sl1qWqsYO_K0Ah7btDzbA",
+    "name":"Ristorante Schwanen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46986,49.00642]
+    },
+    "properties": {
+    "business_id":"8BlSo_rH0CUlkpogYMeN8Q",
+    "name":"Fischerheim Durlach",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.26904,48.9327]
+    },
+    "properties": {
+    "business_id":"8dVpiN5yCnpnhW3DL-2_uA",
+    "name":"Landgasthof Hirsch",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35002,49.005]
+    },
+    "properties": {
+    "business_id":"8FgK0h0Kh0BpxhaqDsjaZA",
+    "name":"Rim Wang",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"34",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.406616,48.9423505]
+    },
+    "properties": {
+    "business_id":"8KCsKouVZYtpRB0fniPrdg",
+    "name":"MoccaSin Coffee",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47922,48.9554]
+    },
+    "properties": {
+    "business_id":"8QhUXk_Y89rMmQHzzBLNBQ",
+    "name":"Gasthof Tannweg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38092,49.0767]
+    },
+    "properties": {
+    "business_id":"8R57IiGUkoq6A9DSEmJRcQ",
+    "name":"Zur Tränke",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3930013,49.0102082]
+    },
+    "properties": {
+    "business_id":"8rtzGl1pt3YrICBum8cRxA",
+    "name":"Restaurant Piro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3887202,49.0009536]
+    },
+    "properties": {
+    "business_id":"8WUOay5hclm0wjKGCRm7Sw",
+    "name":"Café Creativ Cuisine",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40434,48.94127]
+    },
+    "properties": {
+    "business_id":"-8YUIv3tK0Ui1G8KA5c9zA",
+    "name":"Hotel-Restaurant Erbprinz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"15",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.453387,48.9743038]
+    },
+    "properties": {
+    "business_id":"96-0tsLAkE3xC0eZ7Jsu_g",
+    "name":"Wirtshaus zum Schwanen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40888,48.9427]
+    },
+    "properties": {
+    "business_id":"9HZiyUyDcZl5WCA248mAJA",
+    "name":"Imbiß & Bistro Dersim",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4153663,49.0090329]
+    },
+    "properties": {
+    "business_id":"9jSE6VWYhI_4NRwoXRQQ4w",
+    "name":"Dr. Kaffee",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.479737951,48.91946318]
+    },
+    "properties": {
+    "business_id":"9O13j4NIYBkZVfInk6FDEA",
+    "name":"Restaurant Weinhaus Steppe",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46465,48.9974]
+    },
+    "properties": {
+    "business_id":"9rz7hggrbeIOg1FcQa_uwQ",
+    "name":"Borsalino",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"75",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41691,48.93955]
+    },
+    "properties": {
+    "business_id":"9sR3wYRz9WxCCCt4Br-T3g",
+    "name":"Hartmaier's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"19",
+    "stars":"4.5",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.396,49.0093]
+    },
+    "properties": {
+    "business_id":"A0g1MhXHME3C1yxc4PCxhA",
+    "name":"Pizza Hut",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3368594,49.0332008]
+    },
+    "properties": {
+    "business_id":"A2aS1RVe9nM-CiLa0vN69w",
+    "name":"Wirtshaus Zur Rose",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4593159,49.0274374]
+    },
+    "properties": {
+    "business_id":"AAaF8hc_KTjhi-2HzWdsRg",
+    "name":"Hagsfelder Stuben",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"4",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46144,48.9931]
+    },
+    "properties": {
+    "business_id":"ac8dhJhjJgan5T-_KHu_9w",
+    "name":"Romulus et Remus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36678147,49.00560669]
+    },
+    "properties": {
+    "business_id":"acyHuDT1T7naRmWDVfDhXg",
+    "name":"Marianne's Flammkuchen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"31",
+    "stars":"3.5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.541948,48.9874338]
+    },
+    "properties": {
+    "business_id":"A-DrNFzlaynJgnPtu8LBMw",
+    "name":"Le Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"5",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47156,48.99945]
+    },
+    "properties": {
+    "business_id":"aM0RwIaM3IRrCb4mtLwPig",
+    "name":"Cielo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"21",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.384862654,49.00560607]
+    },
+    "properties": {
+    "business_id":"APr27c-qEfk7RGCPFE_tug",
+    "name":"Bep Xua",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35909,49.0113]
+    },
+    "properties": {
+    "business_id":"AThVusdWIYLmXMCVFN5n2w",
+    "name":"El Tesoro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.44193,48.9923]
+    },
+    "properties": {
+    "business_id":"aUFag1TNdmAQYoqVRk-ziQ",
+    "name":"La Terazza",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"21",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.396237232,49.01067666]
+    },
+    "properties": {
+    "business_id":"AvC6wcZ_BJFqLP3KtnU1Yw",
+    "name":"Yangda",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37844,48.9965]
+    },
+    "properties": {
+    "business_id":"aWPbsy9tBGrixT9N0jJ2-w",
+    "name":"SVK Beiertheim",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40487361,49.01387124]
+    },
+    "properties": {
+    "business_id":"b3051J8Ii1485ZOJBYVzhQ",
+    "name":"Schlosscafé",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36873,49.00418]
+    },
+    "properties": {
+    "business_id":"B3gjclBEA5cL4TooZUjYkw",
+    "name":"Kühler Krug Familienbrauerei",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"59",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.376420074,49.00928853]
+    },
+    "properties": {
+    "business_id":"B4f4wksmcqYTFh4eESm3Kg",
+    "name":"Osteria Carré",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47129,48.9294]
+    },
+    "properties": {
+    "business_id":"b4TLYjfO6iiY0bZEnm3uzA",
+    "name":"La Capannina",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.51714,48.9523]
+    },
+    "properties": {
+    "business_id":"BbAr92cLCT-KapUEuzfn9A",
+    "name":"Akropolis",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.50841,48.9542]
+    },
+    "properties": {
+    "business_id":"Be3UQjMhbQDxRnmYu0pAMw",
+    "name":"Goldenes Lamm",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4017419,49.0088291]
+    },
+    "properties": {
+    "business_id":"bgBafNxzbhvsC4GAivwWtQ",
+    "name":"Parkdeckzehn",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"44",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40716,48.9365]
+    },
+    "properties": {
+    "business_id":"bH4FuprJUD5eEMzwzO06yg",
+    "name":"Jägerstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"2.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39407,49.0443]
+    },
+    "properties": {
+    "business_id":"bi7VIc7INLhKaYZqBJR_8Q",
+    "name":"Jin-Palast Chinarestaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4075991,49.0076646]
+    },
+    "properties": {
+    "business_id":"bm8_IYhdxx20XFWYCHYrSg",
+    "name":"Zum kleinen Ketterer",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39705,49.00868]
+    },
+    "properties": {
+    "business_id":"Bo8T_i8a76dZZfuFVo_O0g",
+    "name":"Rosenbaum",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3907078,49.0101131]
+    },
+    "properties": {
+    "business_id":"BPY-04VxlC60qxww38dFTQ",
+    "name":"Endle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"24",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4656999,48.9981222]
+    },
+    "properties": {
+    "business_id":"bqcemu1Y-ZTX8haoRqQQog",
+    "name":"Der Vogelbräu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"40",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.372875862,49.00573671]
+    },
+    "properties": {
+    "business_id":"Bsj9BC15wZDAlWTsP8kfVg",
+    "name":"Aroma Kebap",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"18",
+    "stars":"4.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.2673,48.92931]
+    },
+    "properties": {
+    "business_id":"bSNb73315kS9dOJ1q6uy9g",
+    "name":"Raju's Pizza Service",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4781338,48.9254315]
+    },
+    "properties": {
+    "business_id":"BU5j4XmGAanDPZ_U9IABaA",
+    "name":"Lindenbräu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40611,49.004]
+    },
+    "properties": {
+    "business_id":"bVg-aNsf3KNJ4oSuuhw-AA",
+    "name":"Akropolis-Ziegler",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"2.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3848345,49.0072917]
+    },
+    "properties": {
+    "business_id":"ByZychE8TxTgsNez8nhjfw",
+    "name":"Jaipur",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39705,49.00868]
+    },
+    "properties": {
+    "business_id":"C-3H0JM_J3Ow3u-8dwjhnA",
+    "name":"Bratar",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"59",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.467055,48.990186]
+    },
+    "properties": {
+    "business_id":"C3thwROobYHtoeZXjcoQXQ",
+    "name":"Schreberklause",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4223463,49.0093069]
+    },
+    "properties": {
+    "business_id":"c74DXZNvjNgOMKKwaL8HUg",
+    "name":"Gold",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3918717,49.0087744]
+    },
+    "properties": {
+    "business_id":"C8CSSQU2pE1MWgNJT6J2JA",
+    "name":"Central Pizza & Kebap",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.48009,49.0018]
+    },
+    "properties": {
+    "business_id":"c8QK4fd-nuyLZDQu5dzLGA",
+    "name":"Golden Goal",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.464,48.91394]
+    },
+    "properties": {
+    "business_id":"cd4EpU1PkomEAXjU0xyw1Q",
+    "name":"Pizzeria Toscana",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47296,48.9997]
+    },
+    "properties": {
+    "business_id":"CdZKeUZtCjqV0ni2NeFlgA",
+    "name":"Alte Schmiede",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"50",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39424,49.01]
+    },
+    "properties": {
+    "business_id":"censB138iZoYjr_riZSY3Q",
+    "name":"Sushi King",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.397797068,49.01022798]
+    },
+    "properties": {
+    "business_id":"CFoN6P3YWTBEfCIRrTsYbA",
+    "name":"Charles Oxford",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4588132,48.9972962]
+    },
+    "properties": {
+    "business_id":"CId0P8GkPJxBVXKgWyM2tA",
+    "name":"Bambus Garten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40955,49.0094]
+    },
+    "properties": {
+    "business_id":"CiGZR0Hr7YY6_GqcBIttxg",
+    "name":"Kaiser Grill",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40972,49.0094]
+    },
+    "properties": {
+    "business_id":"cK-Aa0DUAUHJmNTJQc109Q",
+    "name":"Yes we can Burger XL",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4624687,49.0016943]
+    },
+    "properties": {
+    "business_id":"cnXDAjSiySOySahN0HPoyw",
+    "name":"K2",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4060692,49.0065242]
+    },
+    "properties": {
+    "business_id":"co2KapMLsKfc7fi2_GefXQ",
+    "name":"Alibaba",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"33",
+    "stars":"4",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5291387,49.0064216]
+    },
+    "properties": {
+    "business_id":"CpGgeW1ioh-DzcNheh9nGA",
+    "name":"Ristorante Italia",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40178,48.9427]
+    },
+    "properties": {
+    "business_id":"CRcwhJTaOYE1IYLCFl_hrQ",
+    "name":"Pizza-Taxi Bella Madina",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.405092001,49.00926338]
+    },
+    "properties": {
+    "business_id":"Cu4mKzo8TsOEzZJuF4EAXA",
+    "name":"Zero",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3874269,49.007737]
+    },
+    "properties": {
+    "business_id":"cVQWrQpeKsQVphwW_6LcpQ",
+    "name":"Restaurant Shiraz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46682,48.9324]
+    },
+    "properties": {
+    "business_id":"cVXlK6H02uSjwrmu1fW-Vg",
+    "name":"La Cigogne",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4014459,48.9988711]
+    },
+    "properties": {
+    "business_id":"cwo-SSQxjvtn9S0uhjGDSQ",
+    "name":"Café Karle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39732,49.0102]
+    },
+    "properties": {
+    "business_id":"cxs28BsfEmlkRUTucx8a8w",
+    "name":"Eiscafe Capri",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3762576,49.0087709]
+    },
+    "properties": {
+    "business_id":"d4r8kOr0ZSpH2MnVoMZzbQ",
+    "name":"Gutenberg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"37",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39895,49.09044]
+    },
+    "properties": {
+    "business_id":"d8ksSGlDe5XNZevNJwAI0g",
+    "name":"Andreasbräu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.415722258,49.00484371]
+    },
+    "properties": {
+    "business_id":"DEHWrvG-2mpR0zB_HQY1pg",
+    "name":"Tialini",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.33341,49.0052]
+    },
+    "properties": {
+    "business_id":"DeiWR9aL18WpVyzuey7dGg",
+    "name":"Karlsruher Hof",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.423936069,49.00933825]
+    },
+    "properties": {
+    "business_id":"Df8FjaoiZveDswmFihT7Yw",
+    "name":"Liebes Beef",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40009,48.9689]
+    },
+    "properties": {
+    "business_id":"dGkpFKbyY39izmLuN1MMDg",
+    "name":"Zum Lamm",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5319,49.0521]
+    },
+    "properties": {
+    "business_id":"dkbalwKdoNnRWZJE-zcGmA",
+    "name":"Wok-Lai",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38467,49.008]
+    },
+    "properties": {
+    "business_id":"DlH3OmOOJuz5hNU6THjJCA",
+    "name":"Gasthof Großer Kurfürst",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"17",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40806,48.9431]
+    },
+    "properties": {
+    "business_id":"DN4uBC1Om48WoHgcoR7xZw",
+    "name":"Lauerturmstüble",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39386,48.9984]
+    },
+    "properties": {
+    "business_id":"doAthESAlj4_-FtsyHGyNw",
+    "name":"Mastar Hayda Zilfo und Sultan",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3926719,49.010457]
+    },
+    "properties": {
+    "business_id":"DOYwzDK08AmZJxaoCv-7Cw",
+    "name":"Dom",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46856,49.0089]
+    },
+    "properties": {
+    "business_id":"DPQt9KMXB9i0lF7ib3F5Mw",
+    "name":"Hubraum",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"30",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.31374,48.975]
+    },
+    "properties": {
+    "business_id":"Drf2RxbCnVybNiDcFuPFtg",
+    "name":"Schwarzwaldstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4112859,49.0091593]
+    },
+    "properties": {
+    "business_id":"Ds15PXK8uFDvkvVDaBuOVw",
+    "name":"Kostalexis Gyros Pita",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"14",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.481560118,49.0674569]
+    },
+    "properties": {
+    "business_id":"dUz8Sa9SY6l_nIEyUhC90A",
+    "name":"Trattoria & Pizzeria Da Luigi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.393205533,49.00995334]
+    },
+    "properties": {
+    "business_id":"dvZkN9RW6juVCyRolSyYAQ",
+    "name":"Dean & David",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"40",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37411,49.0081]
+    },
+    "properties": {
+    "business_id":"DvzTiBV8EtCQy1VuTbZOQQ",
+    "name":"Vaca Verde",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36215,48.9935]
+    },
+    "properties": {
+    "business_id":"DxnQjhwf2h2qxB7N-mCVAw",
+    "name":"Gaststätte Saloniki",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40752,48.9404]
+    },
+    "properties": {
+    "business_id":"dyZjJa644Es2HvJT96_6xQ",
+    "name":"Wok Asiaimbiss",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.395829,49.0108781]
+    },
+    "properties": {
+    "business_id":"Dzzn3oCTxxDImla0uhhUXw",
+    "name":"Yin-Yang China Schnellimbiß",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39833,48.9845]
+    },
+    "properties": {
+    "business_id":"dzZnC5YVzZVzW0he28HwEA",
+    "name":"Eiscafé Eis Schätzle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37519,49.0086]
+    },
+    "properties": {
+    "business_id":"E3iQVRnC-EYn_F6jdRU25g",
+    "name":"Papa Corleone",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40809,48.9413]
+    },
+    "properties": {
+    "business_id":"E4xZKaClfyebUI59RBOePQ",
+    "name":"Markgrafenkeller",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39886,49.0093]
+    },
+    "properties": {
+    "business_id":"EA6Ym63TtF9ntTrkZgkyJA",
+    "name":"Italy Italy",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"38",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37307,48.9901]
+    },
+    "properties": {
+    "business_id":"ebMNlzXkEl2lOVuXjgQgmA",
+    "name":"McDonald's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"2.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4130358,49.0075253]
+    },
+    "properties": {
+    "business_id":"EC8I62pXmzHJUU-Fr16K8w",
+    "name":"Pfannestiel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.33885,49.0292]
+    },
+    "properties": {
+    "business_id":"EfXDe0RE17ihEkdL3r45Ug",
+    "name":"Schützenhaus Mühlburg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.52702,49.0535]
+    },
+    "properties": {
+    "business_id":"ejtVhXk9MdORE6lZxvejTg",
+    "name":"Cala Gonone",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35876,48.9229]
+    },
+    "properties": {
+    "business_id":"eKhdSimzPB9sEfFQmX-zHg",
+    "name":"Waldklause",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3961036,49.0106768]
+    },
+    "properties": {
+    "business_id":"ELbBgsX1rccs9ZZ9c9p9PA",
+    "name":"Krua Thai",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4269795,49.0126096]
+    },
+    "properties": {
+    "business_id":"eMtSU9hLX1sl4jATF_mdVA",
+    "name":"Hoepfner Burggarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47283,48.92973]
+    },
+    "properties": {
+    "business_id":"EnTfcULMZms42b4JzpqpNw",
+    "name":"Pizzeria Ristorante La Piazzetta Da Pietro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5031,48.9202]
+    },
+    "properties": {
+    "business_id":"EpZsI6uHsyaE1xHI-7Qglw",
+    "name":"Triangel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.386897063,49.00750918]
+    },
+    "properties": {
+    "business_id":"eqJ-p_8AYeltJU2tJHURJA",
+    "name":"La Churreria",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3748808,49.0106922]
+    },
+    "properties": {
+    "business_id":"eV0EsRRpx4M8tWr2W4Laxw",
+    "name":"Kaffeehaus Schmidt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"4",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.391655509,49.00888445]
+    },
+    "properties": {
+    "business_id":"ExFAJB0sH2M4pCeH88U8Ag",
+    "name":"Kolo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.49461,48.914]
+    },
+    "properties": {
+    "business_id":"eYwk23GQRyxdTFsW7vzi0g",
+    "name":"Zur Wagenburg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3957352,49.0119516]
+    },
+    "properties": {
+    "business_id":"eZ5bRX8Et83RKG2RkbTajQ",
+    "name":"Wok China-Schnellrestaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.385124497,49.00058859]
+    },
+    "properties": {
+    "business_id":"f1Qz5IoAcCF-fGMOfCXpSg",
+    "name":"Jaroons",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"3",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.33601,49.0079]
+    },
+    "properties": {
+    "business_id":"f2PQkagSYmdKKCQgE1fFTA",
+    "name":"Marty's Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4673396,48.9993295]
+    },
+    "properties": {
+    "business_id":"F7bt2jRmYrzUrC-KRcKl-w",
+    "name":"Umut",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39458,49.0013]
+    },
+    "properties": {
+    "business_id":"FCLHzkBsgjZCrHy6mm5LHg",
+    "name":"da Gianni Ristorante",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4038,48.9495]
+    },
+    "properties": {
+    "business_id":"FdNKP0YfRlMLMhKUlFhddQ",
+    "name":"Palmengarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41021,49.0087]
+    },
+    "properties": {
+    "business_id":"feSkNQq2U7scCVkGGJpudA",
+    "name":"Kais Pizza",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47479,48.9993]
+    },
+    "properties": {
+    "business_id":"feuIeCASfyAsAiWJOM6Gfg",
+    "name":"Moccasin",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40213,49.0026]
+    },
+    "properties": {
+    "business_id":"f-h9a30WaGubIQjjQs-w9A",
+    "name":"Majolika",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.397176185,49.00883452]
+    },
+    "properties": {
+    "business_id":"fIPiGSlvwxHf7_R2FL4KDQ",
+    "name":"Segafredo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.2512794,48.9417064]
+    },
+    "properties": {
+    "business_id":"FjEIf2VoM1cLUgTtsPurTQ",
+    "name":"Zeitlos",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47252,48.9999]
+    },
+    "properties": {
+    "business_id":"FJQLkkXYvukWFTJMMJvpOg",
+    "name":"LetscheBacchus Mediteranes Restaurant und Weinstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"47",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3898204,49.001901]
+    },
+    "properties": {
+    "business_id":"fkdzXWjseG1gKubQD_fkGg",
+    "name":"Vin Fou",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"4",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37481,49.0094]
+    },
+    "properties": {
+    "business_id":"fKEwqLzYhcW9pt1rMpfK2A",
+    "name":"Eierhuber",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"18",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3799444,49.009148]
+    },
+    "properties": {
+    "business_id":"flxT4xQdjw8U6R7XlA3IrA",
+    "name":"Burger King",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39723,49.0089]
+    },
+    "properties": {
+    "business_id":"fmYWSos9ySdLN6zkcS5cNg",
+    "name":"Rosenbaum",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40394,48.9406]
+    },
+    "properties": {
+    "business_id":"FpdNzWH9nEHHXfRvZ2tmqA",
+    "name":"Hong Asia",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40607,48.9588]
+    },
+    "properties": {
+    "business_id":"FQFd7NxnZnHX_nQ9riXJjA",
+    "name":"Seehof Hellas",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37497,49.0106]
+    },
+    "properties": {
+    "business_id":"fvZZp-gKF6HfoIZMhh2XtA",
+    "name":"Wienerwald",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41076,49.00684]
+    },
+    "properties": {
+    "business_id":"fxDQVbsUK0EjsME2dr8ZIw",
+    "name":"Zum Markgrafen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39323,49.0085]
+    },
+    "properties": {
+    "business_id":"g15qf0dUuu_aMN3mpY5quA",
+    "name":"Café Extrablatt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38666,49.0027]
+    },
+    "properties": {
+    "business_id":"G8RItqxdcG89jOKUk-neZw",
+    "name":"Saigon",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"4",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41481,49.0206]
+    },
+    "properties": {
+    "business_id":"GApmMso82MaAbCWWin3d5A",
+    "name":" KSC-Clubhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3896307,49.0442998]
+    },
+    "properties": {
+    "business_id":"GcYGGOoTlN9qa5zVvbwbTw",
+    "name":"funsportsbar XL",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3949231,49.0069432]
+    },
+    "properties": {
+    "business_id":"Gdb8Wz1i5HtVxZ1aP4ZI_A",
+    "name":"Cafe Jäck",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.34102,48.9994]
+    },
+    "properties": {
+    "business_id":"gepa_EcPF8raQjJByhbKKw",
+    "name":"Clubhaus im FV Daxlanden",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39969,49.0111]
+    },
+    "properties": {
+    "business_id":"GeQ03iVyEc653Z9U8doO7A",
+    "name":"Rih",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"17",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41754,49.01144]
+    },
+    "properties": {
+    "business_id":"GFCSVqiFmOtkGmvE2IsqKA",
+    "name":"Curry Queen College Point",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47261,49.0008]
+    },
+    "properties": {
+    "business_id":"ggmtudEwKHHDd9sq2CvqLQ",
+    "name":"Pablos",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"17",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35791,49.0123]
+    },
+    "properties": {
+    "business_id":"gHU8sHbkHaduYSFAd8C4Ng",
+    "name":"Restaurant Ritter",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"27",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40434,48.9413]
+    },
+    "properties": {
+    "business_id":"GJx5yeXImKVS-_5CY18OEw",
+    "name":"Gourmetrestaurant Erbprinz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40551,49.0034]
+    },
+    "properties": {
+    "business_id":"GKe4j0FMpaN_4QUcSSUPcw",
+    "name":"Pizzeria Gigi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40339,49.00934]
+    },
+    "properties": {
+    "business_id":"gKrRXJNjGlZHsoJ7oBbb3g",
+    "name":"Böckeler's Cafe",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"20",
+    "stars":"2.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.403884,49.0090322]
+    },
+    "properties": {
+    "business_id":"Gq9Cb7HsJSx-fLY2w16iZw",
+    "name":"Besitos",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"59",
+    "stars":"3",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.408095,49.004083]
+    },
+    "properties": {
+    "business_id":"GrQhGmJ4sEBu8uVo8gAaGw",
+    "name":"Kommödchen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"82",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40278,49.0073]
+    },
+    "properties": {
+    "business_id":"grTFv0AWA2yD1ebaRVY2Qg",
+    "name":"Sushi Circle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"53",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.53119,49.0534]
+    },
+    "properties": {
+    "business_id":"GuNsp9jyyZkk-_1-Bd4ltQ",
+    "name":"Alte Brauerei",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"24",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3949319,49.0109985]
+    },
+    "properties": {
+    "business_id":"gw8c-CiE_6mAhJmG7aqxlw",
+    "name":"Max",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"54",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37741,49.01059]
+    },
+    "properties": {
+    "business_id":"gY-_DMsOpYzSGxHp8Pqigg",
+    "name":"Mary Poppins",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"26",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4176549,49.0086696]
+    },
+    "properties": {
+    "business_id":"GY9pfuQlO0BhRUxvY9whmA",
+    "name":"Joey's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"2.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.413292706,48.94537067]
+    },
+    "properties": {
+    "business_id":"GZFfHlX-hLlVR1KFQK1_Ag",
+    "name":"Jacques Meyer's Culinarium",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35169,49.0006]
+    },
+    "properties": {
+    "business_id":"GZKJ-ZuZ8FR7pFDno8fSeQ",
+    "name":"TSV Grünwinkel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3956308,49.0079053]
+    },
+    "properties": {
+    "business_id":"h0i4gaAXH3GsU4n6yqzL9w",
+    "name":"Chopsticks Express",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.30596,49.0378]
+    },
+    "properties": {
+    "business_id":"h19yI0EpnAmZ6u-8FaMHrA",
+    "name":"Rheinterrasse",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39637,49.0084]
+    },
+    "properties": {
+    "business_id":"h3oTapYP5Q1G_u1t9xN64g",
+    "name":"Trattoria Toscana",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"23",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.53064,49.0074]
+    },
+    "properties": {
+    "business_id":"H9FMHAE6UK55RH0N6yItEA",
+    "name":"extrem pizza",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.407839351,49.00947771]
+    },
+    "properties": {
+    "business_id":"hc4D6AnfzhtMpOCWgXaZSA",
+    "name":"K2 Döner Kebap Center",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40803,48.9414]
+    },
+    "properties": {
+    "business_id":"He-DZK510V8MHobwyYBr4w",
+    "name":"Cafés Pierod",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"15",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40884,49.0089]
+    },
+    "properties": {
+    "business_id":"HFCGZPpfnHpCDfLYRjjkng",
+    "name":"Kaffeebar Schiller",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4275,49.0127]
+    },
+    "properties": {
+    "business_id":"hfl9dNooP69TCQus3tfaGQ",
+    "name":"Hoepfner Burghof",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.394354603,49.01084916]
+    },
+    "properties": {
+    "business_id":"hhCpRudOwsKhqnDFahXfZA",
+    "name":"Mille Stelle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"56",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3933216,49.0127895]
+    },
+    "properties": {
+    "business_id":"hhJKsnDFDLGhIbvzFhWAEw",
+    "name":"Aaaa Hotelwelt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"14",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.407182,49.0095822]
+    },
+    "properties": {
+    "business_id":"hhkBYTa41cgPFAE0v9xrBg",
+    "name":"Ins Blatt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47273,49.0013]
+    },
+    "properties": {
+    "business_id":"HhRsdzXs__gDxZ7K3RWLdg",
+    "name":"Zum Ochsen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4175911,49.0087271]
+    },
+    "properties": {
+    "business_id":"him1b0hMxc1m8RVCj1gQIg",
+    "name":"Karthago Döner",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"12",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40791,49.0094]
+    },
+    "properties": {
+    "business_id":"hJuw__aAzsTKNZjLpFUUcg",
+    "name":"Cortina",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.31623,48.978]
+    },
+    "properties": {
+    "business_id":"h-L8_QFAaGaXRxY1HsuRGA",
+    "name":"Ristorante Da Rocco",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3849638,49.0102472]
+    },
+    "properties": {
+    "business_id":"Hn4X80Mughw7s2ImIUipaw",
+    "name":"Bleu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"41",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41111,49.0097]
+    },
+    "properties": {
+    "business_id":"ho0ycCxMxuQmcIS-aIj-TQ",
+    "name":"Ballermann 1",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.42337,49.0108]
+    },
+    "properties": {
+    "business_id":"hoMYlkrb_FVGHxgX4s9QOA",
+    "name":"Pizzahaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3939728,49.0117821]
+    },
+    "properties": {
+    "business_id":"HTTgh_AzAfC09l2WyRZX5w",
+    "name":"Badisch Brauhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"80",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4485,49.00422]
+    },
+    "properties": {
+    "business_id":"huNUOZSeshXtXf_P-ZC47A",
+    "name":"Der Pfälzer Grill",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3410161,48.965887]
+    },
+    "properties": {
+    "business_id":"hvr8NYKtGbJL0T7Y3WRv8w",
+    "name":"Biergarten Jäger",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40781,48.9412]
+    },
+    "properties": {
+    "business_id":"HWbMWSe_ZTE_tzP9ocim4Q",
+    "name":"Yasmin",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38975,49.0794]
+    },
+    "properties": {
+    "business_id":"hwZfVaI9BYrhvOiPx1MEFw",
+    "name":"Zum Goldenen Anker",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"19",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47277,49.0005]
+    },
+    "properties": {
+    "business_id":"hXuQgPheHrZHfYM_cqibIQ",
+    "name":"Pflug Durlach",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40311,49.0091]
+    },
+    "properties": {
+    "business_id":"HYWs2uSBdFgj73yvKm7gLQ",
+    "name":"Wohnzimmer",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38578,49]
+    },
+    "properties": {
+    "business_id":"HZc_AmZTP9UJLygjXBGlkg",
+    "name":"China-City und Japan Sushi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"7",
+    "stars":"2.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4529,49.0262]
+    },
+    "properties": {
+    "business_id":"I_Zobc5TXNMAl9PxasrUcA",
+    "name":"Pizzeria Al Ponte",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.31881,48.97907]
+    },
+    "properties": {
+    "business_id":"I2nPfACCnDbuGRHB5wafWQ",
+    "name":"Clubhaus FV Sportfreunde Forchheim",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4036314,49.0090852]
+    },
+    "properties": {
+    "business_id":"i5OJAtAfw_adcXuiYPXM2w",
+    "name":"Marktlücke",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46293,48.9985]
+    },
+    "properties": {
+    "business_id":"i5RiBntsRyVbH4sZPnhfyg",
+    "name":"Piccola Pizzaservice",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39623,49.0472]
+    },
+    "properties": {
+    "business_id":"ia4OINUjKlm8tbpI3i2s5w",
+    "name":"Gaststätte La Fattoria",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.34502,49.0337]
+    },
+    "properties": {
+    "business_id":"IBIXSk96EGamXhd8jZJ04A",
+    "name":"Hühnerstall",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3755378,49.0107061]
+    },
+    "properties": {
+    "business_id":"ICQLD1gYrYlnahI-wQabQg",
+    "name":"Saray Grill",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46257,48.9949]
+    },
+    "properties": {
+    "business_id":"iEg59rSBqgoASuyCGV3oMw",
+    "name":"Rimelin",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3937144,49.0017467]
+    },
+    "properties": {
+    "business_id":"igf4FRdL8qxIpYWYw5WYKA",
+    "name":"Cafe Gurke",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3973169,49.0101678]
+    },
+    "properties": {
+    "business_id":"iIMc7_Kuipe4IO9CXPjk1A",
+    "name":"FreshSub",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"18",
+    "stars":"4.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.28568,48.9629]
+    },
+    "properties": {
+    "business_id":"ILtKHOTf_EwrzAesMeNBOw",
+    "name":"China Restaurant Long",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39297,49.04787]
+    },
+    "properties": {
+    "business_id":"iqabqwO_ZzWDZfasJy4ILQ",
+    "name":"Mamma Leone",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.45017,48.99534]
+    },
+    "properties": {
+    "business_id":"iqNw9UHBlsumItmncc8zAA",
+    "name":"American Diner Durlach",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"53",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4069024,49.005811]
+    },
+    "properties": {
+    "business_id":"IT4_iHuLkHBVl8gcKvL5qw",
+    "name":"Casa do José",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.53188,49.0507]
+    },
+    "properties": {
+    "business_id":"IuHDE3FdVwFlBb5zZmsr7w",
+    "name":"Alt Weingarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.497428,49.001351]
+    },
+    "properties": {
+    "business_id":"IUHSaYplitEtiCS_J3fy5g",
+    "name":"Restaurant am Grollenberg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3925622,49.0015013]
+    },
+    "properties": {
+    "business_id":"IvdsbInH0OAjk2lIiuGxJw",
+    "name":"Gaststätte La Tegola",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"12",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3899586,49.0098531]
+    },
+    "properties": {
+    "business_id":"ivlbvS9I0457UyljErTDcw",
+    "name":"L'Incontro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"4",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.330678816,49.03750906]
+    },
+    "properties": {
+    "business_id":"J8Iumsh8ZhDIsbYuRm44AQ",
+    "name":"Restaurant Mediterran",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3410331,49.0312518]
+    },
+    "properties": {
+    "business_id":"jAWUEUMysKTW605pkzFT2Q",
+    "name":"Vesuvio",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35137,49.0009]
+    },
+    "properties": {
+    "business_id":"JDrNMAJH50LeypYcyCvtvg",
+    "name":"Rössle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4081,48.9419]
+    },
+    "properties": {
+    "business_id":"JEsKdG3DB8x8OVMUPd4rsg",
+    "name":"Restaurant Kreuz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.33438,49.0092]
+    },
+    "properties": {
+    "business_id":"JfmueQg8DCnM8cOHMU8mAg",
+    "name":"Restaurant im Hotel Steuermann",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4634279,48.9978851]
+    },
+    "properties": {
+    "business_id":"jICAZqd25tqWiOdErWgufA",
+    "name":"Pavarotti",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40972,49.008]
+    },
+    "properties": {
+    "business_id":"JO7YPZUarTWSmgH6lvvo-g",
+    "name":"La Corona",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.48544,48.99677]
+    },
+    "properties": {
+    "business_id":"jptSDzDj9XS82tlJk7T1mg",
+    "name":"Anders auf dem Turmberg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"20",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.42389,48.96959]
+    },
+    "properties": {
+    "business_id":"jqGVJRgYeeDBNGwDf98e3A",
+    "name":"Radhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4103471,49.0088458]
+    },
+    "properties": {
+    "business_id":"JSUrYTag6F5_D9sVrUEtjw",
+    "name":"Marrakesch Imbiss",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40263,49.00846]
+    },
+    "properties": {
+    "business_id":"jVAsYNTmNE1q6tttEv2P-w",
+    "name":"Viva",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"18",
+    "stars":"3",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38519,49.078]
+    },
+    "properties": {
+    "business_id":"JVIBRz1ApsunKhkv4ydzhw",
+    "name":"King Seng",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3774673,49.050807]
+    },
+    "properties": {
+    "business_id":"jViZvpGS1uYO2E6t5fG4xw",
+    "name":"Nagels Kranz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"23",
+    "stars":"4",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39605,48.9944]
+    },
+    "properties": {
+    "business_id":"jyCkvh9oCyhQS8sotRCUGA",
+    "name":"Bezos Grill",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40253,49.00413]
+    },
+    "properties": {
+    "business_id":"jzmHs1saND7pr1OJ995PAA",
+    "name":"Il Teatro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"18",
+    "stars":"2",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4117936,49.0093693]
+    },
+    "properties": {
+    "business_id":"kBhO7ZsUsA-Dq0iZJN5YuQ",
+    "name":"Oxford Foods & Drinks",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"30",
+    "stars":"4",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.450262109,49.00491815]
+    },
+    "properties": {
+    "business_id":"kJYmRN3h_Uihnje_mEQlvw",
+    "name":"Hikari Asian Food",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3522,48.9951]
+    },
+    "properties": {
+    "business_id":"k-Luaw_6agrJ3KEftVmUoQ",
+    "name":"Restaurant Bernstein",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4555942,49.0331501]
+    },
+    "properties": {
+    "business_id":"Ko0IWAEQtHd5kWr30PXD_A",
+    "name":"Bäckerei-Konditorei Visel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3915446,48.9961953]
+    },
+    "properties": {
+    "business_id":"kOfQyegQ7As4JPCpuQSZuQ",
+    "name":"Sokrates",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"76",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4049898,49.0093937]
+    },
+    "properties": {
+    "business_id":"koSCCHbaAD2JYaKoEWAGvQ",
+    "name":"Eren",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"4",
+    "stars":"2",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41154,49.0087]
+    },
+    "properties": {
+    "business_id":"Kq1ZRU1MgrYQa2KfxESM7w",
+    "name":"Tasse mit Pfiff",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4794283,49.0674942]
+    },
+    "properties": {
+    "business_id":"KuKKjFdKH_0rVPx79q2uAA",
+    "name":"Hellas-Salute",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35631,49.00774]
+    },
+    "properties": {
+    "business_id":"kvWf4Z4afJvWZdkCVxDyeg",
+    "name":"Restaurant Beim Schupi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.45283,49.07333]
+    },
+    "properties": {
+    "business_id":"kW09pbl03gT_u9mNYHktgQ",
+    "name":"Olivenbaum",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41647,48.9394]
+    },
+    "properties": {
+    "business_id":"kZZVvob6GNtz-J5yVe10iA",
+    "name":"Watt's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40427,48.9849]
+    },
+    "properties": {
+    "business_id":"l7UvEpdtIO66VyIGvriO0w",
+    "name":"La Pineta",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3955183,49.0087155]
+    },
+    "properties": {
+    "business_id":"L8ptAswq0UvUwXdnVWjE8Q",
+    "name":"Enchilada",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"68",
+    "stars":"3",
+    "cuisine":"Tex-Mex",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39917,49.0683]
+    },
+    "properties": {
+    "business_id":"lAGqSQW24ym7OFxMBXf4RQ",
+    "name":"China Restaurant Yangtse",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"38",
+    "stars":"3",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40498,48.9415]
+    },
+    "properties": {
+    "business_id":"L-EkWc4HZiDVoxB7C3Z3Vg",
+    "name":"Vogel Hausbräu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"38",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4197889,49.0082425]
+    },
+    "properties": {
+    "business_id":"LEt0zGi-on6rI1h4r7IP_w",
+    "name":"Die Zwiebel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3940762,48.9979177]
+    },
+    "properties": {
+    "business_id":"Lg5F2e02jBaK0lrqbc8SRw",
+    "name":"Panorama",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"25",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.395964652,49.01095309]
+    },
+    "properties": {
+    "business_id":"LHYZbX-BaPg3k7xn5EG5Ug",
+    "name":"Deli Burgers",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41067,48.9427]
+    },
+    "properties": {
+    "business_id":"lku1qyIEkEPGgl-ZSMXIQw",
+    "name":"Kouros",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3283,48.969]
+    },
+    "properties": {
+    "business_id":"LmGNs_JUEzpaJ_I_2O90vA",
+    "name":"Waldschänke",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40748,48.94035]
+    },
+    "properties": {
+    "business_id":"LRevsPnXvytCmV7gWOh_1w",
+    "name":"Shalimar",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"4.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39541,49.0095]
+    },
+    "properties": {
+    "business_id":"lSZ1IMqd3ctUB9mzf22AEQ",
+    "name":"Yuff..ka Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.48018,48.946]
+    },
+    "properties": {
+    "business_id":"LuCrgEAXPoE0lcBnrVijQQ",
+    "name":"Schmalztöpfle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"21",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.49404,48.9949]
+    },
+    "properties": {
+    "business_id":"lxptrd5mnV0dZ9aTKEOy0g",
+    "name":"Schützenhaus auf dem Turmberg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.2722,48.9294]
+    },
+    "properties": {
+    "business_id":"lzJkgOCnjAA5B8tKPrLgsg",
+    "name":"Korfu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3948235,49.0068451]
+    },
+    "properties": {
+    "business_id":"m1xsKQP-gP1eL1_hFAmyhA",
+    "name":"La Strada",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"38",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40342,49.0056]
+    },
+    "properties": {
+    "business_id":"MAgvMutGp9HHfQ_opx2btQ",
+    "name":"Il Vino  Weinbar ",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.423938751,49.01145757]
+    },
+    "properties": {
+    "business_id":"mAoCr7W94jiERo1xVyg2_Q",
+    "name":"Oststadt Döner",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.2939138,48.959069]
+    },
+    "properties": {
+    "business_id":"mHchPV-YF9bjZroxXSHMyQ",
+    "name":"Carpe Diem",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.32635,49.0051]
+    },
+    "properties": {
+    "business_id":"Mhv_TCsXRVOfeatAZnm3xg",
+    "name":"Künstlerkneipe",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"11",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39131,49.007]
+    },
+    "properties": {
+    "business_id":"mJxdH_5Oy4kARMwO4KF_bg",
+    "name":"Heilige Sophie",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"28",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39408,49.002]
+    },
+    "properties": {
+    "business_id":"MKBXPWocpfd196680kx4Ig",
+    "name":"Mediterrane Selektion",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"32",
+    "stars":"4",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4147571,49.0090252]
+    },
+    "properties": {
+    "business_id":"mz1n2HTQONwj2Q7VnfvykQ",
+    "name":"Tonos Döner Kebap",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"1.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38653,48.9922]
+    },
+    "properties": {
+    "business_id":"mzvmAOdaxImvqfqmHQrEkA",
+    "name":"Restaurant Schwarzer Adler",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"12",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38081,49.0098]
+    },
+    "properties": {
+    "business_id":"n_n_WnX-CrjOLpHDr6Xgzg",
+    "name":"Kaisergarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"27",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40472,49.0096]
+    },
+    "properties": {
+    "business_id":"NBvCfBuShkbCfBVvtmKchQ",
+    "name":"Cafe Pierod",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4182,48.9787]
+    },
+    "properties": {
+    "business_id":"NCaqjfK-3uCGhixn4LD7Ug",
+    "name":"Restaurant  Zwitscherstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3966,49.0092]
+    },
+    "properties": {
+    "business_id":"NJcyFik3drl9bOX6fsPEMg",
+    "name":"Sen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"4.5",
+    "cuisine":"Vietnamese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.397736247,49.01047531]
+    },
+    "properties": {
+    "business_id":"NKaI-TV3XozbIi58MS2ssw",
+    "name":"El Taquito",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"82",
+    "stars":"3.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.54414,48.9854]
+    },
+    "properties": {
+    "business_id":"NkJZbX7z79t-z7VCTraFQg",
+    "name":"Pizzeria Kaminstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36659,49.00132]
+    },
+    "properties": {
+    "business_id":"nkS1No7nnXaQcTjPLsCJTw",
+    "name":"Kesselhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"48",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4086861,48.9423958]
+    },
+    "properties": {
+    "business_id":"nLx3zKqTUrd5VOZn1JzctQ",
+    "name":"Pizzeria Portobello",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3983,49.009]
+    },
+    "properties": {
+    "business_id":"nNlj8cScT8uG6zeXpgstHg",
+    "name":"Alte Bank",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"62",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38809,49.07797]
+    },
+    "properties": {
+    "business_id":"npPXKUwvNLiEpFcRjV75BA",
+    "name":"Restaurant Zum Löwen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4073135,49.009264]
+    },
+    "properties": {
+    "business_id":"nSfVhbKMbB72kb48ALuC4Q",
+    "name":"Continent",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"22",
+    "stars":"3.5",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5492494,49.00895265]
+    },
+    "properties": {
+    "business_id":"nTE5qqVWDLyIwaIsZBjgmw",
+    "name":"El Bandido",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"3.5",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38906,48.9916]
+    },
+    "properties": {
+    "business_id":"nTfeDYEy9fV4dEc7LMgM2g",
+    "name":"Pizza Sofort",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39522,49.0113]
+    },
+    "properties": {
+    "business_id":"NW8oT7STzS_lnGq9na1hKw",
+    "name":"Goldstück",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40803,48.94142]
+    },
+    "properties": {
+    "business_id":"nwZpULvp0sz_A38zRdwQog",
+    "name":"Ratsstuben",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38203,49.0789]
+    },
+    "properties": {
+    "business_id":"o04jZ9Pqlo0363KStsoVIw",
+    "name":"Pizzeria La Vita",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"2",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39363,49.0009]
+    },
+    "properties": {
+    "business_id":"O44eQVnZciZXU-nQaiKIPw",
+    "name":"Döner Pizza Restaurant Memo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3927555,49.0073259]
+    },
+    "properties": {
+    "business_id":"O7gAxbZxe6r2SSzDaA568w",
+    "name":"Stövchen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"79",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39335,49.0757]
+    },
+    "properties": {
+    "business_id":"O7WWyfIngvJzkurqHxt-zg",
+    "name":"Mille Stelle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.394701,49.0037274]
+    },
+    "properties": {
+    "business_id":"oAJFC0pUXJ1wHOehhgbmYQ",
+    "name":"Taj Palace",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"4",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3955415,49.0092757]
+    },
+    "properties": {
+    "business_id":"obJE7v4DCIX7JrHo0ULlIA",
+    "name":"Tuk Tuk",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36918,49.0457]
+    },
+    "properties": {
+    "business_id":"OBRi8m0U1uZISuMsmrNwdw",
+    "name":"Hermes",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.515779034,48.99938181]
+    },
+    "properties": {
+    "business_id":"OeO2xpV6Q9Ao3jCwZwdlTQ",
+    "name":"Zum Thai",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.393975,49.0107267]
+    },
+    "properties": {
+    "business_id":"oHIWHZQAO6N2QezzrGWpsw",
+    "name":"Toro  Café  Bar  Tapas",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"27",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37848,49.05321]
+    },
+    "properties": {
+    "business_id":"oI5S8WM1vfrLtFovylkguw",
+    "name":"Zum Löwen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41238,49.0091]
+    },
+    "properties": {
+    "business_id":"OIMZrrL5kGyZ6W6J8xsyEw",
+    "name":"Pizza Blitz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3533116,49.0339736]
+    },
+    "properties": {
+    "business_id":"oIZSTYYYxCMgkPQ6UhfaSg",
+    "name":"Sonneneck",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3941871,49.0030817]
+    },
+    "properties": {
+    "business_id":"oJc_PmX4cvnOCsbcRahgug",
+    "name":"kaiseki",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Japanese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.49739,49.001]
+    },
+    "properties": {
+    "business_id":"OLSLqsB22pn5tXW08CnfIA",
+    "name":"Restaurant Nerdings",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.45403,49.0174]
+    },
+    "properties": {
+    "business_id":"om3qoz4MTGNn5JLXilys5Q",
+    "name":"Kuhweide",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.384796269,49.00072413]
+    },
+    "properties": {
+    "business_id":"opCB7X-WIu2uiyvg7zU5dw",
+    "name":"Paparazzi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"2.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39338,49.0077]
+    },
+    "properties": {
+    "business_id":"OPckVDslcDH7v98nwtt5jw",
+    "name":"portale 50",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"32",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3818002,49.01039]
+    },
+    "properties": {
+    "business_id":"OrwnIUTkAWueo46g7MM54Q",
+    "name":"China Imbiss Panda",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4279634,49.0094449]
+    },
+    "properties": {
+    "business_id":"OSLkuwNmT-bAXWx_T-SbUg",
+    "name":"Bäckerei-Konditorei Visel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38397,49.00458]
+    },
+    "properties": {
+    "business_id":"OsNORlL36i6ucMO9EEhNoA",
+    "name":"tartufo bianco",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38768,49.0057]
+    },
+    "properties": {
+    "business_id":"oTIVPCW7ca5xjAJsB6oXJw",
+    "name":"new siam",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5217,49.0565]
+    },
+    "properties": {
+    "business_id":"ouovRnEE9M1R_jMm3eWqNQ",
+    "name":"City Kebab Pizza",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"2",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.400995341,49.01394855]
+    },
+    "properties": {
+    "business_id":"oxPnV43-BYdXRpKfAWbmMg",
+    "name":"Badische Weinstube im Botanischen Garten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40788,48.9421]
+    },
+    "properties": {
+    "business_id":"oZpN9T996T1M3eDiATfOCg",
+    "name":"z Fondue",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"9",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4981,48.906]
+    },
+    "properties": {
+    "business_id":"p2ClOLk3iwF6glVUsXYoWQ",
+    "name":"L'Ancora",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3938027,48.9995353]
+    },
+    "properties": {
+    "business_id":"P5dLuhD2vCJxurMCE-UGtA",
+    "name":"Kilimanjaro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3160137,48.974622]
+    },
+    "properties": {
+    "business_id":"p9zQzAarxtulvnR3N4xcbA",
+    "name":"Restaurant Schoko",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"23",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.51328,49.0466]
+    },
+    "properties": {
+    "business_id":"pdISA8BqlOzP415f6l0a9g",
+    "name":"Gärtnerklause im Kleingartenverein",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"16",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.431449597,49.00583007]
+    },
+    "properties": {
+    "business_id":"PeqiU4qUevbRas9Z7YeOcQ",
+    "name":"Carls Wirtshaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.409039,49.0055343]
+    },
+    "properties": {
+    "business_id":"PeR64AIkleu-t9gwed6vow",
+    "name":"Hallo Pizza!",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"11",
+    "stars":"2",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3980172,48.943208]
+    },
+    "properties": {
+    "business_id":"PGKNUqWf8bbh3SQMcuKvCA",
+    "name":"Brasserie Pot-au-Feu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"24",
+    "stars":"4",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5346,49.0489]
+    },
+    "properties": {
+    "business_id":"pIB6QhXYJZMOAVoGN49Tag",
+    "name":"Da Gianni",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40494,49.0094]
+    },
+    "properties": {
+    "business_id":"pRCxPIEmu2UojXphKguGvQ",
+    "name":"McDonald's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36659,49.00132]
+    },
+    "properties": {
+    "business_id":"PsKXNVUfzpTGKZuAeSSgTA",
+    "name":"Le Salon",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"4",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39603,49.0111355]
+    },
+    "properties": {
+    "business_id":"Q0eBAW3YgXGHjAulqu7k2g",
+    "name":"La Rose",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"49",
+    "stars":"4.5",
+    "cuisine":"Middle Eastern",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40702,48.99959]
+    },
+    "properties": {
+    "business_id":"Q9KZP_PPmKwdBKdt18yCWQ",
+    "name":"Walhalla",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40164,49.0105]
+    },
+    "properties": {
+    "business_id":"QarmS4FAf3tlWMbHaCksvw",
+    "name":"Hung Wok's",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.402977,48.9847005]
+    },
+    "properties": {
+    "business_id":"qdKwzUXhjBQJ5AlvRZxQLg",
+    "name":"Erasmus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.32291,49.0035]
+    },
+    "properties": {
+    "business_id":"Qi61w8ZGqtipWfoALZq1hw",
+    "name":"Restaurant An den Saumseen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Seafood",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3953298,49.0103284]
+    },
+    "properties": {
+    "business_id":"qjM94mEJRjhcFZfjJ0zXVg",
+    "name":"Cafe Emaille",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"78",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.42689132,49.01101781]
+    },
+    "properties": {
+    "business_id":"QJsgf4Vcj6ZAKmbt4LPtXQ",
+    "name":"FG 1",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37556,49.0151]
+    },
+    "properties": {
+    "business_id":"qK447qQ0UYOGGWjlZDxycQ",
+    "name":"Heimservice + Restaurant Pronto Pronto",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"1.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4139686,49.0074424]
+    },
+    "properties": {
+    "business_id":"qKCYXulWC-SlD2BTc_SUzQ",
+    "name":"Der Vogelbräu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"79",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.28885,48.9162]
+    },
+    "properties": {
+    "business_id":"QkttdZaXAt5csTYffJvVfg",
+    "name":"BesenArt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.409819603,48.94685707]
+    },
+    "properties": {
+    "business_id":"QL3A3JgdImfDFOHqU1YV0w",
+    "name":"Veritas",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"15",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35589,49.0029]
+    },
+    "properties": {
+    "business_id":"QnClRGIbIj3Ad2CAueSRQw",
+    "name":"Brauhaus Monninger",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39385,48.9996]
+    },
+    "properties": {
+    "business_id":"qnE_bJoQlbW94yLYKAeH5A",
+    "name":"Restaurant Löwe am Tiergarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3657,49.0116]
+    },
+    "properties": {
+    "business_id":"qpoBgU3CRaJp2_QYMIleBw",
+    "name":"Café Cortina",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.426511708,49.00347587]
+    },
+    "properties": {
+    "business_id":"qrCIf32eIwBG8tPdjd59Xg",
+    "name":"Purino",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4730213,49.0003129]
+    },
+    "properties": {
+    "business_id":"QUl85k7lKTvY1ry0sIoBgA",
+    "name":"Alte Durlacher Brauerei",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"Steakhouses",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4203417,49.0094259]
+    },
+    "properties": {
+    "business_id":"qWsWsHsOY9rTZVEr773LEw",
+    "name":"Oktave",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"3.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35593,49.0101]
+    },
+    "properties": {
+    "business_id":"QXou2_cNNSGNqpIUBikQOg",
+    "name":"Bäcker Lörz",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39235,48.9915]
+    },
+    "properties": {
+    "business_id":"qZPe4sIIskdoYAt5WZt2jQ",
+    "name":"Ristorante Adria",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4058565,49.0071518]
+    },
+    "properties": {
+    "business_id":"R3kAGyaVGZt0Hhq9M46xPw",
+    "name":"Espresso Stazione",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"21",
+    "stars":"5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41238,49.0068]
+    },
+    "properties": {
+    "business_id":"rdxY4ssW8wLrHUMUSSKAeQ",
+    "name":"Kap",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4039376,48.9983346]
+    },
+    "properties": {
+    "business_id":"RgdbMe1YL8K0ssfnA2XwmQ",
+    "name":"da franco",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"17",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3921432,49.0105991]
+    },
+    "properties": {
+    "business_id":"rgu4D8r828sQvPM4p3k4XQ",
+    "name":"Seng Sushi & Chinarestaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"66",
+    "stars":"4",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39806,49.0042]
+    },
+    "properties": {
+    "business_id":"rhHqf8a6DEax4uo-YpXshA",
+    "name":"Wacht am Rhein",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.54874,48.9727]
+    },
+    "properties": {
+    "business_id":"RIGDf2wpemxhAmCgWGOR9w",
+    "name":"Dschingis Khan",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40859,48.9964]
+    },
+    "properties": {
+    "business_id":"rI-zKwYMA6ET1TK_oybZlA",
+    "name":"Pizza Heimservice Exzellent",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"2.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3679247,49.0090115]
+    },
+    "properties": {
+    "business_id":"RK-nzsaTzF5at7ncuPm2Pg",
+    "name":"Ristorante Da Paolino",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38349,48.94524]
+    },
+    "properties": {
+    "business_id":"R-Ly3sJyBLWLBTg-SbKhKg",
+    "name":"Viva Pizza",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.36126,49.0168]
+    },
+    "properties": {
+    "business_id":"rOVEvIMMA0f7-PakoMtjtA",
+    "name":"Oberer See",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"7",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40505,49.009]
+    },
+    "properties": {
+    "business_id":"rpSKQ-pHcRxKCNuhoEZ2iw",
+    "name":"Litfaß",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"42",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.417521239,49.00449762]
+    },
+    "properties": {
+    "business_id":"rQruj9he537QGhhaZT_aBw",
+    "name":"Akoya Grill & Sushi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"15",
+    "stars":"3.5",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41033,49.0067]
+    },
+    "properties": {
+    "business_id":"Rw3wYzqmc_GtI8Ocx2xHUA",
+    "name":"Kral",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38811,49.0323]
+    },
+    "properties": {
+    "business_id":"S1K_mg24V0704Le6B8x0AQ",
+    "name":"San Felice",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"29",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39998457,49.01032925]
+    },
+    "properties": {
+    "business_id":"S78B3Ue7HfdJRmuGsxoEKg",
+    "name":"Shogun Ya",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Sushi Bars",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40504,48.9414]
+    },
+    "properties": {
+    "business_id":"S8mldWVT5FT2IFTAP1P1lQ",
+    "name":"Erbprinz - Weinstube Sibylla",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"13",
+    "stars":"3.5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.396102,49.008202]
+    },
+    "properties": {
+    "business_id":"s9sRbsrPoRtj4D6UQik5wg",
+    "name":"Pizza & Gusto",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.27504,48.9432]
+    },
+    "properties": {
+    "business_id":"saopjBTvw8iVKmfJe-Y3fA",
+    "name":"Minigolf Bierbar",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.45656,49.02862]
+    },
+    "properties": {
+    "business_id":"Sdb26i3k-2oGfFIOM7Vo1g",
+    "name":"Asia Imbiss",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35779,49.01386]
+    },
+    "properties": {
+    "business_id":"SEDbbnlM6veHdjECABo3dg",
+    "name":"Café Vanguarde",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39203,49.033]
+    },
+    "properties": {
+    "business_id":"sFP7NkMVdr8KaZ32zjYQaA",
+    "name":"Fünf",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.45698,48.9993]
+    },
+    "properties": {
+    "business_id":"SISGZJOJtEPMZCYXTHFftA",
+    "name":"Mykonos",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4036,49.0067]
+    },
+    "properties": {
+    "business_id":"SjAnB4unBymlvlXe8ltMOw",
+    "name":"Philong",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.405290785,48.94136055]
+    },
+    "properties": {
+    "business_id":"sJYgtBb-To4rG12ANUtYmw",
+    "name":"Palladio",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.34122,49.0046]
+    },
+    "properties": {
+    "business_id":"SqbXhueVJl4F4rbc2193wg",
+    "name":"Pershia",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3961268,49.0107021]
+    },
+    "properties": {
+    "business_id":"sriGkDnL9vUUjXZQDFyvsQ",
+    "name":"Yangda",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39266,48.9773]
+    },
+    "properties": {
+    "business_id":"SsThJPCbJYsWr5ZOpuzk6g",
+    "name":"Restaurant Gartenzwerg",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"23",
+    "stars":"3.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.394396901,49.00965955]
+    },
+    "properties": {
+    "business_id":"sWUJBOH7_iL4OcjX9tVIbg",
+    "name":"Café Palladio",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39339,48.9973]
+    },
+    "properties": {
+    "business_id":"Sx2rwD5PWZgQzS_T7Czz-A",
+    "name":"Kaffeebar Isetta",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.340256333,49.03022544]
+    },
+    "properties": {
+    "business_id":"sXFxpk-7G_5EasbUQmIzyw",
+    "name":"El Taco",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3",
+    "cuisine":"Mexican",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4547,49.0473]
+    },
+    "properties": {
+    "business_id":"SXMFJo-4eB5YbhHYMCLYFA",
+    "name":"Hoepfner Burghof",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40788,49.0016]
+    },
+    "properties": {
+    "business_id":"SY_vl_vFvoZv59GX8V7F8Q",
+    "name":"Wolf's Bräu",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4034,49.0024]
+    },
+    "properties": {
+    "business_id":"sZkbuP7RPo7PQjOPbt3i4Q",
+    "name":"Köprü Kebab II",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39153,49.0084]
+    },
+    "properties": {
+    "business_id":"t19dYb7sygky_uSFze7nlg",
+    "name":"Euphrat Döner",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"17",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41793,49.023]
+    },
+    "properties": {
+    "business_id":"TbPbHknC5EMptGyoq0uK3A",
+    "name":"Mtv Gaststätte",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"18",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40697,48.9407]
+    },
+    "properties": {
+    "business_id":"tFDuF_WwCB_AI_RlgHQZ6w",
+    "name":"täglich",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"8",
+    "stars":"3",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4109536,49.0025347]
+    },
+    "properties": {
+    "business_id":"tjqmHj3E1zyb6Dy8TbPc8Q",
+    "name":"Arzum",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"18",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4035151,49.0071138]
+    },
+    "properties": {
+    "business_id":"TkDLSrDMOe0i7y5olhTmjg",
+    "name":"Gelbe Seiten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"3",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.25536,48.9109]
+    },
+    "properties": {
+    "business_id":"Tm3w1r_ysQSxu-hnV9BetA",
+    "name":"Föry Bäckerei und Café",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3989263,49.0804348]
+    },
+    "properties": {
+    "business_id":"tMzGMo61zvpfh7g1JtMacg",
+    "name":"Apollon",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.44355,49.0424]
+    },
+    "properties": {
+    "business_id":"TnFAFcoYTEwGD5E8m0z0Og",
+    "name":"Best Döner / Pizza Haus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4797723,49.0003162]
+    },
+    "properties": {
+    "business_id":"tOnHeSrUQ3hGGnxrmCCiQg",
+    "name":"Restaurant Maharani Palace",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"4",
+    "cuisine":"Vegetarian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.395907,49.0088115]
+    },
+    "properties": {
+    "business_id":"tpR2U16lkQJI5TK4AOZH7w",
+    "name":"Ludwigs",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3990277,49.0109714]
+    },
+    "properties": {
+    "business_id":"TTrw0LfWHEpZauszXsc7aQ",
+    "name":"Espressione",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40166,49.0103]
+    },
+    "properties": {
+    "business_id":"TxXxBOiBEyHZfVfRnduECA",
+    "name":"Ay Sel",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38557,49.0004]
+    },
+    "properties": {
+    "business_id":"tY_GK6bi7iyKF2RjpV5cFw",
+    "name":"Die Fritte",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.49784,48.9065]
+    },
+    "properties": {
+    "business_id":"TYqtq5p9HiQ92qyZGyhCqg",
+    "name":"Valtellina",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40286,49.0081303]
+    },
+    "properties": {
+    "business_id":"TZI0KlF9whWU1JgUjIRP_Q",
+    "name":"EigenArt",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"26",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38735,49.0318]
+    },
+    "properties": {
+    "business_id":"u_QcgQDztf0juiqHooRqxQ",
+    "name":"Hellas Salute",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3854,49.0002]
+    },
+    "properties": {
+    "business_id":"u_xD7-AhxnhDz3lpTYCMhA",
+    "name":"Sushi Bar China City",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4045914,49.0021803]
+    },
+    "properties": {
+    "business_id":"U1OrMffyVeE2qbpNTrSSuA",
+    "name":"Antalya",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.391051,49.0046994]
+    },
+    "properties": {
+    "business_id":"U6YILIsxeF57X7IygtAzmw",
+    "name":"Flynn's Inn Irish Pub",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39388,49.0105]
+    },
+    "properties": {
+    "business_id":"u9KzJQFIh49y7KacPbaNaw",
+    "name":"Rosa Bianca",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.420191462,49.00388976]
+    },
+    "properties": {
+    "business_id":"UbMfwmBEU9Jt3rRysjh4Yg",
+    "name":"Laib & Leben",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3982185,49.0117491]
+    },
+    "properties": {
+    "business_id":"ucNCtUDrAF3rf6rYNdIEpg",
+    "name":"Oberländer Weinstube",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"11",
+    "stars":"4.5",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38594,48.99]
+    },
+    "properties": {
+    "business_id":"uDcPmLSWvq3vWac__ZhJrQ",
+    "name":"s' Häusle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"French",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39254,48.98584]
+    },
+    "properties": {
+    "business_id":"UDvpY4D2zWLInNxNWGb3iw",
+    "name":"Bombay Palace",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.382325283,49.00775348]
+    },
+    "properties": {
+    "business_id":"UFhXPp4kA9zwbjdkUivTiA",
+    "name":"Löwenbräukeller",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"20",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40806,49.01]
+    },
+    "properties": {
+    "business_id":"UgdA4TRbbOvmsubfp9b03Q",
+    "name":"Il Caminetto",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.25344,48.91349]
+    },
+    "properties": {
+    "business_id":"uh-8pp-GZFwrB6YV--tmzA",
+    "name":"Gasthaus zum Hirsch",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3717994,49.0109498]
+    },
+    "properties": {
+    "business_id":"UJaAi1u6ocEMwqdiVYYOoQ",
+    "name":"Hotel Allee",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3392771,49.0314426]
+    },
+    "properties": {
+    "business_id":"UKgcD3uy_y_J0NpkSUi28g",
+    "name":"schuhs",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38828,49.0783]
+    },
+    "properties": {
+    "business_id":"uKN9qKI9_FUJya2tQc2S_Q",
+    "name":"Eggensteiner Döner Kebap Haus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37548,49.0094]
+    },
+    "properties": {
+    "business_id":"uMI7fuUCZ8Bgy_xq37JuJQ",
+    "name":"Carpe Diem",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"16",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3969286,49.0099839]
+    },
+    "properties": {
+    "business_id":"Umq7lcGqslqbIFtPHwvSYw",
+    "name":"Eiscafe Casal",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"27",
+    "stars":"4.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.37437,49.0086]
+    },
+    "properties": {
+    "business_id":"UMXxDCwStYjH5-ISb3ikUg",
+    "name":"Espresso + More",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"5",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35596,49.0108]
+    },
+    "properties": {
+    "business_id":"UPA058i2o2W_3F5PvnlU1g",
+    "name":"da Nino",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40381,48.9713]
+    },
+    "properties": {
+    "business_id":"upJZl7WyrJaXHYLx941fjg",
+    "name":"Albhof",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"9",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39766,49.0106]
+    },
+    "properties": {
+    "business_id":"upQpcnTaJXNV5Gh3DN6TBg",
+    "name":"Asia Dynasty",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"31",
+    "stars":"3",
+    "cuisine":"Asian Fusion",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.397215207,49.01072039]
+    },
+    "properties": {
+    "business_id":"UTTXRaoaowgCDrkkZtwHVQ",
+    "name":"Curry76",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"31",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.454118967,48.97255872]
+    },
+    "properties": {
+    "business_id":"UVfh-2Jod32qq-CcpV2rGg",
+    "name":"s' Wölfle Bistro",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3974337,49.0014411]
+    },
+    "properties": {
+    "business_id":"UX0dUr8Q9IgUpN6GxdneIQ",
+    "name":"Alter Brauhof",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.431304097,49.01377977]
+    },
+    "properties": {
+    "business_id":"UYegAlQFh85wH9FKkC-O9Q",
+    "name":"KOLO Restaurant",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"6",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46418,49.0269]
+    },
+    "properties": {
+    "business_id":"uYHtexRRnIWpxXkfnYIvcQ",
+    "name":"Palmgarten",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"5",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.35627,49.0185]
+    },
+    "properties": {
+    "business_id":"V3uUrc-aM1z5TCersU_RSQ",
+    "name":"Annas schnelle Wunder Küche",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.381561,49.0065359]
+    },
+    "properties": {
+    "business_id":"VaTVq_DMtcu38LrHcxdvLw",
+    "name":"Gaststätte Braustüble",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4074475,49.0069786]
+    },
+    "properties": {
+    "business_id":"vcvXl_EBMAO5ogIEApkfwA",
+    "name":"Cafe Palaver",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"61",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4023623,49.0177377]
+    },
+    "properties": {
+    "business_id":"Vj3Dvf9OwTrEZiOzpwr4-w",
+    "name":"Cantina Majolika",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"21",
+    "stars":"3.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4754,48.99971]
+    },
+    "properties": {
+    "business_id":"VjUooAwjEk8kNf4RAasxdg",
+    "name":"Cubanita",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"39",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4066376,49.0057831]
+    },
+    "properties": {
+    "business_id":"VkXW8B9SSJJkLZoj-tnEvg",
+    "name":"My Heart Beats Vegan",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Burgers",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4785,49.0033]
+    },
+    "properties": {
+    "business_id":"vnYeVzgrdfxmkhiQfotJJA",
+    "name":"Obermühle",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"3.5",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40715,49.0093]
+    },
+    "properties": {
+    "business_id":"wcDIREqhp_M8MFb7jRUkuA",
+    "name":"Goldenes Horn",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.454413351,48.9984263]
+    },
+    "properties": {
+    "business_id":"WEWNWZ9Jgu5rdTz-Wm6j-Q",
+    "name":"Zum Eisenbahnlandwirt Fattoria da Federico",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.395393,49.011186]
+    },
+    "properties": {
+    "business_id":"WhuwyDN8C6dOGsgcdXA3Xw",
+    "name":"Vapiano",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"78",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.2909,48.9597]
+    },
+    "properties": {
+    "business_id":"wlpEw_wjXNqmwzMw4Trv-g",
+    "name":"Özge Imbiss",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"5",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.32785,49.0051]
+    },
+    "properties": {
+    "business_id":"Wo5kOFvtYYP1euhiAJav-w",
+    "name":"Casa Rustica",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"30",
+    "stars":"4",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3953945,49.008644]
+    },
+    "properties": {
+    "business_id":"WPhNbOH_AocROquwLMDl1A",
+    "name":"Aposto",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"101",
+    "stars":"3",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.401794434,48.99352373]
+    },
+    "properties": {
+    "business_id":"WUV8x3y7LdX-bpLyNrWnrQ",
+    "name":"Royal Kebab",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"1.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40199,49.0105]
+    },
+    "properties": {
+    "business_id":"W-Wl0bCoetWp4f98DJ7iiA",
+    "name":"Kim Fat",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.381736026,49.00563914]
+    },
+    "properties": {
+    "business_id":"wwTIhfgZRwYJuyygUQ3WAw",
+    "name":"Mevlana",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"48",
+    "stars":"5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.348591716,49.01252594]
+    },
+    "properties": {
+    "business_id":"X3G0dgXKUuwWTGQftOV6qQ",
+    "name":"Restaurant Sonnenbad",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.46771,48.9991]
+    },
+    "properties": {
+    "business_id":"xCmGSQ4evtMcLUe8LJRYnw",
+    "name":"Asia Food",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39655,49.00895]
+    },
+    "properties": {
+    "business_id":"xCUUzCt4EqRiVrsFl6hiYQ",
+    "name":"Salmen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"22",
+    "stars":"2.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40768,49.0075]
+    },
+    "properties": {
+    "business_id":"xDgwDsrhS3S4Jb25qW2vZA",
+    "name":"Cafe Bohne",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"11",
+    "stars":"4",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40409,49.004]
+    },
+    "properties": {
+    "business_id":"xFENYZF63fiV00uaNlB9VA",
+    "name":"Die Stadtmitte",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"3.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40796,49.0022]
+    },
+    "properties": {
+    "business_id":"Xip3lJW6qUXCWoP8ieGF7g",
+    "name":"Bar Milano",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"8",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38305,49.0013]
+    },
+    "properties": {
+    "business_id":"XjueQh8rz0RiUWCUzGYY-A",
+    "name":"EL 29",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"36",
+    "stars":"2.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3992,48.9936]
+    },
+    "properties": {
+    "business_id":"XjvhtBnGVEHeB-jzRrE7Fg",
+    "name":"Rubenbauer",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.53175,49.0516]
+    },
+    "properties": {
+    "business_id":"xk7mi7FGWL2UeQekjie--g",
+    "name":"Walk'sches Haus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39467,49.0039002]
+    },
+    "properties": {
+    "business_id":"-xK-9VwI0WbIdyme7N_0MA",
+    "name":"Antalya",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"3.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3672117,49.0010596]
+    },
+    "properties": {
+    "business_id":"xkHfkj1MjALGf-rOjTkTJQ",
+    "name":"Hoepfner Treff",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.50859,48.9542]
+    },
+    "properties": {
+    "business_id":"Xl2vFM_dc7bLsriiyKzTZw",
+    "name":"Sonne",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"2.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.43031,49.0084]
+    },
+    "properties": {
+    "business_id":"xljcv1ceFxU4HtMxVnby_g",
+    "name":"Joes Hasen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"18",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.53168,49.0521]
+    },
+    "properties": {
+    "business_id":"XOfQK8EptEGG6DEQGTIfZw",
+    "name":"Tony's Pizzeria",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4125177,49.0091019]
+    },
+    "properties": {
+    "business_id":"xOHV4QKNn_9FH7gslunbEQ",
+    "name":"Seilerei",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38991,49.0097]
+    },
+    "properties": {
+    "business_id":"Xqyxw2wPAb9hnMc6aWTmxQ",
+    "name":"Punjab",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"15",
+    "stars":"3",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38479,49.0045]
+    },
+    "properties": {
+    "business_id":"XtaO8ZryRE-cp7fvWP1xdw",
+    "name":"Athen Palast",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"35",
+    "stars":"4",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41535,48.9732]
+    },
+    "properties": {
+    "business_id":"Xx6npDqT7zPufnGubcLlSQ",
+    "name":"Zum Griechen",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"7",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4129912,49.0010011]
+    },
+    "properties": {
+    "business_id":"xYMNYPWBbrtYihJJ4n14vQ",
+    "name":"El Greco",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3819565,49.0097298]
+    },
+    "properties": {
+    "business_id":"y_qmQDXa5ve9zdOd46P7Zw",
+    "name":"Pizza Da Roberto",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"3",
+    "stars":"1",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.41931,49.0073]
+    },
+    "properties": {
+    "business_id":"Y2ClurK-CH47qiaxwyu4WQ",
+    "name":"Gaststätte Die Kippe",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"43",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.27346,48.9374]
+    },
+    "properties": {
+    "business_id":"Y5KYnewS-fsmgbXpS67wbA",
+    "name":"Lamm",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"1",
+    "review_count":"3",
+    "stars":"3",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39595,49.0085]
+    },
+    "properties": {
+    "business_id":"yAvKBD9f54Mncwqd_DRDIg",
+    "name":"La Cage",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"18",
+    "stars":"3",
+    "cuisine":"American (Traditional)",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4961897,49.0073882]
+    },
+    "properties": {
+    "business_id":"YEbtpJvUrdzwpMneGIuRGw",
+    "name":"Grötzinger Pizza- und Kebab Haus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"4.5",
+    "cuisine":"Pizza",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.26771,48.93023]
+    },
+    "properties": {
+    "business_id":"Y-pLdTgWBbzjvGeEwliGzw",
+    "name":"Pizza  Döner Litfaß",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"3",
+    "stars":"4",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3866569,49.0022686]
+    },
+    "properties": {
+    "business_id":"yqPt0KX2PmJjjJ_FB48r3g",
+    "name":"Best-Imbiss",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"2.5",
+    "cuisine":"Fast Food",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39572,49.0003]
+    },
+    "properties": {
+    "business_id":"YWAJKGTZbpIKUOhHCBzMGw",
+    "name":"Restaurant garbo",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"24",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.39414,49.0088]
+    },
+    "properties": {
+    "business_id":"YylCWByGj96aKdMg5rXaPw",
+    "name":"Alex",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"22",
+    "stars":"3",
+    "cuisine":"Breakfast & Brunch",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.5057262,48.9168511]
+    },
+    "properties": {
+    "business_id":"yzujxM_HrrNB3dri5SX18Q",
+    "name":"Grüner Baum",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40681,49.0095]
+    },
+    "properties": {
+    "business_id":"z1eBRYqP3VjQwuu0HbjDjw",
+    "name":"Cafe Pan",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"9",
+    "stars":"4",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4056083,49.0027307]
+    },
+    "properties": {
+    "business_id":"Z2z3OKOAIFv1rLSBFYr6lw",
+    "name":"China-Restaurant King Seng",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"14",
+    "stars":"2.5",
+    "cuisine":"Chinese",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.54856,48.97009]
+    },
+    "properties": {
+    "business_id":"z7KdYRdwLG9O8oL89cxmug",
+    "name":"Restaurant Villa Hammerschmiede",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"4",
+    "review_count":"30",
+    "stars":"4.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.44813,48.99565]
+    },
+    "properties": {
+    "business_id":"Za_v4P5dEdOFkGFvVgzg7A",
+    "name":"Bollywood Curryhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"4",
+    "stars":"3",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3848354,49.007288]
+    },
+    "properties": {
+    "business_id":"zCCSkDIz7KUHoDDdN64L7Q",
+    "name":"Indian Curry Haus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"6",
+    "stars":"3",
+    "cuisine":"Indian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4020704,49.0105543]
+    },
+    "properties": {
+    "business_id":"zCVSAxJF62U8kZ8uUKA6Ug",
+    "name":"Multi Kulti",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"50",
+    "stars":"3",
+    "cuisine":"Coffee & Tea",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4616611,49.0014456]
+    },
+    "properties": {
+    "business_id":"ZgBGrt_faLaLk273rEyRdA",
+    "name":"La Villetta Cucina Mediterranea",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.4709425,49.0631554]
+    },
+    "properties": {
+    "business_id":"ZIoJzo1Sv9MkwuZ9L1AxDg",
+    "name":"Riviera",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"3",
+    "review_count":"15",
+    "stars":"4.5",
+    "cuisine":"Italian",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.38704,49.0102]
+    },
+    "properties": {
+    "business_id":"zlLkLxf0VRs05kmdKLoQ6Q",
+    "name":"Kebap Express",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"6",
+    "stars":"3.5",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.52754,49.0987]
+    },
+    "properties": {
+    "business_id":"zM64LVtsIiPojs1SBECBNA",
+    "name":"Ritter Stammhaus",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"12",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40672,49.0057]
+    },
+    "properties": {
+    "business_id":"zp5mGqT0QQQHM1qRqxkywQ",
+    "name":"Trattoria Art",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"0",
+    "review_count":"4",
+    "stars":"4",
+    "cuisine":"Mediterranean",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.40248,49.0093]
+    },
+    "properties": {
+    "business_id":"ZQ6HmK2N2EyP3EU-vtq6_Q",
+    "name":"Da Vinci",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"10",
+    "stars":"4.5",
+    "cuisine":"Cafes",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3895511,49.0081741]
+    },
+    "properties": {
+    "business_id":"ZuNZZsIId-0PIpTFQoWR8g",
+    "name":"Bangkok Foodland",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"46",
+    "stars":"4",
+    "cuisine":"Thai",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.3607027,49.0254337]
+    },
+    "properties": {
+    "business_id":"zw0o_GpYMKzdRNikus_dpw",
+    "name":"Restaurant Hellas",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"7",
+    "stars":"3",
+    "cuisine":"Greek",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.43102,49.0061]
+    },
+    "properties": {
+    "business_id":"ZWBakQIVSnqIvigLt14p1w",
+    "name":"Im Schlachthof",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"15",
+    "stars":"4",
+    "cuisine":"Anonymous",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates":  [8.47966,49.0001]
+    },
+    "properties": {
+    "business_id":"ZwguYsK83tel85bPkuURQQ",
+    "name":"Restaurant Delphi",
+    "city":"Karlsruhe",
+    "attributes.Price Range":"2",
+    "review_count":"19",
+    "stars":"4.5",
+    "cuisine":"Greek",
+    }
+  },
+]
+}

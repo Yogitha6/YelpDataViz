@@ -1,0 +1,859 @@
+Business_id,Name,City,Price Range,Review Count,Stars,Latitude,Longitude,Cuisine
+_6MDHQQ-PeUJ9CP-MoKApA,Pancake Cafe,Madison,2,36,2.5,43.04883798,-89.50367824,Breakfast & Brunch
+_b-Q0ZVI30FfgPW_UtbLyw,North and South Seafood & Smokehouse,Madison,2,40,4,43.0616294,-89.4962001,Seafood
+_L6sbh9zs7f4s1EM_niQcA,Casey's General Store,Madison,0,4,5,43.25312,-89.356495,Pizza
+_NW61hsQvk7u2E_xWiWyMQ,Main Depot Tavern,Madison,1,11,4,43.0672802,-89.392125,American (Traditional)
+_WbZri6b9Wq4iofDm7CI9Q,Bassett Street Brunch Club,Madison,2,302,4,43.072731,-89.393353,Breakfast & Brunch
+_xeigHhwNOB6N1if3lQO3w,Olive Garden Italian Restaurant,Madison,2,41,3,43.06028788,-89.50449837,Italian
+_xssBWvthbdPh2KdAaAJSw,Glass Nickel Pizza,Madison,2,26,3,43.0158469,-89.5114326,Pizza
+_z9UrC5hCTBK1JIgQD0YDw,Noodles & Company,Madison,1,56,3.5,43.0749456,-89.3895712,Anonymous
+03yij332OZ6UNqajNgZsGA,Babcock Hall Dairy Store,Madison,1,42,4.5,43.0749778,-89.4137655,Anonymous
+04h3nxtkDfaKsJhrKRHZ-Q,Taco Bell,Madison,1,12,2,43.174555,-89.25008,Fast Food
+07cMlpbiOeiR8AP8JR0c_g,Milio's Sandwiches,Madison,0,4,3.5,43.0839852,-89.3027469,Anonymous
+08UPumc2Tr3trW8J5SCrow,El Rancho Mexican Grill,Madison,1,30,4.5,43.0588605,-89.4000633,Mexican
+0CpLn6Sx7Gxv2_hThX3qzQ,New Seoul Korean,Madison,2,27,4,43.0755809,-89.518577,Korean
+0DxeMAfznpqhxH1Z8O0_Yg,Magic Wok,Madison,1,44,4.5,43.092519,-89.353881,Chinese
+0IDIy6Ti9V4rKhX-WgWFHg,Curry in the Box,Madison,1,66,3.5,43.023349,-89.418612,Thai
+0iJhsBF_AkHsVUKCggWsQw,The Klassik Tavern,Madison,2,21,4,42.989845,-89.538978,American (Traditional)
+0ilFtvFUJ71JqiaVxIM-KA,Pots N Tots,Madison,1,7,4.5,43.0730517,-89.4012302,Anonymous
+0lslsYnEVGDtXiM9V2GxWg,Ginza Of Tokyo,Madison,2,56,2.5,43.056628,-89.4989583,American (New)
+0NNw9CHm0X8LJBvmIJvBIA,Jordan's Big Ten Pub,Madison,2,69,4.5,43.0679737,-89.4082936,American (Traditional)
+0oQFFOdPZycIBmGkoBrlbg,Noodles & Company,Madison,1,34,3.5,43.12540795,-89.30969877,Anonymous
+0p3MbCriuvH9hgqRK9W-LA,Milio's Sandwiches,Madison,1,5,2.5,43.0734008,-89.382498,Anonymous
+0pQhnZ5CV60lSKTQg2GKng,Oakcrest Tavern,Madison,2,52,4,43.0739889,-89.4727397,American (Traditional)
+0pXk2JkijBpi2Iz0D5pFXA,Kabul Restaurant,Madison,2,133,3.5,43.075131,-89.394445,Mediterranean
+0rj2xW1YKAbfHxe804Fefw,Benvenuto's Italian Grill,Madison,2,51,3,43.0146691,-89.4303415,Italian
+0UL_ZuWauXthShF2mb9iKw,Pitcher's Pub,Madison,1,15,3.5,43.0365968,-89.388805,American (Traditional)
+0wGWhZw81cIG7YjwghZhgw,Sunroom Cafe,Madison,1,138,3.5,43.075159,-89.396178,Breakfast & Brunch
+0zaZp4Kqar6P4iG0ZfuftQ,The Seafood Center,Madison,2,26,4.5,43.0492844,-89.474125,Seafood
+11yg-JMNCFowyIjJarzuDQ,Hardee's,Madison,1,8,3,43.132307,-89.300914,American (New)
+154tSL4P_0sblVtP7uP3_Q,Cosi,Madison,1,35,3,43.09078469,-89.52554617,Anonymous
+1alcD9lDjwxDIcGaUh9oCw,Taste of India,Madison,2,41,4,43.0572208,-89.428248,Indian
+1befOgRP6P_AwzA1K6RJ4A,Dickey's Barbecue Pit,Madison,1,24,3.5,43.08999255,-89.52320934,Barbeque
+-1BzcQK-HDA6LVOThHMpsw,AJ's Pizzeria and Diner,Madison,2,17,4,42.9880198,-89.5336701,Pizza
+1H0L1uJtQdgwCxFEC7q6Tw,Olde Town Coffee House,Madison,2,13,4,43.0757247,-89.1994343,Coffee & Tea
+1HbKFWG5QKzYkuNxig6H7w,Saigon Noodles,Madison,1,253,4,43.0571457,-89.4995195,Vietnamese
+1qz8Ws6tEu04X632x08pzg,Rocky Rococo Pan Style Pizza,Madison,2,17,2.5,43.0606248,-89.5199061,Pizza
+1s5nBRc-6BqFT_1-ZaVVug,New Orleans Take-Out,Madison,1,81,4,43.067354,-89.4130592,Anonymous
+1vXBMPl0It4jzUWBM-lJgA,Copper Top Restaurant,Madison,1,22,3,43.04541242,-89.47394002,Breakfast & Brunch
+1XbjMTMynhnMtqosQPS7CQ,Library Mall,Madison,1,4,5,43.07530521,-89.39790994,Anonymous
+1YEuqVtVMHdpavzoGcUUug,International House of Pancakes,Madison,1,18,2,43.13014194,-89.30640341,Breakfast & Brunch
+23RTangEll2MCb-xS571gg,Cafe Maya,Madison,1,15,4,43.0499145,-89.4736027,Coffee & Tea
+24_ltXORy8Taumt3NO9zsQ,McDonald's,Madison,1,7,2.5,43.057127,-89.501621,Burgers
+2aai1pIfThxDTTD_WwXHeA,Taste of China,Madison,1,13,2.5,43.0602545,-89.3267209,Chinese
+2b_lt45uM8XMgX-weIJ3nA,MacTaggarts Market,Madison,1,8,4,43.076974,-89.3943453,Anonymous
+2B-pcUEMVkhghGAeuptxBA,Wendy's,Madison,1,11,1.5,43.0751289,-89.394324,Burgers
+2hhUners_f_O2pGqSHr41A,CIRC,Madison,2,6,4,43.0756129,-89.3865836,Breakfast & Brunch
+2KiC2dj6rf3UWuvj6RPAgw,Tempest Oyster Bar,Madison,3,157,4,43.07393002,-89.37962415,Seafood
+2N4gFWxQYvhr9GfYiMyROg,Fast Biryani,Madison,1,53,4,43.13291034,-89.30237976,Indian
+2pmMehsVKnwhgWPSOxrkjA,Panda Garden,Madison,1,16,3.5,43.1886488,-89.228567,Chinese
+2pODeDkLYUSv0BBVkNoB9Q,Fib's Fine Italian Beef & Sausage,Madison,1,18,4.5,43.07398995,-89.38302755,Hot Dogs
+2sJ3f-1lKo3oL5URrAAhPw,Heritage Bakery & Cafe,Madison,1,10,3.5,43.0843503,-89.2998239,Cafes
+2uapF8uioz-DZ2Eq0eeXmQ,QQ Express,Madison,1,37,3.5,43.07325938,-89.40930348,Chinese
+2vsPceME9rHNZ9OkR5zrpg,The Paradise Lounge,Madison,1,52,4,43.07282564,-89.3845477,American (New)
+2WxwgDMKm8XW6grbuMsDwg,Rocky Rococo Pan Style Pizza,Madison,1,13,2.5,43.035492,-89.4099449,Pizza
+2WYBbV-VCKcnFemxWDZH_w,Atlantis Taverna,Madison,2,57,4.5,43.1828511,-89.2115121,Greek
+2xmRqCzVBfnoJPzBPnefyA,Taco Bell,Madison,1,10,3,43.09677,-89.5235,Fast Food
+2xRvgHdrm4X3myIFdp9Wew,Rocky Rococo,Madison,1,9,2.5,43.0516249,-89.4728803,Pizza
+3_dKevejfGY3eRj2xprRIQ,Ground Zero,Madison,1,54,4,43.0780958,-89.3721028,Coffee & Tea
+30Wzq2Yjcnt8IGZteNOmEQ,Dragon I,Madison,2,60,2.5,43.075006,-89.3921359,Chinese
+311yXufoXR2dFngMHS9MFg,McDonald's,Madison,1,6,3,43.104087,-89.340903,Burgers
+32TNAtF2XVRYr1W_0deWMw,Burrachos Fresh Mexican Grill,Madison,1,15,3,43.1864694,-89.2667417,Mexican
+36nl8e6-LK01TTNP33PcJQ,Willie Ty's Eatery,Madison,2,30,3.5,43.1735465,-89.2076187,Burgers
+-3fmY6IhikhUQXpiaLgxHA,McDonald's,Madison,0,3,1,43.087207,-89.209226,Burgers
+3ibpEbF2-n1nUeJ2gQBQFg,Denny's,Madison,1,8,3,43.04854146,-89.3116191,Breakfast & Brunch
+3Jq5cde5lN9tLPrrOUAEFw,Gino's Italian Deli,Madison,1,54,4,43.035168,-89.456344,Italian
+3KUwS1FedV0_L5y_D9YAiQ,Palmyra Mediterranean Grill,Madison,1,57,3.5,43.0748105,-89.3925202,Mediterranean
+3mEOCjX7s9mW4QUMqAAyOA,Pho Nam Noodle House,Madison,1,100,4,43.0734853,-89.5267274,Vietnamese
+3nwskbfFgsSjVe6T8keTeg,Lao Laan-Xang Restaurant,Madison,2,234,4.5,43.083166,-89.364985,Anonymous
+3QGVEzjqBy8__fCuxN_e1g,Colectivo Coffee,Madison,1,20,3.5,43.0748669,-89.395633,Coffee & Tea
+3SnqTPne49E5XSYv7BvYUw,Lazy Jane's,Madison,1,206,4,43.0853653,-89.3617096,Breakfast & Brunch
+3xVoQSgkPAd2i0GE3lHSZg,Johnny's Italian Steakhouse,Madison,2,114,3.5,43.093647,-89.52668,Steakhouses
+3zD6rxB92Mr0jb-LoYFFWw,Burger King,Madison,1,21,1.5,43.1878972,-89.2271655,Burgers
+3ZQmCHGtK6JNHlxaCeOx7g,Babes Grill & Bar,Madison,2,63,3.5,43.0469205,-89.4770529,American (New)
+41F8e_RwXlmIe10j8Qbhrw,Five Guys Burgers and Fries,Madison,2,27,3.5,43.0902166,-89.522219,Burgers
+41NDrs1MLZqh00kpwBOtxw,Popeyes Chicken and Biscuits,Madison,1,13,3,43.0300117,-89.41093105,Fast Food
+41yvEnuFyB1iVzKYGXbTMQ,Pasqual's,Madison,2,36,3,43.0019195,-89.5288269,Mexican
+4BDeQwomJF195VY93R6Cww,Barriques,Madison,1,12,3,43.0931608,-89.3497288,Coffee & Tea
+4buhMysOQJBM6dHx7TxuUw,The Egg & I,Madison,1,77,3,43.0344735,-89.4209198,Breakfast & Brunch
+4Db74Jsyp81bei99fo-3Xg,World Buffet,Madison,2,40,3,43.05775833,-89.51388891,Chinese
+4DC1iwWjbl__amO_pPFyAQ,Me & Julio,Madison,2,38,3,43.005696,-89.426917,American (Traditional)
+4dL8yzQu974eCtTI-V4Znw,Vientiane Palace Restaurant,Madison,1,76,3.5,43.0754787,-89.3904163,Thai
+4eLcH5_DBlPb1NyuoQiRSw,Estrellón,Madison,3,74,4,43.07438058,-89.390352,Cafes
+4F-mUkDJW2_Dtys7tv_GCA,Layla's Persian Food,Madison,1,37,4.5,43.075171,-89.37861,Middle Eastern
+4h7Fz2FeBu_KAx5FnFQ-Tg,Potbelly Sandwich Shop,Madison,1,11,2.5,43.1336297,-89.2995085,Anonymous
+-4PHmmCt_RmAfaE3sDKW_g,Mr Roberts,Madison,1,16,3.5,43.092992,-89.351504,Burgers
+4pZeC9W0EIiBTOJMnwG2vw,Red Robin Gourmet Burgers,Madison,2,51,2.5,43.046583,-89.3240256,Burgers
+4PZwjwKcTbH4tWBiHz4s5Q,5th Quarter Sports Bar & Grill,Madison,2,22,3.5,42.9959036,-89.524044,American (Traditional)
+4qWsQ5w7tenHTbR6s54GFw,Mr. Torta's,Madison,1,10,3.5,43.08397675,-89.30336322,Mexican
+4UsqmhU5wCmt1VnNyVoI7Q,Churchkey Bar and Grill,Madison,1,20,3.5,43.0734676,-89.3970368,American (Traditional)
+5_TX9FincQ29TOSLDfFxUQ,Oliva,Madison,2,65,3.5,43.0759404,-89.5178922,Italian
+57kf_KK1Lg7AIq0ozInH7Q,Papino's Ristorante and Pizzeria,Madison,0,16,3,43.2133742,-89.3458236,Pizza
+59HbIvjRvRyLfB8BnkoSYg,VFW Day Post 7591,Madison,2,6,4,43.083265,-89.32132,American (Traditional)
+5B0XAz8RhbuMDlRhot71mw,Jason's Deli,Madison,1,26,3.5,43.0606086,-89.5190145,Anonymous
+5debNXrXsKre_Xqxqm7GCg,Mr Brews Taphouse,Madison,1,22,3.5,43.0743197,-89.39042036,Burgers
+5grWBMD8Jt8vy-geV54e5Q,Culver's,Madison,1,7,2.5,43.0607063,-89.5101285,Burgers
+5m0OPZOPkohxh1D67M7ncA,Bruegger's Bagels,Madison,1,15,3.5,43.061218,-89.486019,Breakfast & Brunch
+5uxhIGZlJm9g_zfG_83z5Q,Peking Chinese Restaurant,Madison,0,4,3.5,43.1753699,-89.2482376,Chinese
+5w-qVzxUOGEajm9eH3gEkA,Parkway Family Restaurant,Madison,1,22,4,43.0363518,-89.4049488,Breakfast & Brunch
+-5xC7s9Ujg5F-3xFXtM_kg,Benvenuto's Italian Grill,Madison,2,22,2.5,43.081537,-89.524176,Italian
+5yDWNMFglisReWoTykOTRg,Gates & Brovi,Madison,2,126,3.5,43.052916,-89.435789,American (New)
+6091WcaSB2PnZ3Ag6eGCmg,Great Wall,Madison,1,7,4,43.0352503,-89.4536015,Chinese
+68JsiWNLKs8NDCrBCxIWMA,Esquire Club,Madison,2,38,3,43.111265,-89.363442,Steakhouses
+6BaQ2FZTDi2FYX9dIxWeJA,Steenbock's On Orchard,Madison,3,45,3.5,43.07263769,-89.40739609,American (New)
+6fDr0uxQ6HahgzMq0EkUXQ,Ginger Root,Madison,1,11,2.5,43.0717653,-89.4081342,Asian Fusion
+6GcKYcihd0psn7qY_bHMgQ,House of Mei,Madison,1,44,4,43.1835114,-89.2128523,Chinese
+6jCcIZcdhNPVep1oeUvegg,Ironworks Cafe,Madison,1,20,3.5,43.0970189,-89.3436886,Cafes
+6LNptbDHEKFDOpiJ7f-QYQ,Wendy's,Madison,1,9,3,43.051062,-89.5023902,Burgers
+6oDZ78JiSKjXVLcurCpnhw,Nitty Gritty Middleton,Madison,2,28,3,43.0844617,-89.5014542,American (Traditional)
+6PuVFIL1rF5E-qu0Wq-Gug,VIP,Madison,2,141,3.5,43.0571089,-89.49836,Sushi Bars
+6pYw00nLXSFTAsFngeB2Pw,TnT's Coffee & Cafe,Madison,1,40,3.5,43.0757768,-89.5186717,Breakfast & Brunch
+6QR-mdYPWJ9WuN7-xtTfQg,El Burrito Loco,Madison,1,3,4,43.07349621,-89.38322067,Mexican
+6YfLUTHFWdjZeMwsXTU1ww,Dragon City,Madison,1,13,3,42.988809,-89.545425,Chinese
+7489EuoDxHS432D2n4TCXQ,Curry in the Box,Madison,1,47,3.5,43.0748779,-89.4476184,Thai
+75hp1dHtMxLGbunwDZq7Cw,Maharana Indian Restaurant,Madison,2,63,4,43.1224002,-89.3108083,Seafood
+7dlX9oOy3o1_MPV-t7wTSA,Papa John's Pizza,Madison,2,8,3,43.072826,-89.394966,Pizza
+7NMvQUStQYd0ArBNnqAWtg,Tuscany Mediterranean Grill,Madison,2,23,3,43.0165752,-89.4242797,Greek
+7TqO3HEI7NJF_WGKwgPCaA,Next Door Brewing Company,Madison,2,104,3.5,43.093665,-89.345698,Anonymous
+7uoxZ35biPZfl8m5w2_XRA,Papa John's Pizza,Madison,2,5,4,43.10083732,-89.34890946,Pizza
+85GaloTNAYNl3hF87CPdkg,KFC,Madison,0,8,2.5,43.0604,-89.5126,Fast Food
+89O2bCyo92IpEEvgFXqOMw,Cousins Subs,Madison,1,3,3.5,43.1173463,-89.3229722,Anonymous
+8AGIIxZ-BBHbEGsgmhOOwA,Arby's,Madison,1,6,2.5,43.047206,-89.305583,Burgers
+8D5bGc3ScnJS-oyV_vye6g,Fuddruckers,Madison,2,20,3.5,43.0907884,-89.5292944,Burgers
+8GlGakyGqp9WvToKcnJmxg,Nostrano,Madison,3,174,4,43.072631,-89.384011,Italian
+8Khkf1BmXmalNT_J6iKFvw,Topper's Pizza,Madison,2,12,2.5,43.0156312,-89.4798753,Pizza
+8sYsE-RIvdubisaa69PxiA,La Bamba,Madison,1,47,3,43.0496415,-89.5032438,Mexican
+8wj6i7lHo9R4gPaXrxpWRw,Campus Biryani & Gyros,Madison,1,34,1.5,43.0675794,-89.4106017,Indian
+8XHad9b3D7Zynt5ZkrQK7w,Wando's,Madison,1,55,3,43.0734189,-89.3959172,American (Traditional)
+9B9xy9bPJbxxST_xxteZmw,Little Caesar's Pizza,Madison,1,6,3.5,43.0256771,-89.4148895,Pizza
+9CK32E4OjQnBJblWB5QsZQ,Arby's,Madison,0,3,3.5,43.1668835,-89.267983,Fast Food
+9GHHH-edaSLwKZahZTdM3g,Wisconsin Brewing Tap Haus,Madison,2,94,3,43.0747315,-89.3869838,American (Traditional)
+9gLWzc8CWu-LsrpLXrTWeA,Great Harvest Bread Company,Madison,1,20,4.5,43.075277,-89.4430321,Cafes
+9GUN0cEAK6ysOz0oGhCK8A,Plaka Taverna,Madison,1,79,4,43.0756543,-89.3772786,Greek
+9hf_gSaDn3cdLsE6vTsUfw,Happy Wok,Madison,1,11,4,43.1470709,-89.287972,Chinese
+9ofDKryDCTnkAZXKzLcQ8w,Avenue Club and the Bubble Up Bar,Madison,2,81,3.5,43.085589,-89.3694529,American (Traditional)
+9p1o6jCY4fkQAJRmEjgSMw,The Sett,Madison,1,16,4,43.0719139,-89.4081342,American (New)
+9Tjj3Zg-PPFCIUB_ITe30A,Ladonia Cafe,Madison,1,12,5,43.07628569,-89.38398812,Anonymous
+9TSU0S-4Ni3cjrJFrdQLeg,Chocolaterian Cafe,Madison,1,97,4.5,43.0920578,-89.3551271,Coffee & Tea
+9uS7KnxzXV_-ZJMk_2rUSA,Hooters,Madison,2,22,3,43.131951,-89.301399,American (Traditional)
+9vcPZJKD46IkBlFuU4Z-Dg,Lao Laan-Xang,Madison,2,80,3.5,43.09283269,-89.35198279,Thai
+9vgu6o1CwP5NakVkb29z0g,Sarku Japan,Madison,1,6,4.5,43.1280801,-89.3043221,Japanese
+9vr4pVexU8hhnbQBJECzmg,Mid Town Pub,Madison,2,46,4,43.1014856,-89.4853769,American (Traditional)
+9wsv3WwH0HtwPvD8XCdT_g,Culver's Frozen Custard,Madison,1,9,4,43.1782088,-89.2387305,Fast Food
+9xncPz8c0hQp1wXZNyZynQ,Milio's Subs,Madison,0,3,2.5,43.0923102,-89.3537663,Anonymous
+9yDl7MtVdwC_f-wq-_elBw,Nonno's Ristorante Italiano,Madison,2,64,4,43.0495471,-89.4740771,Italian
+a1RJtImq30iLs4oxM--QKA,The Free House Pub,Madison,2,96,4,43.096159,-89.511939,American (Traditional)
+A32mYktgckODsMR3gM3hRQ,Legends Sports Bar & Grill,Madison,2,17,3,43.058414,-89.495487,American (Traditional)
+A3ZK7esn3oKG5O3OEWMHiw,Himal Chuli,Madison,2,176,4,43.0748011,-89.3906964,Anonymous
+a5FttSCTWbAZmfkIkUENJw,McDonald's,Madison,1,14,3,43.068007,-89.404538,Burgers
+a66CtYcUgVjXy57GcoDOXg,Journey Sushi & Seafood Buffet,Madison,2,117,3.5,43.120559,-89.305994,Seafood
+aaYR5kTMqgRGVtTr1kKmKw,Chipotle Mexican Grill,Madison,1,34,4,43.0749023,-89.3967531,Fast Food
+aCMhR8XTu-f8GgMHYl0ipA,Sophia's Bakery & Cafe,Madison,1,177,4.5,43.0838052,-89.3768109,Breakfast & Brunch
+aE0Wo8zNiFcxvlsNRgR0dw,Mother Fool's Coffeehouse,Madison,1,69,3.5,43.0819293,-89.36579,Coffee & Tea
+Agr28_3DohGpTAD0NGS95Q,Crema Cafe,Madison,1,139,4,43.0785876,-89.3240091,Breakfast & Brunch
+Aie1Q9OT6OTRY0cuvX7ZyQ,Burger King,Madison,1,3,4.5,43.0381071,-89.3930193,Fast Food
+Aio5aGXkf0aEeGCcSpWkRg,Tex Tubb's Taco Palace,Madison,2,227,3.5,43.0920977,-89.3547317,Mexican
+ALE6n4ec-_JvopWx5de7PA,McDonald's,Madison,1,7,1,43.0395114,-89.3946639,Burgers
+ALwQeM5E8kpsB6AfSmzW0w,Taco Bell,Madison,1,10,1.5,43.015264,-89.47901,Fast Food
+aMxgW7RlILhF-vcD-sihhg,Granite City Food & Brewery,Madison,2,119,3.5,43.0562479,-89.506801,American (Traditional)
+aqnvzRlSMlW5OX9A-qipLA,IHOP,Madison,1,25,2.5,43.0741404,-89.4374257,Breakfast & Brunch
+AwilCbbfLRp4bx5agP9Qmg,Dairy Queen,Madison,1,9,3,43.0253194,-89.4141559,Fast Food
+AwQorTMV_hspc7Y6D_bFmw,Oliver's Public House,Madison,2,111,3.5,43.0725542,-89.43009758,Breakfast & Brunch
+aybLDQRhUwOr7WoQfdofPQ,Rare Steakhouse,Madison,4,111,4,43.0752003,-89.3858351,Steakhouses
+B_K4A2gIK7Q8rPmBDYI86w,Taqueria El Jalapeño,Madison,1,53,4,43.038073,-89.45202,Mexican
+B0Vuwn6Hugc-0U5n31YBfg,C's Restaurant Bakery and Coffee Shop,Madison,1,28,4,43.102896,-89.48674,American (Traditional)
+b1Rosp3eIyRKgSbr6Axg1Q,Paisan's,Madison,2,115,3,43.070715,-89.383068,Pizza
+b3HiA0pIJ-qIUfXwqIvAZQ,Anna's Pizzeria,Madison,2,16,4.5,43.1778077,-89.2403448,Pizza
+b3ZOCcD_bU9Tfv21o9ThBQ,Fraboni's Italian Specialties & Delicatessen,Madison,1,25,3.5,43.0678314,-89.4003925,Italian
+b4Kh-7FujnNDeA1z9X8KFw,Amber Indian Cuisine,Madison,2,47,4.5,43.0965066,-89.501014,Indian
+B5n_4U72uoZ3mkZeQCt9RQ,Cousins Subs,Madison,1,4,3,43.07987414,-89.563016,Anonymous
+bAKErQneMNuEThzhMgXFJw,Buffalo Wild Wings,Madison,2,37,2,43.0471185,-89.3215271,American (Traditional)
+BcSaNiXBsGaxdnZU096QTg,Denny's,Madison,1,17,2.5,43.05824316,-89.50213641,Breakfast & Brunch
+BfiU8hGgUpNNm7t-ljnwmw,Hong Kong Station,Madison,2,34,3.5,43.067569,-89.410727,Chinese
+BfnwW7f18N4J0MD-bnh1zQ,Day One Pizza,Madison,1,14,3.5,43.18091065,-89.20992002,Pizza
+bFosvxlK1PWI6dqvIKpQ5w,The Great Dane,Madison,2,88,3.5,43.01809085,-89.42332515,American (Traditional)
+Bgsr91YOV0F48h0OUCgciA,Brocach,Madison,2,69,3.5,43.0647939,-89.416839,Breakfast & Brunch
+bjbkbKup-HqkkWRrEOk2cg,Laredo's Mexican Restaurant,Madison,2,39,3,43.0144173,-89.4274219,Mexican
+bldyAKdfvulwDRZNu0OwTg,World Of Beer,Madison,2,27,3.5,43.0896909,-89.523381,American (Traditional)
+Blv95aU63EQSMw7wH9xSQA,Maharani Restaurant,Madison,2,164,3.5,43.0719143,-89.389124,Indian
+BoYuRrfyC6qQSaJFrgAWWg,Chez Nanou,Madison,2,46,4,43.0782582,-89.3711024,French
+BPftTf2ZNidSaeyyXcxhdg,Subway,Madison,1,3,3,43.103449,-89.487044,Fast Food
+Br9o4CNzhwUw4YUHseGA-g,Buck's Pizza,Madison,1,19,3.5,43.0828269,-89.4752687,Pizza
+brkJrGv2Eaj9NTl9g2RMgA,Rocky Rococo Pan Style Pizza,Madison,1,5,2.5,43.0703762,-89.3253853,Pizza
+BtqIbQ44Pa7-4pAIfPnc9Q,Falbo Bros. Pizzeria,Madison,2,27,3.5,43.11055436,-89.50921282,Pizza
+BUIrO-pCTTgMGQcAj2qyrA,Helbachs Coffee House,Madison,1,27,4,43.0596333,-89.5135245,Coffee & Tea
+BVgnavF-B0wxQhP7wJTAVg,Rosie's Coffee Bar & Bakery,Madison,1,63,4,43.0698529,-89.3254346,Coffee & Tea
+BwQiwAZTHjmoBY0yO06inQ,Heartland Grill,Madison,2,9,3,43.0477179,-89.3737397,American (Traditional)
+BZukyg37Vf7j0oLJC24LHg,Erbert and Gerbert's,Madison,1,15,3.5,43.0734337,-89.3956943,Anonymous
+c1cGCn1syl9_c6XKEu4Mhg,Irish Pub,Madison,1,15,3.5,43.074663,-89.3908579,American (Traditional)
+c2KtIwcnEh99YWZsRgq4zQ,Sonic,Madison,1,30,2.5,43.0936159,-89.4924119,Fast Food
+c2ZluDaHbes0-ZgvZyurBw,Chang Jiang Restaurant,Madison,1,27,3.5,43.0319838,-89.4781127,Chinese
+C4sdA4Eu7D8VMRPAnUgoSA,Xiang Jiang,Madison,1,9,4,43.0866447,-89.2087999,Chinese
+c5awCF5eu0ZkxUf_i94uPA,Bristled Boar Saloon & Grill,Madison,1,22,3.5,43.1033362,-89.4925824,American (Traditional)
+C6NHEs8gWDzLFdpy59B-zA,Jacobson Bros Meats & Deli,Madison,1,4,3.5,43.1077779,-89.3633256,Anonymous
+C70R_7VBmd4WHCZp1B9i1A,OSS Madison,Madison,1,112,4.5,43.0676801,-89.4015806,American (New)
+C8eIJ_fuWhUUERCSaTZehg,ZenZen Taste \u56db\u5408\u9662,Madison,2,17,4,43.0506402,-89.4976638,Asian Fusion
+cap_lFiLgcHbyteGoHicIA,MOOYAH Burgers  Fries & Shakes,Madison,1,18,3.5,43.0748656,-89.3955327,Burgers
+cCStad4wX3ADPbz5AHCn9g,KFC,Madison,2,7,1.5,43.084,-89.3162,Fast Food
+cFZj6p-KEiAZokMPbjuMRA,Novanta,Madison,1,116,4.5,43.0749188,-89.5298466,Italian
+cG-wWJPO6MCuphYIqVcLsQ,Rosati's Pizza,Madison,1,69,3.5,43.0614686,-89.4964192,Pizza
+CgZG8x59kWo4-wVt5vHT4w,Inka Heritage,Madison,2,162,4,43.0608425,-89.4009947,Seafood
+cIGbQ0evZMaBGBt1am4hAQ,McDonald's,Madison,1,3,4,43.0174542,-89.299625,Burgers
+CiZ_j-Hq5WK5WOW_zB7WZg,Green Forest Family Restaurant,Madison,1,8,4,43.0485599,-89.315492,Breakfast & Brunch
+ckliJ8meY4ZMF6aQUb8PYw,Ian's Pizza,Madison,1,308,4,43.07489166,-89.38695031,Pizza
+CLW4LJCYbAkwlgNWB2rVbQ,Echo Tap & Grill,Madison,1,71,4,43.0682028,-89.3914096,American (Traditional)
+cmv6wUUe-H0xRiFEY0__iQ,Graze,Madison,2,719,4,43.075721,-89.38207,American (New)
+cnc5Fu-xE1CKLI_bh7P01g,Original Pancake House,Madison,2,110,4,43.0833692,-89.4759564,Breakfast & Brunch
+cnvVpOF0pC0QuvANdCpoMQ,The Cheesecake Factory,Madison,2,88,3,43.0571911,-89.5054669,American (Traditional)
+cpGv6ES2hzPCtCUQgipwXw,New Orleans Take-Out,Madison,1,58,4,43.09843453,-89.36446667,Seafood
+cQNRW64fLhkVV2yQyqHkGA,Barriques Market,Madison,2,56,4,43.01497105,-89.45763702,Coffee & Tea
+CQRYL_4Mu3215d1F_C0Qpg,Badgerland Bar & Grill,Madison,2,17,3,43.0714537,-89.3943638,Burgers
+cRqZ_w9ImfYYIXTHpJMv0Q,Silver Eagle Bar & Grill,Madison,1,22,3,43.056329,-89.326148,American (Traditional)
+cruBFtsFaBuhX_I72uU8pA,Papa John's Pizza,Madison,2,6,1.5,43.0956809,-89.4945693,Pizza
+CshTEcwHhtL7uxs888cLzA,Pancake Cafe,Madison,2,102,3,43.011847,-89.4770054,Breakfast & Brunch
+ct5sMv_fhZLNOt_ymNpXZQ,Jakarta Cafe,Madison,0,3,2.5,43.0730517,-89.4012302,Anonymous
+ctqKknbWggtDnO2tVbfINQ,Abarrotes Yuremi,Madison,1,13,4.5,43.1035495,-89.4864793,Mexican
+CU5d1QN2A5cgcR9zmLVS0g,The Cooper's Tavern,Madison,2,306,3.5,43.075216,-89.386276,American (New)
+CUsXA3zDKOpSMxyfaaOmTw,Rocky Rococo Pan Style Pizza,Madison,1,10,2,43.166656,-89.266473,Pizza
+cwrf67GWlXnwNDEY0iiTgw,Sol's On the Square,Madison,2,74,3.5,43.076622,-89.383313,Korean
+cZr9IrNzMydiMT9tdtCGtA,Market Street Diner,Madison,2,72,3.5,43.182386,-89.211447,Anonymous
+d24w8_TEu1QamA3qFI5JMw,Black Bear Inn,Madison,2,12,3.5,43.0861154,-89.2070621,Anonymous
+D2A394AkwlntDC5vIbASyg,SoHo Gourmet Cuisines,Madison,1,36,4.5,43.01819755,-89.42265676,Asian Fusion
+D3a0vrdXzT_UkbPNhK8f7w,The Fountain,Madison,2,70,3.5,43.075041,-89.387383,American (Traditional)
+D4KioPzFvBwb04Pf7rtCeA,Pizza Pit,Madison,1,10,2.5,43.0275937,-89.4120136,Pizza
+de0hIDLks3ROJQtmSJWWPw,Minerva Indian Cuisine,Madison,2,59,4,43.0714329,-89.52448028,Indian
+DffW-HjpvUAf4Flm7XInyw,El Patron Mexican Grill,Madison,2,30,3.5,43.1793095,-89.2351404,Mexican
+DFHKNQ7N7mIQFLwEtSF-fw,Mr. Brews Taphouse,Madison,2,16,4,43.0476672,-89.3266104,Burgers
+dgGpvbTjAWet0YPJ3kDJiA,Pizza Pit Extreme,Madison,2,26,3.5,43.067141,-89.414181,Pizza
+DgKTPEdH5yk552xBU5lgCw,Rocky's Party Pizzeria,Madison,2,7,2.5,43.1234113,-89.3129833,Pizza
+dgq6Y3t81Hq3Og-qd4C5Ew,Perkins Restaurant & Bakery,Madison,2,15,3,43.07834429,-89.47128966,American (Traditional)
+dHZw7fvo69r9v9hY_J_g1g,Madistan,Madison,1,36,4,43.0730621,-89.3935416,Mediterranean
+di0k415NkTOQp6mZ6AbTOQ,Sprecher's Restaurant and Pub,Madison,2,135,3,43.086346,-89.523051,American (Traditional)
+DInchTMpKhM-G52cNKLtOg,Humble,Madison,1,31,4.5,43.0676879,-89.4239575,Anonymous
+dkgNL4LAIyKexAIRQy7Yew,Sonic,Madison,1,28,2,43.18538426,-89.26385298,Fast Food
+dKZguiNXV0ZPQLLqDt84Og,Mr. Brews Taphouse,Madison,2,32,4,42.99464,-89.52035,American (Traditional)
+dOo_jUaYeHC4b6bgOytinw,Otto's Restaurant & Bar,Madison,3,61,4,43.0600543,-89.4906724,Seafood
+DR4xcr3eJ0vfYRomvx036w,Wah Kee Wonton Noodle,Madison,1,121,4,43.0769499,-89.3745611,Cantonese
+dtghBwhGk0czWIpc_6KCbA,Red Rock Saloon,Madison,2,38,3.5,43.074154,-89.391323,Barbeque
+DWZM3Qw0WJminDcXoBE_eA,Brothers Three Bar & Grill,Madison,1,38,4,43.1073114,-89.3309382,Burgers
+dylp6k9_Du-oojW5lVNwyA,Panera Bread,Madison,1,28,2.5,43.017048,-89.422717,Anonymous
+E1iGBnmtLu_DqtsSKnCQ4Q,Game Time Sports Bar and Grill,Madison,1,6,4,43.14083,-89.521326,American (Traditional)
+E6MOhbSbSu8Jqf9kNcNokg,Cafe La Bellitalia,Madison,2,75,4,43.11131426,-89.36401758,Pizza
+E6r76XG8u6qJCJuyAMVFrg,Pizza Hut,Madison,1,4,4,43.2393613,-89.342612,Italian
+E7suHPqErWxNpcKA9PCSHQ,Rising Sons Deli,Madison,1,71,3.5,43.0748716,-89.3962559,Thai
+e8EODhFjwcYUzt_qFKJWzw,Milio's Sandwiches,Madison,1,5,5,43.066923,-89.52470354,Anonymous
+EaGI835yZEyLbaEyoM85FQ,Banzo Shük,Madison,2,16,4.5,43.0874279,-89.3586789,Mediterranean
+EbhnT9RcTyyGNBp1s2NQZQ,Harvest,Madison,3,182,3.5,43.0760472,-89.3838053,American (New)
+ecJPRm8Nzx84IBmqI3Xy2w,McDonald's,Madison,1,7,2.5,43.046505,-89.348956,Burgers
+ed5VpqG6NlI2_ALQpZ0lLA,Mediterranean Cafe,Madison,1,161,4.5,43.0748728,-89.3963878,Greek
+EeLiNCQL8JGxHjBi8N3lRw,Erbert and Gerbert's,Madison,1,15,3.5,43.187902,-89.227908,Fast Food
+EfMxJr-rWlXc7UlGkI0Y5w,Monk's Bar & Grill,Madison,2,44,3.5,43.16626204,-89.2708006,American (Traditional)
+eG3Kxpv-JOLib9o5W9Aiyw,A Pig In a Fur Coat,Madison,3,289,4.5,43.0805044,-89.3685777,American (New)
+EH7sT3dV-B365RETWCQhIA,Dotty Dumpling's Dowry,Madison,2,357,4,43.0728191,-89.395561,Burgers
+eKT11QqlcEJUuq-OsaPMtw,School Grounds Cafe,Madison,1,27,4.5,43.1048724,-89.1992292,Cafes
+EnQewGyKYsME5gchmyvsPg,Paul's Pel'meni,Madison,1,242,4.5,43.0754154,-89.3907979,Anonymous
+EO_LRZc_g0KIR-uRC2ecnQ,Michael's Frozen Custard,Madison,1,61,3.5,43.0576158,-89.4276427,Burgers
+epMKlsA-OoZMNcXTMmWoMw,Sujeo,Madison,2,140,3.5,43.0814889,-89.3758712,Korean
+eR7pephNfbVvuBYgOvpK4g,Milio's Sandwiches,Madison,1,4,3,43.098497,-89.357178,Anonymous
+eRu1OoBfgGb8Js_BsCkgNA,Gus's Diner,Madison,1,54,3.5,43.1891092,-89.2777098,Anonymous
+eWjlM_MXCbVI2vrpviMxZw,Firehouse Subs,Madison,1,17,4,43.03626891,-89.40707268,Fast Food
+EwxURzkF_rhj6cVP7lxPhQ,El Pastor,Madison,1,64,3.5,43.0440409,-89.3944601,Mexican
+exfWB4hSVa1jWCVerV-0PQ,Athens Gyros,Madison,0,6,2.5,43.067141,-89.414181,Greek
+exLaqeER1uY9kVfwfFxvKA,Fair Trade Coffee,Madison,1,55,4,43.075046,-89.392028,Coffee & Tea
+e-YQOv0Uid6uzCz23yCyXw,Bahn Thai Restaurant,Madison,2,54,3.5,43.0806833,-89.3684867,Thai
+EZEVomdOu6OR4i2opTVOnQ,All Stop Deforest,Madison,2,4,1.5,43.2503105,-89.3747347,Pizza
+ezv2z7IlkKlvZdBPo1Msmw,Melted,Madison,1,13,4,43.073216,-89.382215,Anonymous
+EZwI5OaiqJq2w2_z6qP0rQ,Domino's Pizza,Madison,2,12,3,43.0740407,-89.3926196,Pizza
+f0gIqoBYj7GKOh6Icl8vAg,Culver's,Madison,1,38,4,43.0360296,-89.4150386,Fast Food
+f3i15z8B4H44Yli_UHrEYw,Milio's Sandwiches,Madison,1,5,4,43.0732747,-89.3990084,Anonymous
+F3Lzg82TAexZhKO_RPQaWw,Papa John's Pizza,Madison,1,6,2,43.0146933,-89.4982112,Pizza
+fBBMlJIud_LXrTV-zfkM0g,Pizza Di Roma,Madison,1,77,3.5,43.07477465,-89.39086082,Italian
+FbMM7eqnhQuZ6yQ2D4qXcw,Panera Bread,Madison,1,9,2,43.0678248,-89.3953568,Anonymous
+fc7QD3p7hOyewBFNOvTdOg,Pizza Hut,Madison,1,15,2.5,43.061151,-89.512235,Italian
+fDWvQT7sHx2PG6S41-V0ow,The Side Door Grill and Tap,Madison,2,71,4,43.07546,-89.393063,American (Traditional)
+fEX1IcPNrhJAdwk4DgyVVw,Tornado Steak House,Madison,3,348,4,43.07243,-89.38434,Steakhouses
+fF3WhLaEyvnpwZqrCOVqaQ,Taco Bell,Madison,1,3,3.5,43.25049,-89.36915,Fast Food
+FFox_Hm1gZGvlRxlQsxaLw,Pinkus McBride Market,Madison,1,30,4,43.0791526,-89.3838875,Anonymous
+fGhu7d7oW09qDgVI5CZV7g,Captain Bill's,Madison,2,70,3,43.1042369,-89.48471,Seafood
+FHqwLwpLjUjeLP-IdG_o_w,The Old Fashioned,Madison,2,1184,4,43.0763038,-89.3836392,American (Traditional)
+fI33gSlUBxDrc2OnLxIKew,Mariners Inn,Madison,3,41,3.5,43.1488048,-89.4069668,Seafood
+Fik8yq-66Gfe0AHw8DvoSw,Happy Wok,Madison,1,16,3.5,43.059889,-89.523622,Chinese
+FiP9q_YD5vgxu_Sflo5oZw,Culver's,Madison,1,12,3.5,43.0837436,-89.3078087,Fast Food
+FIR1SRvSAMNTO3VvNaJn2g,Toby's Supper Club,Madison,2,74,3.5,43.0440001,-89.3027747,American (Traditional)
+fj9NoCcjZVBs_HpPO6ROsw,Rev. Jim's Roadhouse,Madison,1,7,2,43.0446999,-89.2681911,American (Traditional)
+fjaQ3Ixkofh8xGhklUtDnA,Monty's Blue Plate Diner,Madison,1,398,4,43.09242,-89.3518969,American (Traditional)
+FL23wk71EZ_piNiMlrtaKg,Original Pancake House,Madison,2,29,3.5,43.0452411,-89.3261341,Breakfast & Brunch
+fmfiSDAJtjxbnRBBtYhnNw,MACS,Madison,1,85,4,43.16658804,-89.27061373,American (New)
+FmR45YKqNhwz7wHSzTFl4A,Angelo's,Madison,2,19,4.5,43.013609,-89.301829,Pizza
+FO3SpeDotNVzBiehHKgr0Q,The Icon,Madison,2,111,3.5,43.0747755,-89.3884537,Anonymous
+FO7qxNWeGo6ck3CiIlicPA,Qdoba Mexican Eats,Madison,1,7,3.5,43.019521,-89.420214,Mexican
+FoHNVQQbiuY7CV8cc-iFzg,Blue Moon Bar & Grill,Madison,1,63,4,43.0721453,-89.4296808,Burgers
+fOYx1be7j-eNMbs2EXn8-A,Lucky's Bar & Grille,Madison,2,28,3,43.18040738,-89.43149575,Cafes
+fprvphULe1moL5FtfiAIHA,Milio's Sandwiches,Madison,1,3,3,43.089673,-89.526448,Anonymous
+FPyYoexztOi-I0-uOaUFgA,ZuZu Cafe & Market,Madison,1,44,3.5,43.062774,-89.408866,Cafes
+fQ1h3WSy3kKAsM7NKtFnnQ,Asian Sweet Bakery,Madison,1,59,4,43.055992,-89.3976859,Chinese
+FSqH6YEKc-F3itN3kfs7ow,Mini Hot Pot,Madison,2,55,5,43.05296515,-89.39625342,Chinese
+fsWrXr42acPXByS_TdNgiA,A8 China,Madison,1,29,2.5,43.0734206,-89.3961597,Chinese
+fSyyauFGkgfRSz9bPNKVRg,Nani Restaurant,Madison,2,88,3.5,43.055135,-89.497286,Cantonese
+FuBvRp5gR0_Y6DV_l5ph3A,Good Food,Madison,1,52,5,43.07409869,-89.38282371,Anonymous
+fuhjVvhkQ22j92BTGHEX7A,Monkeyshines Bar & Grill,Madison,1,19,2.5,43.01467358,-89.47535076,Burgers
+fXQmGQcLtMaRJyxsRfIe-w,Lakeview Bakery and Deli,Madison,1,13,4.5,43.0763209,-89.376141,Anonymous
+G0KGmRv-31cq6ZnRSs7LYw,Rising Sons,Madison,1,7,4.5,43.07611364,-89.51811387,Thai
+G1qUGBNYNS220jKlPAlFsA,The Village Green,Madison,1,61,4,43.095724,-89.5120419,American (Traditional)
+g68i6-Bbu7uYQOKOQX8Hsw,Halverson's Supper Club,Madison,2,13,3.5,42.9531493,-89.279535,American (Traditional)
+g6YGGPsmtOpO_xcBASU0Ng,Pan y Pan,Madison,2,3,5,43.0979375,-89.3201948,Mexican
+g7YEgauyG_E7y4OE6Qb8lw,Dhaba Indian Bistro,Madison,2,141,4.5,43.0898458,-89.5265018,Indian
+g8SXB8rqkftbTv5M78Ah9A,Estacion Inka,Madison,1,33,4.5,43.07338789,-89.39600562,Anonymous
+g9Vx8g7uBcuH3RTd__QdYA,wiener shop,Madison,1,24,4,43.0736723,-89.39484537,Hot Dogs
+Ga49LNUdes9hb1MSLIYi3g,McDonald's,Madison,1,5,1,43.029854,-89.40951,Burgers
+GADvnBmSJlYC1Dk9dlFRmQ,1847 At the Stamm House,Madison,2,53,4,43.104086,-89.494781,French
+GBgdaHOZrl6csfHS69MWyg,Jamerica Caribbean Restaurant,Madison,2,48,3.5,43.0841543,-89.3633455,Anonymous
+GCTDM94HiKxC7GcAWbb4Og,Chang Jiang,Madison,1,14,2.5,43.0144173,-89.4274219,Chinese
+GD_5bbOLC1EZCuTu_UK6Kw,Mirch Masala,Madison,2,32,4,43.074475,-89.393396,Indian
+GeJ-B98ljcntQSjzsJTnIA,Chipotle Mexican Grill,Madison,1,27,3.5,43.074921,-89.5293271,Fast Food
+GeLUSRVqE5_EY-TvYH9JnQ,Taco Bell,Madison,1,18,1.5,43.0598,-89.5249,Fast Food
+GJQvDc5DZQeXKmG_5Tcbug,Haveli Restaurant,Madison,2,80,4.5,43.01495772,-89.4582484,Indian
+gLIpo5Jinus3g0K8E4b0hw,Bonefish Grill,Madison,2,104,3,43.060987,-89.511294,Seafood
+gMjE9BrDrp78S1PrXK77fA,Big Apple Bagels,Madison,1,5,3,43.2004301,-89.2264176,Breakfast & Brunch
+gMq4GXSl21p2Z3PIQm3aqQ,Picasso's,Madison,2,34,3.5,43.0245875,-89.4689968,Italian
+gNdraHh0R1oNgTqGDvKzmQ,Panchero's Mexican Grill,Madison,1,20,3,43.015318,-89.481086,Mexican
+GNNQAUC72sEoqrqB3Qg7EA,Capriotti's Sandwich Shop,Madison,1,31,3.5,43.07343996,-89.52701101,Anonymous
+GokvXs_TzVFZFTLY8XZcOA,La Baguette,Madison,1,80,4,43.0606935,-89.5112765,Cafes
+GQW0uzms1jN-L_gBG6zi4g,Monte's Grill & Pub,Madison,2,30,3.5,42.9887143,-89.5466119,American (Traditional)
+gRTbQIOGdBgBFFcF1_8Uhg,World Buffet,Madison,2,28,2.5,43.0463029,-89.3521781,Chinese
+gS9PJk6q7LxNKcGi8lcY4A,Shamrock Bar & Grille,Madison,1,13,4.5,43.072439,-89.38461,American (Traditional)
+gsb1ZXNd36YwANID3u1M-g,Papa Jimmy's Pizzeria,Madison,2,12,2.5,43.0864166,-89.2040296,Pizza
+GTAOZFZqZmis3TuM9H_t1w,43 North,Madison,3,94,4,43.074745,-89.3812356,American (New)
+GTIsFcUgj5ieOdj6KpDxbA,Lupe's Taqueria,Madison,1,24,4.5,43.106913,-89.498128,Mexican
+gTsg3Nj8pKvsmVz3dbLfiA,Essen Haus,Madison,2,169,3.5,43.0762215,-89.3765301,Anonymous
+GTzBzNa-rywEeyPhF6Ruvw,Qdoba Mexican Grill,Madison,1,7,3.5,43.0611404,-89.4965662,Mexican
+gW0k1iIF1xuuFclzI_HbBA,Bonfyre American Grille,Madison,2,179,3.5,43.03473537,-89.42256114,American (New)
+GwxispSgRjzqvRGufxrfzQ,Quiznos,Madison,1,4,2,43.13620856,-89.34562683,Fast Food
+H6CnqXqKqiAZQhW6nmBlGA,Badger Bowl,Madison,2,16,3,43.038813,-89.37714,American (Traditional)
+H7tw19v9LaUtfqMCECfIzA,Burger King,Madison,1,8,2.5,43.0562518,-89.501084,Burgers
+H9RQI_YLR3iIHexZI_UI6w,Fuji Sushi & Hibachi,Madison,2,46,4,43.090901,-89.527553,Sushi Bars
+HaBkx5PwvbBpQ2iNCgHnVQ,Paul's Neighborhood Bar,Madison,1,16,4,43.101459,-89.511049,American (New)
+HB8FugymmTbnLqhYhTlNBQ,Mooyah,Madison,1,74,4,43.0148887,-89.4810989,Burgers
+HcYgayvViHr6GneVeeM0kg,Roman Candle Pizzeria,Madison,2,93,3.5,43.082053,-89.3664299,Pizza
+HGzdDbukK8RJEc623kLz5Q,A&W Restaurant,Madison,1,14,3.5,43.1955564,-89.3441762,Burgers
+HhOLgA1ljcxzm3iL1XU9-Q,Milio's Sandwiches,Madison,1,7,2.5,43.1251313,-89.3092337,Anonymous
+HiyjzENvSvPg2QMW9Q6NhQ,Adamah Neighborhood Table,Madison,0,3,3,43.0755226,-89.3959757,Cafes
+Hj07HBtWfMPjtMGB1cFZvA,Toppers Pizza,Madison,2,12,3,43.06098385,-89.5187765,Pizza
+hJ3BUiQg64X7NNgjhIJ9yw,Sofra Family Bistro,Madison,2,79,4,43.0956695,-89.5108623,Breakfast & Brunch
+hJPi219V-e99Kedk2cSbEA,Jimmy John's,Madison,1,3,3.5,43.1982824,-89.2119398,Anonymous
+hJxzqajebKdt2mgiC2YNSQ,The Curve,Madison,1,50,4,43.0600205,-89.400397,Anonymous
+HlCumau3xO8vau_JAteqUg,Tienda Los Gemelos,Madison,1,79,4.5,43.056081,-89.4976609,Mexican
+hLNKayXNRjsrJrsiA1sqGw,Madison Cuisine,Madison,0,6,4,43.0730148,-89.3984019,Fast Food
+HLWtNcf3l-wKb6v9duteMQ,Smoky Jon's No 1 B-B-Q,Madison,2,176,4,43.123698,-89.355581,Barbeque
+hO91yFmQKGV5l0OHUyRmeg,The Plaza Tavern,Madison,1,59,4,43.07530533,-89.39036616,Burgers
+HOMBFwgPLC_Wc9k7Obo7OQ,Willalby's Cafe,Madison,1,60,4,43.0856363,-89.3609301,Breakfast & Brunch
+HpSBHeixIP2YxLy4L1f-HA,Ella's Deli,Madison,2,195,3,43.1035133,-89.344598,American (Traditional)
+hQqpcdl0ja6yCWzmhkTUuQ,Cuco's Mexican Restaurant,Madison,2,30,3.5,43.07372284,-89.30730438,Mexican
+hSl4HdPdu6ohwFKJPfj93A,Ian's Pizza By The Slice,Madison,1,154,4,43.0728935,-89.3956356,Pizza
+HTplzElel_F_U_qhWuDKdg,Dexter's Pub,Madison,2,91,4,43.1034474,-89.3501215,American (New)
+Htwla8cEt8Lec_yJBmwlZg,Indie Coffee,Madison,1,70,4,43.067526,-89.406553,Cafes
+hV22wvZcG-ppTGJUKr7sBQ,Zen Sushi,Madison,1,6,5,43.0749079,-89.3973862,Sushi Bars
+HXwr1Zh2zSltr_lR_GQv7w,Murphy's Bar and Restaurant,Madison,1,18,4,43.149324,-89.399159,American (Traditional)
+hZ3DkjunIpZSUWiVAcjG3Q,Cousins Subs,Madison,0,4,4,43.074911,-89.3808461,Anonymous
+I1yBCPc2U7dRcgOyDVegFA,Pickle Jar,Madison,1,8,4,43.07092418,-89.40647304,Barbeque
+I2U95iRo5MNDh5FfuSXOuQ,Aranda's,Madison,1,40,4.5,43.24665793,-89.34171958,Mexican
+I5pTgqtZezgB5hP0ctJyyg,El Sabor de Puebla,Madison,1,20,3.5,43.0825816,-89.3649108,Mexican
+I6zcITvWhTC9v9Ovbnq0IQ,Gotham Bagels,Madison,1,123,3.5,43.07692211,-89.38353026,Breakfast & Brunch
+I9ou3EWN8rz9jva7eOWDhA,Itzza Pizza,Madison,2,36,3.5,43.0741404,-89.4374257,Pizza
+IbYYCuGqR4Lgfvf_WJTNuw,Tutto Pasta State Street,Madison,2,124,3,43.0747654,-89.3903324,Italian
+iChdAsAIPgKIhV7fLOkt1Q,Fromagination,Madison,2,153,4,43.0733776,-89.3850765,Anonymous
+icTv_kzzteufGibT2q_vZA,Hyvee Market Cafe,Madison,2,5,3,43.05096385,-89.47289497,Cafes
+iFd_GU21RrxyzL8eE0RQEQ,Nam's Noodle,Madison,2,74,3.5,43.0679775,-89.4084538,Anonymous
+igIYj4v02l7KNIIY6jSlDQ,Five Guys Burgers and Fries,Madison,1,63,3.5,43.0746782,-89.3943516,Burgers
+iH_M6BQkAPM7kz3_vJ79RQ,Dobhan's Kitchen,Madison,2,64,3.5,43.07,-89.4,Breakfast & Brunch
+IK5KqX_sM2ebQWO9AQkm1g,Natural Juice,Madison,1,6,4.5,43.07491974,-89.39842341,Anonymous
+ImJ7QAw6T6ayJT1AGr7OgA,Merchant Madison,Madison,2,362,4,43.0742365,-89.3810119,American (New)
+IncHBMUV1ZqQIuuUqNWCow,Stalzy's Deli,Madison,2,73,3.5,43.0937705,-89.3452006,Breakfast & Brunch
+IoWXpj8WFNNu47rKpPb-Og,Laredo's,Madison,2,68,3.5,43.05042263,-89.47474569,Mexican
+IrJfS0AXmiTf122Nz_cRTw,Milio's Sandwiches,Madison,1,3,3.5,43.027733,-89.412785,Anonymous
+IRyLAtjcr5maOdgmu1RlXQ,Four Lakes Cafe,Madison,1,8,3,43.076513,-89.4317035,Cafes
+iun1duUP2DH4i05GFKeDcw,Doughboys Pizza,Madison,1,23,3.5,43.1936645,-89.4613427,Pizza
+ivtZQyk8W-ZRbUHkUpXh6Q,Panera Bread,Madison,1,17,3,43.075946,-89.446009,Anonymous
+IzSXqxIto8XZb70oW3tagg,Taqueria Sabor Queretano,Madison,1,73,4,43.129593,-89.309073,Mexican
+J1cfMyA8SL1IkW6aRNMYYQ,King of Falafel and Grill,Madison,1,6,4,43.0556198,-89.3979035,Mediterranean
+J1PYuJeaIicJ_869hiwkyw,Cuco's Mexican Restaurant,Madison,1,45,3,43.0028434,-89.5328221,Mexican
+J2AiPQnKWBxBwc4MMkbH8w,Villa Tap,Madison,1,23,4,43.1233893,-89.3553901,American (Traditional)
+J3A5V0Hl07o_KQSI2hHf_g,Marigold Kitchen,Madison,2,414,4,43.07434303,-89.3815575,Breakfast & Brunch
+j515klfbCAEF3KPiKvHz9g,Pat O'Malley's Jet Room,Madison,1,66,4.5,43.1400681,-89.32625358,Breakfast & Brunch
+j61tzz0XkdFV8YUBZNNzhw,Qdoba Mexican Eats,Madison,2,18,3,43.1303132,-89.3033247,Mexican
+j7GDzt9TfD87_JWJy9eI4Q,Buck & Honey's,Madison,2,107,3.5,43.19945372,-89.226148,Breakfast & Brunch
+J7LSbTM72--2497H1kkM0w,Alchemy,Madison,2,237,4,43.0924336,-89.3553898,Burgers
+j7m93ywQtPt9e2pUZwUBlw,Monk's Bar & Grill,Madison,2,48,3.5,43.0974812,-89.524171,American (Traditional)
+J9e170ePOgmkaJR1pEFB3Q,The Wise,Madison,2,26,3,43.067587,-89.41251,Breakfast & Brunch
+Jb5SB2OXbRW0e7ErGlMK-Q,Michael's Frozen Custard,Madison,1,41,3.5,43.0851381,-89.3252648,Burgers
+Jcy2OENZ9uTPee2gE6InMg,KJ's Curry Bowl,Madison,2,55,4,43.0653774,-89.503042,Asian Fusion
+JcYf2kgpAgkpWq_7lf6I4Q,Domino's Pizza,Madison,2,7,2.5,43.1778773,-89.2398226,Pizza
+jCz2RXHuaG41H8GzkQPcOQ,Sí Café,Madison,1,6,4.5,43.07427521,-89.38120548,Coffee & Tea
+JD1uVun5FEF_Ih2PnHCbuA,Dairyland Family Restaurant,Madison,1,17,2.5,43.084321,-89.31379,American (New)
+JdCFcgw4yk4M1ZRhAhBIag,Applebee's,Madison,2,31,2.5,43.130005,-89.303977,American (Traditional)
+JdIDnJocVGw3qPQt-TUCzg,Brickhouse BBQ,Madison,2,176,3,43.0740793,-89.3931756,Barbeque
+jEf18KTlek4zRHdsv6kIPQ,Brasserie V,Madison,2,248,4,43.0640503,-89.4180168,Anonymous
+JeQoph3qUjc1R1hB2Ym4hA,Topper's Pizza,Madison,2,16,3,43.1254222,-89.312196,Pizza
+jeVW4mtueMKmy-zIAosOmw,Laurel Tavern,Madison,2,31,3,43.0578984,-89.4273083,American (Traditional)
+JeXAH4ViHZpZi7RMC-NQjw,Lucky's Bar & Grille,Madison,1,18,3,43.0676767,-89.4101225,American (Traditional)
+JfnvDw7KSy2sNFN70qa3DA,Freshii,Madison,1,68,4,43.0594023,-89.5013001,Vegetarian
+JFQL_nMFo2bG215kCjuvmQ,Panchero's Mexican Grill,Madison,1,14,2.5,43.0592419,-89.5029313,Mexican
+JFtE_LnG2D8jYKxiWaVfzg,Silver Mine Subs,Madison,1,37,3,43.0345063,-89.4220279,American (New)
+JfwNftzYnLyX5O1Koc794g,Red Robin Gourmet Burgers,Madison,2,43,3.5,43.130973,-89.297537,Burgers
+jg_rZXVIvZjPYdbci-nDwg,Wings Over Madison,Madison,1,57,3.5,43.07371704,-89.43541202,American (Traditional)
+JGO4o4rIh3CYGhJVmace2Q,Naf Naf Grill,Madison,1,35,3.5,43.07482192,-89.39492377,Middle Eastern
+jGU7WGOM2qUHofLKZAFAIg,Noodles & Company,Madison,1,14,2.5,43.047024,-89.3238721,Anonymous
+JJFoeKZXgi2_LeECDMkkoQ,Tip Top Tavern,Madison,2,62,4,43.107164,-89.351047,American (New)
+jjs3hjwVrZt4aMvaVjq5wg,Rossi's Pizza,Madison,1,40,4,43.0715089,-89.3264611,Pizza
+JlvNACJVl7irjkosXgwhIw,Chuck E. Cheese's,Madison,1,11,1.5,43.058557,-89.49701,Pizza
+jMuL6rhpAMlZUjxCRhoszg,Johnny Delmonico's Steakhouse,Madison,3,87,3.5,43.07398444,-89.38136509,Seafood
+JoqEMWBfPFS6pLhBxPyENQ,Noodles & Company,Madison,1,28,2.5,43.06143239,-89.504794,Anonymous
+JPFzpR5PvZWqHXQMIZFk2w,Cool Beans Coffee Cafe,Madison,1,54,4.5,43.1229341,-89.3090068,Coffee & Tea
+JQe0zkldovoBtBG6WoxRdA,Alt' N Bach's Town Tap,Madison,1,25,4,43.0367897,-89.4184613,American (Traditional)
+JqFd6WfrCqDvvgPmfY5njw,Hong Kong Cafe,Madison,2,52,3,43.0675538,-89.404317,Chinese
+jqOPL979k-t_Vc049CnAjg,Rosati's Authentic Chicago Pizza,Madison,2,13,3.5,43.10555636,-89.2966957,Pizza
+JQrF4iHYZkF5IBTvOQBpIw,La Brioche True Food,Madison,2,132,3.5,43.07535353,-89.43834605,Breakfast & Brunch
+JRPrCy55SB366pvMEGy-Xg,Fitzgerald's,Madison,2,21,3,43.108671,-89.510812,Steakhouses
+jsortSnJ4WQVoH5y5Nkq0g,Happy Wok,Madison,1,13,4,43.044919,-89.349625,Chinese
+JwUE5GmEO-sH1FuwJgKBlQ,Pine Cone Restaurant,Madison,1,50,4,43.18405,-89.3229659,American (Traditional)
+jX2ibRfoHT-lw0Q5_xBzsA,The Silly Yak Bakery & Bread Barn,Madison,2,24,4.5,43.0612084,-89.5192068,Anonymous
+K2BxGfj37me-kf__ey4GVQ,Famous Dave's,Madison,2,50,3,43.0578623,-89.4000461,Barbeque
+k2e4tM6Dm6lpPGy5q2Z_lg,Le Petit Croissant,Madison,1,36,4,43.03836015,-89.45190292,Cafes
+k4JV4ZZpePUvyYRB56k75g,Sol Azteca Fusion Grill,Madison,2,9,3,43.0470342,-89.3939631,Mexican
+k5EvXsFQKW_EfJbRbW2AwQ,Graft,Madison,3,97,4,43.0742022,-89.3862015,American (New)
+k5H_Rach_UfUMBzceYDmPA,Tiki Shack,Madison,1,25,3,43.0750444,-89.3873093,Seafood
+k7nMFY6F1mAkmuXTHSPZoQ,Avanti Italian Restaurant,Madison,2,32,3,42.9897108,-89.5331838,Pizza
+k7zTofoKHGixABJiRb-phg,Sizzling Hut,Madison,1,8,5,43.2510066,-89.3439362,Chinese
+K8H3xHHqQU4ptS-KMU1Rpg,Chasers Bar & Grille,Madison,2,33,3.5,43.0741778,-89.3919536,Burgers
+k8UgTQNQj57kj8IYJ7N34Q,Pizza Ranch,Madison,2,8,3.5,42.99450363,-89.51788871,Pizza
+kBlNS_d29MrzbaqY-8-JiA,A La Brasa,Madison,1,64,4.5,43.07199251,-89.38955367,Anonymous
+KBsLagkr8NN8SCozXI9zvQ,Bradbury's,Madison,1,257,4.5,43.0771909,-89.3838358,Coffee & Tea
+kcE6bYMX2zeWShBFaa1Heg,The Statehouse,Madison,2,57,3,43.0791895,-89.3896863,American (New)
+kCxBx5BK0CkDmgM6K-oJ8g,Wendy's,Madison,1,11,2,43.0295637,-89.4111837,Burgers
+KeB7A7vUQG1dg6a0R43khw,The Knuckle Down Saloon,Madison,1,11,4.5,43.061269,-89.306906,American (Traditional)
+KFJ1jBfFkRfyn3AoAUl3YQ,Hardee's,Madison,1,7,4,43.097013,-89.5165749,Burgers
+kfuoVNtoHxdjot1vzws64g,OM Indian Fusion Cuisine,Madison,2,18,4,43.1154886,-89.3249625,Vegetarian
+Kgs-PhbkdqB1WMfFNvDFfQ,Tanner's Bar and Grill,Madison,2,33,2.5,43.0909517,-89.5266817,American (Traditional)
+KHOHjA8HOcTlFBCtMQFv8A,Harmony Bar & Grill,Madison,2,41,4,43.093003,-89.349182,American (Traditional)
+ki33_SvM4kPjgA44Re8-zQ,Fraboni's Italian Specialties & Delicatessen,Madison,1,18,4.5,43.056621,-89.326717,Italian
+kiAsweI4sOjDzGyz3Y_HsQ,Culver's,Madison,1,19,4.5,43.1062742,-89.5113122,Burgers
+kIFYMeaYAQ44wQVQSO2qqA,Fugu,Madison,2,135,3.5,43.0744111,-89.3936466,Asian Fusion
+kJMUMpRfGMZUhjzoz-YvmQ,Subway,Madison,1,5,2,43.0498188,-89.5042226,Fast Food
+KJzbxY4NJir2JTyf2ZpyuA,Ichiban Sichuan,Madison,2,141,3.5,43.0606154,-89.4010812,Chinese
+kKbiDo8LSBv9sYDsmKyxgw,Milio's Sandwiches,Madison,1,7,3.5,43.1461358,-89.291824,Anonymous
+kkJjyRQHnFYojucX1XrV8Q,Vintage Brewing Co.,Madison,2,217,3.5,43.0510005,-89.4737923,American (Traditional)
+KlXFiE8uA4R7o0uH9_GFYQ,Qdoba Mexican Eats,Madison,1,9,2.5,43.1303132,-89.3033247,Mexican
+kN1r0JbeWQVJ4pCdNg0nFA,Rex's Innkeeper,Madison,2,21,3.5,43.194426,-89.462358,Seafood
+Ko4WEdNZcqJ-wG5TWvy4tg,Sushi Express,Madison,2,46,3.5,43.0733361,-89.396349,Sushi Bars
+KOr67KmoAwv7sm2pFNbFFA,Las Islas Del Mar,Madison,2,33,4,43.0585482,-89.3257269,Seafood
+koRLvzIl-4fCybOIdk56jA,Louisianne's,Madison,3,77,4,43.095616,-89.511021,Seafood
+kOXJrbuB1a1Na6sf_WQnDg,Tully's II Food & Spirits,Madison,2,11,2.5,43.0486523,-89.3253781,American (Traditional)
+KTqNU4plO23583DYAMGXYg,Domino's Pizza,Madison,1,7,3,43.0969955,-89.5008508,Pizza
+KW6HejC-67KSL9J8Cz1dSw,Chin's Asia Fresh,Madison,2,45,3,43.07534527,-89.52848018,Chinese
+l_0JhWjpL2BesMEIDAM4Fg,Pizza Brutta,Madison,2,258,4.5,43.0651567,-89.4164023,Pizza
+L9ANG1S2a-ap3FDASsyNgw,Bar Bistro 608 / Rooftop Bar,Madison,0,8,2.5,43.071195,-89.452743,American (New)
+lacQtBT5y4-ba3Vc5zaChQ,Wingstop,Madison,1,22,3.5,43.067871,-89.4071476,Chicken Wings
+lbgz7xgYLCL7B-87Uvzx1A,Dairy Queen,Madison,1,7,2.5,42.9946445,-89.52378953,Burgers
+lbsXdPS87AOWpEgOYFQlFg,Quiznos,Madison,0,6,2.5,43.0148447,-89.498338,Fast Food
+lF_Wfvim-fXLQOl57lC2RA,Highland Espresso Bar,Madison,1,5,5,43.0695199,-89.3896138,Coffee & Tea
+LfZkD8a_d3joEnGHlaw_sQ,Takumi Japanese Restaurant,Madison,2,166,4,43.12485637,-89.31014727,Sushi Bars
+lGqTeEGIEp9aj5Tz0kyu_w,Salvatore's Tomato Pies,Madison,2,109,4.5,43.08489164,-89.37590025,Mexican
+lIL_VuvmxBr_yQQH_P9QHg,Madison Sourdough,Madison,2,175,4,43.080058,-89.369407,Breakfast & Brunch
+lIZIzyPMiI76KD-oYTAo-A,Delaney's Steaks and Seafood,Madison,3,48,3.5,43.057938,-89.495496,Steakhouses
+lJ9xELhI5EBhrlDTC-U2ew,Oki Sushi,Madison,2,3,4.5,43.0851583,-89.27907217,Sushi Bars
+ljM93seasLFGNZIljfHLKQ,China Kitchen,Madison,1,8,3.5,43.0608395,-89.4962483,Chinese
+lJZ6Fmei-JTNb-6AsGVFJg,Orient House,Madison,2,90,3.5,43.060334,-89.401194,Chinese
+LLR8iqKn7nmfwXWl1S13Lw,Hawk's Bar & Grill,Madison,2,59,3,43.074609,-89.392719,American (Traditional)
+lN-5-YTsaJr_IByyA476iw,Middleton Sport Bowl,Madison,1,15,3.5,43.0966736,-89.4997544,Anonymous
+lNE3gOMb724YPlZAA8WlXQ,Denny's,Madison,1,13,3,43.12315499,-89.31431741,Breakfast & Brunch
+lpMxECFXLWSoz0fEBrex1w,Maple Tree Supper Club,Madison,2,21,3.5,43.012505,-89.303778,American (Traditional)
+LRKJF43s9-3jG9Lgx4zODg,Culver's,Madison,1,16,4.5,43.251045,-89.374983,Fast Food
+lT0ojiymSxa_hqG5i91Umg,Samba Brazilian Grill,Madison,3,145,3.5,43.07546,-89.393063,Anonymous
+lT-xepsVXophxcxWERMsAw,Freska Mediterranean Grill,Madison,1,36,4,43.0906254,-89.5255632,Mediterranean
+Lu0N7DPZKJ6OHBpwsymwYw,Habanero's Mexican Grill,Madison,1,16,3.5,43.12972256,-89.36273871,Mexican
+lutn9olklDe0mts6ZXdXzQ,Falbo Bros. Pizzeria,Madison,2,11,3,43.1988016,-89.2263304,Pizza
+LWmlH8MwUnwMWN5Ma8utnQ,Ken's Meat's & Deli,Madison,2,27,4,43.0573597,-89.3261551,Anonymous
+lWtpoG_7K7wwyvggpdIDRQ,Glass Nickel Pizza,Madison,2,53,4,43.07551474,-89.46667062,Pizza
+LY_N7ALZ59BlCZIktlp13Q,Erin's Snug Irish Pub,Madison,2,112,3.5,43.1486157,-89.2892764,Anonymous
+lYtEUImN4UeqRiDblcbmkw,Eno Vino Wine Bar & Bistro,Madison,3,211,4,43.073189,-89.525189,American (New)
+M_3doaDZA1KCpB6ouB6TWw,Licari's Tavern,Madison,1,8,4.5,43.0363862,-89.4071386,American (Traditional)
+M1OXW5-_7tHQv792g2TehA,Rock'n Rollz,Madison,1,3,4,43.01381876,-89.29275547,Pizza
+m2nLCX6LpLRJcTNYX9pbRw,Bellini Italian Restaurant,Madison,2,63,3.5,43.077324,-89.3799049,Italian
+m4dsORRhBW_AxSEh_EXrSg,Schwoegler Park Towne Lanes,Madison,1,19,3.5,43.057893,-89.497039,American (Traditional)
+M5gYxu0fdh6ANBL28DnOKQ,Varsity Bar & Grill,Madison,1,10,4.5,43.1797865,-89.233109,American (Traditional)
+M6K0Svpr1Kn6-ViPoxx4bg,Off Broadway Drafthouse,Madison,2,16,3.5,43.0468733,-89.3547473,American (Traditional)
+m79L5WLftprDSKdXEtdrIg,State Street Brats,Madison,1,154,3,43.074776,-89.395948,American (Traditional)
+m892tIZECgluvVNsfcXjfQ,Fleming's Prime Steakhouse & Wine Bar,Madison,3,94,3.5,43.0746502,-89.4516163,Steakhouses
+MAgAU_ZNFdB_avoULXCiCg,Double S BBQ,Madison,2,26,3.5,43.0649127,-89.4167127,Barbeque
+mbDC52mY_kPqULVISgHZQQ,My Sister's Kitchen,Madison,1,10,4.5,43.0999215,-89.5111795,Breakfast & Brunch
+MDIjfewJQr8YvEDDLeiGsw,Chang Jiang Restaurant,Madison,1,18,2.5,43.0158088,-89.5114286,Anonymous
+meJ1VLzNAD-j2a5lxD0Ncg,Willows Tavern,Madison,1,3,2.5,43.1498592,-89.4179647,American (Traditional)
+mF5oNyMDThRDlTTGAmD9Uw,Lucille,Madison,2,53,3.5,43.07452342,-89.38154665,Pizza
+MjYLrxeKrOwC08oWgLdPJg,Elie's Family Restaurant and Banquet,Madison,1,13,4,43.079131,-89.323261,American (Traditional)
+Mk3Zdgr98L5aX8OZbamLUg,Madison's,Madison,2,91,3.5,43.07453039,-89.38053081,American (New)
+MKsb2VpLB-0UBODcInDsSw,China Wok Buffet,Madison,1,19,2.5,43.0965066,-89.501014,Chinese
+MlWXHxdbIODf9GUcvUTfGQ,Country Cafe,Madison,2,17,3.5,43.1870224,-89.2309754,Breakfast & Brunch
+mmET_2OZTfcI1VDJRMpEkA,Buckingham's Bar & Grill,Madison,1,11,3,43.0678281,-89.3994635,American (Traditional)
+MNId39rbsGvDA1S3s5WUAg,Pizza Hut,Madison,1,5,2,43.1887242,-89.227899,Chicken Wings
+MONajnUQ5-IRtv8PSPn_yA,Cottage Cafe,Madison,1,40,4.5,43.0852546,-89.306513,Breakfast & Brunch
+moXWAu-8-kZqJQ4XV3zhlA,Liliana's Restaurant,Madison,2,169,4,43.015442,-89.430002,Vegetarian
+MRkKtODtC6p6weVE370vcw,Casa de Lara,Madison,2,42,3,43.0745652,-89.391557,Mexican
+MRObvlfMLEhz9szPTMkGwQ,The Rigby Pub And Grill,Madison,2,47,3.5,43.0749931,-89.3811037,American (New)
+MVFeOZVt641WBvdsRmnhPg,Slice's Bar & Grill,Madison,1,9,3.5,43.104434,-89.357979,American (Traditional)
+mvlLe5wK5pcxdhB94RLGWQ,Sugar River Pizza,Madison,2,30,3.5,42.97263725,-89.50667873,Pizza
+MVPecdMEz0fkr93phbVytg,Norske Nook Restaurant & Bakery,Madison,2,45,2.5,43.24795,-89.343562,Anonymous
+mxpVIrDnp5jz2BgHCRcN9w,Field Table,Madison,2,46,3.5,43.0755039,-89.3858844,American (New)
+my65fsS5Y3bqT6smUDZBxg,Arby's,Madison,2,5,2.5,43.25062168,-89.37293462,Fast Food
+myck1Tde_kSBGZWtS3IcHA,Natt Spil,Madison,2,150,4,43.07457553,-89.37974441,Dim Sum
+MyeOK7hDefkzlOW4-Y0qVw,King of Falafel and Grill,Madison,0,6,3,43.07602692,-89.38228607,Mediterranean
+n0nO8SqUhinPwsYWxF6Ggw,Dickey's Barbecue Pit,Madison,2,36,4,43.133103,-89.299181,Barbeque
+n0spBYxPB6Espvyko1lNuw,Teriyaki Sushi Express,Madison,1,18,4,43.0252774,-89.4139174,Japanese
+n3kFUPfM2UTl-3L0qsanrQ,Cousins Subs,Madison,1,4,5,43.0604055,-89.3265756,Anonymous
+N5Ha9RpMPYnYqBurfS1mtg,Texas Roadhouse,Madison,2,80,3,43.133746,-89.298753,American (Traditional)
+n6DWw4wrp7ZIrQwCNm_-FQ,El Grito Taqueria,Madison,1,13,5,43.0735908,-89.3852999,Mexican
+N6GOzN3tUw1uZa9F3TK6ZQ,Chipotle Mexican Grill,Madison,1,22,3,43.07565343,-89.45386214,Fast Food
+N8Q2s-Snz2vL79zB3rEEug,The Weary Traveler Freehouse,Madison,2,399,4,43.08325272,-89.36431646,Burgers
+NDAxF0_RCZBQedVO_d5WnA,Chang Jiang,Madison,1,16,3.5,43.1816362,-89.2294373,Chinese
+nE51k932dNFc-gClgPguVw,Food Fight Inc,Madison,0,3,2.5,43.0922016,-89.3546823,American (Traditional)
+NERLJXacJ3b6peiZ8ceeqA,Hubbard Avenue Diner,Madison,2,179,3.5,43.0951779,-89.510672,American (New)
+NGd6y0mliDBWUinZrHV95A,Cheba Hut,Madison,1,37,4,43.07347,-89.394823,Anonymous
+NiFARJemykykqT7Hhwc1wg,Wingz-n-Thingz,Madison,1,14,2.5,43.178387,-89.240503,Chicken Wings
+NiO-zxKvN0s8SrpPUJzyrg,McDonald's,Madison,1,4,4,42.9938065,-89.5238093,Burgers
+NITVSI02lVfCujdwKw-w4Q,Fair Oaks Diner,Madison,1,15,2.5,43.0985717,-89.3341371,Anonymous
+Nj0vQjUYjaa7qbvZlEr2jQ,Club Tavern & Grille,Madison,2,38,3,43.0968804,-89.4946898,American (New)
+NjhS6VQIOK8wWyfAb6e8QA,Pizza Pit Extreme,Madison,1,19,4,43.0558078,-89.4938472,Pizza
+NktflCS0XU0jNnfmA_rUVQ,Capriotti's Sandwich Shop,Madison,2,16,3,43.06780552,-89.40147942,Anonymous
+nm8-Bn7O3DUytb5RZw4V5A,Culver's,Madison,1,15,3,43.125075,-89.308307,Fast Food
+nMUCHzN7Sv-m46Y51FsLmQ,Taco Bell,Madison,1,11,1.5,43.05044,-89.47375,Fast Food
+n-O-ZAWuFNcT3_saUNuijA,Asian House,Madison,1,19,2.5,43.0979594,-89.3171657,Chinese
+nQK95GJD_KB-bc_g14bD9g,Mermaid Cafe,Madison,1,52,4.5,43.0911066,-89.3556528,Coffee & Tea
+NqV89VQBV9kvUaA7a8F-tg,Short Stack Eatery,Madison,2,223,4,43.07451699,-89.3899215,Breakfast & Brunch
+NRJ4iF8KIXKH2u_0nW2Brg,Tavernakaya,Madison,2,74,3.5,43.0743953,-89.3823919,Sushi Bars
+nTtHXkGVjBrE1Eez-mT3aA,Osaka House,Madison,2,27,2.5,43.0746855,-89.3939466,Japanese
+NVxVxIejYzTYC0Pykia91A,4&20 Bakery & Cafe,Madison,1,122,4.5,43.0982338,-89.3570463,Breakfast & Brunch
+n-XCVdiTbK5uhl8twwlRZQ,Chang Jiang,Madison,1,16,3,43.0508483,-89.5037617,Chinese
+NZx8-l781_yegpZzze0SrQ,Pizza Hut,Madison,1,8,2,43.1894733,-89.4630077,Italian
+o_HVMHPQwnuJj7yqn_c5lg,Murphy's Tavern,Madison,1,5,3,43.1177825,-89.3220736,American (Traditional)
+O_Pu4mKGOqQVlmH07Zbnhg,The Rodeside Grill,Madison,2,37,3.5,43.193601,-89.339602,American (Traditional)
+o8tByeItJvauPe3ro4C-Jw,La Hacienda,Madison,1,82,3.5,43.0615157,-89.4004109,Mexican
+o9yOVCn0XH-E-lGVvhR0SQ,Der Rathskeller,Madison,1,28,4,43.07635535,-89.39999878,American (Traditional)
+OAXWfsklsATjpui2C8HilQ,Topper's Pizza,Madison,2,26,3,43.067948,-89.4087549,Pizza
+OC8AUJshLVimn_-P_INvJw,Pizza Pit,Madison,1,10,3,43.1832772,-89.2185271,Pizza
+ocBn5aTkPzIspEW_16_uMQ,Quaker Steak & Lube,Madison,2,101,3.5,43.097806,-89.519217,American (Traditional)
+OCXnwXY6knlIkvz-WR1L0Q,Ruby Oriental Restaurant,Madison,2,8,2.5,43.0474245,-89.326964,Chinese
+oDhW8nHK3wxxpNGsebByeg,Lazy Oaf Lounge,Madison,1,37,3.5,43.11995238,-89.32437716,American (Traditional)
+OFa6OjI48fcQe8rHIGYdPA,Kangchen Indian Cuisine,Madison,2,28,4,43.0586202,-89.5122609,Indian
+oG461FRj4wvl4MwDnvRtww,Jimmy John's,Madison,1,6,4,43.0154874,-89.4772216,Anonymous
+oGE8GPmBvHXQskP-m2cdLw,L'Etoile,Madison,4,195,4.5,43.07528946,-89.38236003,American (New)
+oIJYW6CGV3anvQE-SpofzA,Los Gemelos,Madison,1,107,3.5,43.075264,-89.393343,Mexican
+OLV_KmtKkIcxs3QJIXk6gA,Qdoba Mexican Eats,Madison,1,26,3,43.075137,-89.394689,Mexican
+omWFwLRqI3VTcM46L8-qaA,Noodles & Company,Madison,1,20,2.5,43.07567616,-89.44924899,Anonymous
+OnsHdtmGsi7C7uzQWVzDkA,Barriques,Madison,1,35,4,43.05680586,-89.3984472,Coffee & Tea
+oPsn2zSMchH0I4AuiiH5Qw,Willy Street Pub & Grill,Madison,1,19,3.5,43.079507,-89.370069,American (Traditional)
+OQiuH7p9g5il4A37ovvoag,Outback Steakhouse,Madison,2,47,3,43.1284594,-89.3063978,Steakhouses
+oudTF4EN_C8thENGiTQf-w,Chili's,Madison,2,22,3,43.1266792,-89.3087635,American (Traditional)
+ovzX0I9b5LXYpRjU1E0qTA,Madison Sourdough Patisserie,Madison,1,19,4.5,43.0801098,-89.3693944,Cafes
+oX6KamASYXnMIe5kpVhezw,Flaming Wok,Madison,1,42,3.5,43.1206623,-89.3089837,Chinese
+OXLegbUo6HA3DN3lBFTsUg,Parthenon Gyros Restaurant,Madison,1,112,3.5,43.075014,-89.390617,Greek
+oxOXOMTcAntmPU3f_1YFjw,Gyro Express,Madison,1,12,4,43.05854104,-89.50517803,Greek
+OzB1Hv1A8Lz_V4hYZ7Duzw,Village Bar,Madison,2,34,4.5,43.0605745,-89.4389134,American (Traditional)
+P3qOCXCuLK-McAVlBD3zAw,Freiburg Gastropub,Madison,2,66,3.5,43.0575507,-89.4285296,Anonymous
+Pb4wYBFotSFkt5LP3St7yg,McDonald's,Madison,1,5,1.5,43.1663811,-89.2704664,Burgers
+Pb9cj71KFAFpffzgzIUPCQ,The University Club,Madison,2,7,3.5,43.07469895,-89.39922684,American (Traditional)
+pfdajo1JTAiLezpdQLpmpw,Taco Bell,Madison,1,6,2,43.19204,-89.46344,Fast Food
+pHBQ-dQRwN3z7Rq7iSog-A,Pizza Hut,Madison,2,10,2,43.0845957,-89.2995667,Italian
+PhdMPqSdLZi6IV8SdnpUAQ,Olive Garden Italian Restaurant,Madison,2,28,3.5,43.1263218,-89.3093442,Italian
+phhIK_ibq30MYfPe1RqnuQ,Cento,Madison,3,170,4,43.074337,-89.387364,Italian
+pi6eN2zM9VAR4RjAoFSqzg,Sushi Muramoto,Madison,2,193,4,43.07224384,-89.45233392,Sushi Bars
+PjviuTR-xCu7gQp_OkypFw,Monsoon Siam,Madison,2,96,4,43.0920677,-89.3535131,Thai
+pJwfUoqrSmn4DzKvYPG15Q,Tom's Red Pepper,Madison,1,28,3.5,43.0843849,-89.5014806,Chinese
+ppeTb_JfnAbO200zcTgNMw,Fresco,Madison,3,143,4,43.0743124,-89.3889671,American (New)
+PrgdIc0zK9nc8jo8I18x8A,Argus,Madison,1,43,3.5,43.075104,-89.3810381,Burgers
+prVzsllS7vDmOjgLrGeRTw,Glass Nickel Pizza,Madison,2,28,2.5,43.1830513,-89.2138697,Pizza
+pS5WsUlWOVAPM0S2rVI-SQ,Vintage Spirits & Grill,Madison,1,44,4,43.0729361,-89.3954456,Breakfast & Brunch
+pSiRWeCqs7a1xvS9ycLoTQ,Chang Jiang,Madison,1,7,2.5,43.10563415,-89.29670107,Chinese
+Pskk3dUxR4FKyb_NSEFZXg,Forage Kitchen,Madison,2,27,4,43.074878,-89.3970772,Anonymous
+PU0mSETFzjlHjPpvuG2L7Q,City Bar,Madison,1,38,3.5,43.0748957,-89.3957596,Burgers
+PuuOi8bxsvgD_r60iCXS9g,1855 Saloon and Grill,Madison,2,50,3,43.0756243,-89.1995036,American (New)
+pVsyBiZCNipOTNsRVHD1CA,Jimmy John's,Madison,0,3,4,43.0680526,-89.4087702,Anonymous
+PwoprUYCL7q-Qf42Vo6K7g,Sarku Japan,Madison,1,11,4,43.0582238,-89.5047483,Japanese
+Py2Jmwm7QXZRCVJ5hnPXgw,La Rosita Latina Grocery Store,Madison,1,16,4.5,43.0546552,-89.3255237,Mexican
+PZZB-9xg1X74fhONlbg3Dg,Ramen Kid,Madison,1,54,3.5,43.0733863,-89.3951756,Japanese
+Q2jxycSUgHb8GkYV0LCX0g,Porktropolis,Madison,1,68,3.5,43.1841255,-89.21364639,American (New)
+q83uB6EGF6y2MuR-7VZPRg,Culver's,Madison,1,10,3,43.1341322,-89.3728554,Fast Food
+q8fD82us6uuGufvI44NoAg,Vin Santo,Madison,2,89,4,43.0956058,-89.5108863,Italian
+Qagr-Dtp8AMDQOCi27YpJA,Cafe Hollander,Madison,2,205,3.5,43.0741778,-89.4524858,Breakfast & Brunch
+QB64-PgfEUzbrOL50bJ0Bw,Wendy's,Madison,1,3,2.5,43.121874,-89.3179828,Burgers
+QC46KdWAYQqKcSe7bP6soQ,Marco's Pizza,Madison,2,10,3.5,43.1874777,-89.2261813,Pizza
+QdSGdvZATzejDkSs435Rdw,Eagle Crest Bar,Madison,1,15,3.5,43.10702775,-89.28734461,Burgers
+QF14BFUVHRODxGNVflgm3A,Cracker Barrel Old Country Store,Madison,1,25,3,43.1295964,-89.2934283,Breakfast & Brunch
+QfCHvy6v39xPH7CvCASlFg,Buck's Pizza,Madison,1,19,4,43.0836891,-89.3225822,Pizza
+QFMHjSUt08y0c98SA3aBrA,Wasabi Japanese Restaurant & Sushi Bar,Madison,2,68,3.5,43.0745126,-89.3933663,Seafood
+Qg9vXiLfqJYNRW2GxFtdyg,Geier's Grill,Madison,2,3,2.5,43.1424343,-89.2963512,Breakfast & Brunch
+qhPbmsT1nEJK6yVezXeXLg,The Melting Pot,Madison,3,49,3,43.0566264,-89.5005936,Anonymous
+QHSoLHA09QR8gVWc7DUTug,Which Wich,Madison,1,31,3,43.1918127,-89.21877235,Anonymous
+Qi3IEVb-L5aTp7EB-btIxA,Green Life Cafe,Madison,2,6,4,43.0639733,-89.4189097,Cafes
+QKZfKyU8ZGy2UMfV7pnXtg,Burrito Drive,Madison,2,95,3.5,43.0811814,-89.3684776,Mexican
+QmTwDwrvovEfutFNU8yYUw,Treads,Madison,1,6,3,42.9891021,-89.53905,Breakfast & Brunch
+qodyGnpmj1zEfi7nJ534BA,David's Jamaican Cuisine,Madison,1,53,4,43.0569909,-89.32527,Anonymous
+QPvnu5I_l70fa7FPuTdMTQ,Cocina Real,Madison,2,19,3.5,43.1010584,-89.4864115,Mexican
+qQvpS262VPEHKZvM6j5uhQ,Callahan's Sports Pub,Madison,1,19,2.5,43.124427,-89.324419,American (Traditional)
+qsBet6HtxE0x41cUYl8vgQ,The Kollege Klub,Madison,1,25,2.5,43.0756224,-89.3970644,American (New)
+qtof0pEDDUNjEqyWhTv7rg,La Mestiza,Madison,2,135,4,43.056038,-89.4941951,Mexican
+qVYpYB4vSeijG8J01fOcEQ,Ruth's Chris Steak House,Madison,3,76,3.5,43.0974832,-89.5229633,Steakhouses
+qWHI4WUBBvJEmSKbPcSj0Q,BB Jack's,Madison,2,24,3.5,43.247959,-89.339923,American (Traditional)
+qysu91pztx2uiLInP7Qt_A,Mr. Brews Taphouse,Madison,2,20,3.5,43.19320344,-89.46127396,Burgers
+qZPLylBXY8mmLhxApFtNEw,Cousins Subs,Madison,1,3,2.5,43.1053884,-89.5101019,Anonymous
+qZvOUSrOPDvtqCXdeuVacg,Panera Bread,Madison,1,18,3,43.06042268,-89.49671618,Anonymous
+r1Rlh4ATdawiln-hCLca_A,Which Wich,Madison,1,16,4,43.074611,-89.3923329,Anonymous
+r4HOnHnQWKaq0e7dlP1fRA,DLUX,Madison,2,295,4,43.07356262,-89.38246918,Breakfast & Brunch
+r-5jWLG0PsHP7pe6VTTEHw,Funk's Pub,Madison,2,37,4,43.0141871,-89.4563162,American (Traditional)
+r5S_wYdu1vKRW1k-7_yOIA,Milio's Sandwiches,Madison,1,18,4,43.0677216,-89.4236293,Anonymous
+R6TxOULUEMSq1-7P0w6kTA,Wendy's,Madison,0,5,2.5,43.0633408,-89.3071542,Burgers
+R825-NTAI2wG2C4mN-dtNA,Uno Pizzeria & Grill,Madison,2,47,3,43.135442,-89.290761,American (Traditional)
+r9qTBqmKG4TCb4IE6NcVXQ,HuHot Mongolian Grill,Madison,2,86,3,43.0732552,-89.5266699,Anonymous
+RC_6Br1TzdgWWDDIZMAI1A,Smoky's Club,Madison,3,53,3,43.074981,-89.4417357,Steakhouses
+rcF4ynGx5ySNQ3UFRPpcKA,Eldorado Grill,Madison,2,217,4,43.07811,-89.372173,Breakfast & Brunch
+rdAdANPNOcvUtoFgcaY9KA,Green Lantern Restaurant,Madison,2,50,3.5,43.0258026,-89.3063407,American (Traditional)
+RgDg-k9S5YD_BaxMckifkg,Chang Jiang Chinese Kitchen,Madison,0,4,4,43.2394189,-89.3424846,Chinese
+rgyvl8tNVAony634_9vFdQ,Taco Bell,Madison,1,11,2,43.10379,-89.342924,Fast Food
+rh6Ieo2hIejppvew2bVL0A,Jimmy John's,Madison,1,7,3.5,43.0747472,-89.3947488,Anonymous
+RHZcJuvnYxiLOkoiE1aTcQ,Brocach,Madison,2,194,3.5,43.07346775,-89.38337056,Anonymous
+rINqiBnIgisJ1T21OePKtQ,Manna Cafe & Bakery,Madison,2,143,4,43.107431,-89.3636588,Anonymous
+RIsEPpt2jM7c_Ko_CyLwMw,Dairy Queen,Madison,1,5,4,43.1823765,-89.2251875,Fast Food
+RMuP-ILXRLbI-QuNKEPphA,Arby's,Madison,1,3,4.5,43.0974825,-89.5245154,Fast Food
+RNyMCjiS8xpt607EcjfXeg,The Lone Girl Brewing Company,Madison,2,23,3,43.19167731,-89.45384717,American (New)
+rPglYlESzT59_SMwvk4Opw,Bowl of Heaven,Madison,1,20,4.5,43.07293012,-89.45321387,Anonymous
+RsHTIOVFfmrnnhp-Z9YP8Q,Heritage Tavern,Madison,3,215,4.5,43.07683402,-89.38323373,American (New)
+RSus8g2uybiZVmcTK0PeIw,Red Sushi,Madison,2,225,4,43.0748523,-89.3813541,Sushi Bars
+rweHhCO0jb3MuiGMBCAOMg,Rocky Rococo,Madison,2,19,3,43.0674068,-89.4075766,Italian
+rWwz7S0fNmveQQM3PqnC1Q,Salvatore's Tomato Pies,Madison,2,188,4.5,43.18294,-89.220311,American (New)
+rXEGCpdboVwczMIDZuXXaA,Sardine,Madison,2,304,4,43.07623443,-89.37408551,American (New)
+RXmZoUSV4dILgcdNd7GCtQ,Doolittles Woodfire Grill,Madison,2,97,3.5,43.12599591,-89.30790486,American (Traditional)
+RyLg6AWj1SE8IPAKLvt6ZA,Lane's Bakery & Coffee,Madison,1,18,4,43.0420146,-89.3939138,Cafes
+Ryq600aoE3h8_qRQGIed9A,People's Bakery,Madison,1,63,4.5,43.1029802,-89.3456932,Mediterranean
+S0VkwedfHhohKoeT9-lCBA,Jimmy John's,Madison,1,3,2.5,43.23916948,-89.34259592,Anonymous
+S2PszSc6uq-RoYhbRDQIrA,Yola's Cafe,Madison,1,74,3.5,43.0554282,-89.5231822,Coffee & Tea
+S2x-rEziU3ONR9zO_vpPxA,Panera Bread,Madison,2,27,2.5,43.131264,-89.301283,Anonymous
+s4Juaxp_7gziJj1DXr2JGg,Madison Club,Madison,4,14,4,43.072474,-89.380731,American (New)
+S4TWo9X6b3gU6uucj4JN3g,Laredo's,Madison,2,31,3.5,43.1204129,-89.3146147,Mexican
+S6_mfgekXJGN09b3AGFk-w,Olive Lounge,Madison,3,6,2.5,43.0726193,-89.3805114,Breakfast & Brunch
+s9wjkr7qf8DVJYuRiLk30Q,Potbelly Sandwich Shop,Madison,1,6,3,43.0570896,-89.5092997,Anonymous
+saspjozkqxIjjnElzvZskg,Villa Dolce,Madison,2,59,4,43.09562399,-89.51174488,Italian
+Sd9exwQrSKcZiN3RAhcAUA,The Green Owl,Madison,2,193,4,43.0922989,-89.355528,Vegetarian
+S-fNAS3auvsDkAl3xcByeg,McDonald's,Madison,0,5,1.5,43.075892,-89.454836,Burgers
+SH8daZRCv3N0ZeUANkHdXg,Blowin' Smoke BBQ,Madison,2,56,3.5,43.174189,-89.4134032,Barbeque
+ShnaTLzPuhql6Qv7cdKPAw,Madison Food Explorers,Madison,3,12,5,43.07169212,-89.38095961,American (Traditional)
+SkHb1w-oNPW1hHlzgLb9ew,Nitty Gritty Birthday Bar,Madison,2,113,3,43.0718107,-89.3955209,Burgers
+SKLw05kEIlZcpTD5pqma8Q,Imperial Garden,Madison,2,67,3,43.090642,-89.485169,Chinese
+sKNqTICN-nyn5hRNmPO8tQ,Francisco's Mexican Cantina,Madison,1,73,3.5,43.0750544,-89.3810002,Mexican
+SL_nQpnp63k2CEUwhKxUbQ,The Waypoint Public House,Madison,2,73,3.5,43.0464167,-89.3281426,Breakfast & Brunch
+slyBpcL9O_pU1ljR5tCBxQ,Potbelly Sandwich Shop,Madison,1,38,3.5,43.0748657,-89.3950143,Anonymous
+SMMG0t2uJCK2LVdMiXv68w,Grampa's Pizzeria,Madison,2,166,4.5,43.085616,-89.361521,Pizza
+sopWjB3MxMH78YBga0SnrQ,Monona Garden Family Restaurant,Madison,1,29,4,43.0466095,-89.3402121,American (Traditional)
+spiYqne1kXzYQxDTZfKt2g,Fat Jacks Barbecue,Madison,2,37,3,43.050444,-89.325618,Barbeque
+syfCpXqRXeL4tyokKx6JJw,Swagat Indian Restaurant,Madison,2,125,4,43.0753164,-89.5174398,Indian
+sywKS0egWKmb9vJr9a_zUA,Taj Indian Restaurant,Madison,2,61,3.5,43.0532271,-89.3959319,Indian
+T5LbVJHSyafrUpVpamSifg,Taco John's,Madison,1,16,3,43.0499002,-89.3255283,Fast Food
+TABknNqm1dTcG5qg2WJBJw,Glaze Teriyaki,Madison,2,7,3.5,43.0748641,-89.3954296,Asian Fusion
+tahado6YB_0BlQisrE2SmA,The Madison Blind,Madison,2,35,4,43.07564331,-89.39547461,American (New)
+TakzvjVEcezDYtsmZ1QW_Q,Taqueria Guadalajara,Madison,1,276,4,43.055569,-89.3974165,Mexican
+tca9YdoxwUBXuQb1_IEkOw,Growlers Bar & Grille,Madison,2,4,2,43.1275033,-89.3094196,American (Traditional)
+tCYKZXzVg2zBAzmprrZt-g,Umami Ramen & Dumpling Bar,Madison,2,270,3.5,43.079822,-89.368671,Japanese
+tg1xGdWUMX02XD6AVb-kxw,Gray's Tied House,Madison,2,91,3.5,42.9791556,-89.5162369,American (New)
+tg88uNQ_Qeq3zopVmBY5dA,Crostini Sandwiches,Madison,1,55,4,43.1025123,-89.3499824,Anonymous
+tGYGDb0JtuwMQagIw6BxsA,Jet's Pizza,Madison,2,8,4.5,43.1053884,-89.5101019,Pizza
+th4uGmjyjPnQpN-ukf20PA,Ha Long Bay Vietnamese & Thai Bistro,Madison,2,421,4,43.0855448,-89.3607155,Thai
+thLlxJSlGr8hu7Lw21eGiQ,Good Day Coffee Shop,Madison,0,3,4,43.0752241,-89.3803444,Breakfast & Brunch
+Titx8v6XuPPBt16FVwV3Og,Milio's Sandwiches,Madison,0,5,2,43.1832576,-89.2192377,Anonymous
+Tjlj3DgQxXKKG4AmnbDnIA,Capitol Chophouse,Madison,3,58,3.5,43.0727765,-89.3807764,Steakhouses
+tLRXIk4exmTclgKJfNSlGA,Thai Basil,Madison,2,66,4,43.0322241,-89.4979918,Thai
+tLyaM-S_iZZKCeo45AbDpw,Panera Bread,Madison,1,19,3.5,43.07318925,-89.52488869,Anonymous
+tmbprlbw5x9h4GM2EBQZ7A,Umami Buns,Madison,2,12,4,43.0755641,-89.3974633,Asian Fusion
+TqQEtYD9rgemLFpSpeNDsA,Jamerica Food Cart,Madison,1,3,4,43.0749373,-89.39868752,Anonymous
+tsRvkXctd4Aw-5tpXpFH6Q,Francesca's Al Lago,Madison,2,92,3.5,43.0737969,-89.3822541,Italian
+tteHjtbjQfWnJgFe4jPoMA,Jacs Dining and Tap House,Madison,2,185,4,43.0574842,-89.4280617,American (New)
+ttoub5SnLqMGjm0uN0y1nA,Pasqual's,Madison,2,104,2.5,43.07333163,-89.45302248,Mexican
+tTTJvJ1DrxauVmR_2-447g,Tandoori House,Madison,2,14,3,43.055999,-89.4977688,Indian
+tu8XqAD9bp4_GqUmAD4E5A,Daly's Bar & Grill,Madison,2,18,3.5,43.186541,-89.232231,American (Traditional)
+TWtdZw-QCgG71af01hAU4w,Paul's Club,Madison,1,83,3.5,43.07487946,-89.38833833,American (New)
+TypkaxMUTthOfl_Btj5X1A,Glass Nickel Pizza,Madison,2,157,4,43.0940334,-89.3413172,Pizza
+u2JMTEY5H0NRk8ZTMkxPGg,Restaurant Muramoto,Madison,2,161,3.5,43.07451129,-89.37927922,Asian Fusion
+u6QHP2ogsqnQHnhwa6Q03Q,Java Cat,Madison,1,59,4,43.0830814,-89.3244312,Coffee & Tea
+u74kGBKvOOhq-WPD92bXww,Tootsie's Tap,Madison,1,6,5,43.250202,-89.499847,American (Traditional)
+u9D56nbjL1IwxEdlrB4XPw,Aldo's Cafe,Madison,1,23,3.5,43.0729518,-89.4074845,Cafes
+uAVXeASB8STR0QLaJgEuGw,Noodles & Company,Madison,1,15,3,43.0161131,-89.4290497,Anonymous
+uga5g16PncJOtY7Sc3A05w,McDonald's,Madison,1,10,4.5,43.0905898,-89.5250644,Burgers
+UgjVZTSOaYoEvws_lAP_Dw,Main Moon,Madison,1,10,3,43.0183968,-89.2990876,Chinese
+uGykseHzyS5xAMWoN6YUqA,Deforest Family Restaurant,Madison,1,32,4,43.2521822,-89.353353,American (Traditional)
+uhiJAzv7JVk_IIzPKXH-YQ,Hamilton's On The Square,Madison,2,42,4,43.0768864,-89.3838974,American (Traditional)
+uhPXsYt-6nAzYcUoo2InFg,Tai's Asian Bistro,Madison,1,62,3.5,43.0519702,-89.473771,Asian Fusion
+uhxcmHsXI08b4wWs_zzVMg,Soga Shabu Shabu,Madison,2,38,3.5,43.0751832,-89.3936346,Asian Fusion
+Ui3zTPc4mvt_nUKqmVdm6A,Popeyes,Madison,0,3,3.5,43.17477212,-89.32524271,Chicken Wings
+UIjO8lq1Lh0H2l9VfIfifQ,Forequarter,Madison,3,197,4,43.0822686,-89.3796148,American (New)
+UiwbmwRy0rxNpeVhEVQYaA,Julep,Madison,2,76,4,43.08102166,-89.37400635,Anonymous
+uJ3IXwsAurEQyXhwezSuHw,Luke's Cafe,Madison,1,11,3.5,43.0113344,-89.3031296,Breakfast & Brunch
+uJ-i_-GGYUnzCEs40Fkweg,The Tipsy Cow,Madison,2,250,4,43.074727,-89.3815378,American (Traditional)
+UkZ5mAzll7d3Hw0UfeAJKQ,Pizza Ranch,Madison,2,33,3,43.17106658,-89.26608523,American (New)
+unMqU0OrlniCOKZIoQHb0A,KFC,Madison,0,6,1,43.1866,-89.2315,Fast Food
+unXHmjewHGeWQwJr74Sy9g,China Inn,Madison,1,17,2.5,43.0843511,-89.2997981,Chinese
+UomQ7gVcsc8zXeVUAT8VzQ,Saigon Sandwich Madison,Madison,1,18,4.5,43.07205498,-89.40565802,Anonymous
+uP-ZNjQcd1Myb28h5ZovHA,Jimmy John's,Madison,1,6,2.5,43.0966,-89.500716,Anonymous
+ur6xZQjZ6PVrR12Za-DrqA,China Wok Chinese Restaurant,Madison,2,15,3.5,43.1895553,-89.4614377,Chinese
+uSJ53hlOiBj-9KXNTZ7FyA,Biaggi's Ristorante Italiano,Madison,2,94,3.5,43.0911026,-89.52914391,Italian
+Ut1ONI32lpEgTQrV4_aqDA,Milio's Sandwiches,Madison,1,9,1,43.0018667,-89.5320909,Anonymous
+uVaWsf5ZN5vc5EC_J8bEvQ,Taigu,Madison,2,45,4,43.0959304,-89.5130043,Chinese
+UvcJirkbNRDMhtPsr4FeAQ,Culver's,Madison,1,15,4,42.9929108,-89.5278818,Fast Food
+UZ5dHDH9-YL-xXRgpiHVBQ,Roman Candle Pizzeria,Madison,2,68,3.5,43.0967142,-89.5117782,Pizza
+V13d_rSDbaXE_Q3O2uaBIw,Bubbles' Doubles,Madison,1,6,4,43.07578445,-89.38512661,Anonymous
+V250hsqL_z-_J16aew8wcw,Naples15,Madison,3,102,4,43.0771243,-89.3815107,Italian
+V3MqDdWmQVbY3Cwk-kAKqg,Springers,Madison,2,24,3.5,42.979387,-89.2437829,American (Traditional)
+v5a-Mj4eO1E--HmgwEWo7A,Red Lobster,Madison,2,37,3,43.128034,-89.307157,Seafood
+v8cTq3_Ll2E8_EvD0dCsow,Daisy Cafe & Cupcakery,Madison,2,212,4,43.0936724,-89.3426022,Breakfast & Brunch
+vA3WNmLiLTIygm2tCJ6M6g,The Library Cafe & Bar,Madison,2,34,3.5,43.0730787,-89.4092156,Coffee & Tea
+VB-tzuBR6BxMzOkY_cOpwQ,Bandung Indonesian Restaurant,Madison,2,163,4,43.076604,-89.3745656,Asian Fusion
+vdWTm_hVFdt5s8Ca1Xyddw,KFC,Madison,0,5,2,43.1314,-89.2999,Fast Food
+ve8TPUY6IgTsgB3ZHabl-Q,Landmark,Madison,0,3,1,43.247335,-89.34407,Anonymous
+VfCpMwzDYyKo_rea6ujgHg,HopCat,Madison,2,189,4,43.0751392,-89.391759,American (Traditional)
+vGCetjJwnPU5bqoNxFM3sw,Opus Lounge,Madison,2,73,4,43.07477477,-89.38087324,Anonymous
+V-Ic99jKW-IG4EnI_5HunA,LongHorn Steakhouse,Madison,2,53,3.5,43.05941101,-89.50350262,American (Traditional)
+VK0l1dDyKSpMWuE7AY_DpQ,True Coffee Roasters,Madison,2,32,4,43.0108105,-89.4785857,Coffee & Tea
+vK5sub1Y993EtLHVtnt9Pg,Falbo Bros. Pizzeria,Madison,1,42,3,43.0629329,-89.4010815,Pizza
+VkQYdpbna8eTYaHZ3fAMbg,Johnson Public House,Madison,1,132,4,43.084781,-89.376208,Coffee & Tea
+vktWQYYXnOW0odVFHlX4Jg,Which Wich,Madison,1,29,3.5,43.0980008,-89.5231897,Anonymous
+vlnTdGZI77jOojDsD6KzAQ,Surco Peruvian Food,Madison,1,13,4.5,43.1054334,-89.4269287,Anonymous
+vMkdrumqbSSxn-TZc3sRgA,That BBQ Joint,Madison,2,31,4,43.0794866,-89.3693954,Barbeque
+vN1KCflhy4ZrfA7DECGxtQ,Harvest Grains,Madison,2,5,3,43.0717653,-89.4081342,Anonymous
+vNSSn98ePYBbCwRCDnRlVA,Great China,Madison,1,18,2.5,43.1077741,-89.3635315,Chinese
+vogZZuDmuVZmKssoZ11Kyw,Banzo,Madison,1,248,4.5,43.10167223,-89.36459541,Mediterranean
+vOSnvtYPpB76ddB4TFDfQA,Palenque Mexican Bar & Grill,Madison,2,23,4.5,43.0138,-89.3027495,Mexican
+VULvBdiunj7HSycDBqmakw,Osteria Papavero,Madison,2,127,4,43.07413865,-89.37934544,Italian
+VwImfQqQfbUuUaj4aCN1rA,Pita Pit,Madison,1,19,4,43.0745126,-89.3933663,Anonymous
+Vxb8xRSm79m3WosnTNvVFQ,Sala Thai Restaurant,Madison,2,72,4,43.0987829,-89.3338313,Thai
+vXK8lVxFjyhVSoSgMvTxww,Christy's Landing,Madison,2,20,3,43.0065929,-89.3368292,American (Traditional)
+vxqvzSkMxznFP6JcV2CpyA,Jimmy John's,Madison,1,9,2.5,43.1243683,-89.3126154,Anonymous
+vZkR7xkqtzcK7klbD--Rug,Porta Bella,Madison,2,75,2.5,43.07414413,-89.39559636,Steakhouses
+W14RI0JIQrUg6JazBwcNqw,Luang Prabang,Madison,1,16,4.5,43.0755641,-89.3974633,Thai
+w2Z7GJjCYVL6JKJEQ9UgYw,Asian Kitchen,Madison,1,59,3,43.0745126,-89.3933663,Chinese
+W4cHF12due10J7xevvjvPw,Sa-Bai Thong West,Madison,2,87,3,43.0572311,-89.5000386,Thai
+w7XfqsXO3ZEtoZs8_Q5QSw,Little Caesar's Pizza,Madison,1,6,4,43.0497827,-89.504127,Pizza
+W9TgasYwecd_yavQit4dkQ,Prairie Cafe & Bakery,Madison,0,19,3.5,43.10686539,-89.49709545,Coffee & Tea
+wAa3LBRo-iLqFbYiuEMPog,Mr. Brews Taphouse All American Burgers,Madison,1,83,4,43.07330004,-89.52668633,Burgers
+wdrMRv81CD_T8OoW8pcaWQ,McDonald's,Madison,1,6,1.5,43.1284949,-89.3588372,Burgers
+Wea2X9wdoLqYPAItnJt4Lg,McDonald's,Madison,0,4,1,43.187935,-89.229966,Burgers
+WERUCpgQ6bwyMI27uUTHjA,The Coliseum Bar & Banquet,Madison,2,34,2.5,43.0520231,-89.379364,American (Traditional)
+Wevvp32YJtRTb_SvtZhJtA,Monona Bait & Ice Cream,Madison,1,9,4,43.071263,-89.333781,American (Traditional)
+wfE180qQ2OW3qxFsqVctgw,McDonald's,Madison,1,4,2.5,43.098752,-89.314916,Burgers
+WgAG5p6oSKPheFRjbWKdnQ,Panchero's Mexican Grill,Madison,1,16,3,43.0755641,-89.4432635,Mexican
+wgdsvybtwDhCdxW9Zq6RAA,Sencha Tea Bar,Madison,1,15,4,43.0748338,-89.3922743,Coffee & Tea
+WhBxWYRj6rycigYqdXY9cA,Great Dane Pub & Brewing Co,Madison,2,590,4,43.07401052,-89.38086838,American (New)
+WjYJlmKwdYsNEcrJ6D0C_A,K Peppers,Madison,2,83,3.5,43.0962004,-89.51369458,Korean
+wl-7A4jC0f27MOEmW-XTbQ,Grand China Restaurant,Madison,1,13,3.5,43.1035561,-89.4864809,Chinese
+WmPKn7CU0uhxDx5IUSnaQg,Gino's Italian Deli,Madison,1,7,4.5,43.10388843,-89.49175729,Italian
+wN5WijlhJjW_3keXENR1cw,Sushi Box,Madison,2,53,4,43.071852,-89.42842,Asian Fusion
+wPidHd5FxspPRgVqdEQ-Xw,Pedro's Mexican Restaurante,Madison,2,73,2.5,43.1146165,-89.3254853,Mexican
+WpWFIbTSeaT6yMi1hasBGQ,Pizza Brutta,Madison,0,9,4,43.1066649,-89.4976175,Pizza
+Wrw9idc8dawuagd3UwvmfA,El Poblano Mexican Restaurant,Madison,1,43,4,43.097994,-89.320026,Mexican
+WsgcDmTPfRNGos90P_t4Kg,Perkins Restaurant & Bakery,Madison,2,24,2.5,43.03550088,-89.40867691,American (Traditional)
+WuFqL5uURZwfootmgAMCyA,Mickies Dairy Bar,Madison,1,232,4,43.067439,-89.4129202,Breakfast & Brunch
+wV4NpeliwRmOumrNgvq6bw,Mezze,Madison,2,9,4,43.0745706,-89.3940617,Mediterranean
+Wv7AqSOOnMR676h3bZWyJw,Espresso Royale Caffe,Madison,1,41,3.5,43.0749204,-89.3883945,Coffee & Tea
+wXri8QF92KOYe2INyca0yQ,Red Shed Tavern,Madison,1,30,3,43.0735699,-89.396101,American (Traditional)
+X4M2eZFUlzkPwI1xr8ZdhA,Thai Noodles,Madison,2,76,3.5,43.01497392,-89.4578836,Thai
+x4saivsNxDnlf6RuphldNw,Naty's Fast Food,Madison,1,8,4.5,43.04953571,-89.39312842,Fast Food
+x6SGXzrmGPJklnbKO_SGxg,Great Dane Pub & Brewing,Madison,2,155,3.5,43.0711419,-89.4523269,American (Traditional)
+X8XOz8GfPv6nQQxTJ4aIaw,Badger Tavern,Madison,1,12,4.5,43.0354313,-89.444136,American (New)
+xajae0ukR4_hguNobwEawA,Lombardinos Italian Restaurant and Bar,Madison,3,137,4,43.074325,-89.430706,Italian
+xb9Ql2HYlQLHIzITj_4X7g,The Brass Ring,Madison,2,41,3.5,43.0798171,-89.3762962,American (Traditional)
+xbJ9tdGbcVJIUkNgHSCwZQ,Hody Bar & Grill,Madison,1,16,2.5,43.0961397,-89.5131754,American (Traditional)
+XCYGe_JPjexm6G2OQ_mYXQ,Crandall's Peruvian Restaurant & Catering,Madison,2,33,3.5,43.074922,-89.39103,Anonymous
+XDp639MGfxgzETDZyaERNA,Noodles & Company,Madison,1,7,3,43.0938213,-89.5253819,Anonymous
+xdVoVO0SjRth_Af5mtOvTg,Great Dane Pub & Brewing Co,Madison,2,81,3.5,43.085345,-89.279863,Anonymous
+XearczK-Bd83Td1Giwu0Zg,Arby's,Madison,1,3,4.5,43.123819,-89.315267,Fast Food
+xG7wiKZC0Yu_ZpZtnLC91Q,Chili's,Madison,2,21,3,43.0586399,-89.508535,American (Traditional)
+xgeJVV3ftEMSgXocj4zMow,Falbo Bros. Pizzeria,Madison,1,13,3.5,43.04727131,-89.32584286,Pizza
+xgku6TQ_HzM-vZxaos6JWw,Cafe Porta Alba,Madison,2,130,4,43.07208923,-89.45229833,Italian
+XGmbipnGbjoRD8Ae0OVUcg,China Star,Madison,1,10,3.5,43.0474245,-89.326964,Chinese
+XgNy4vCHn-1NVzu6xgZIxg,Barriques,Madison,1,51,4,43.0649299,-89.4165809,Coffee & Tea
+XhDlbfGzy_sVDs76n9oTGQ,Jimmy John's,Madison,1,14,2,43.0612516,-89.4858653,Anonymous
+xHJPgPO3wF-F3Ep8Vz17ng,La Taguara,Madison,2,174,4.5,43.1146792,-89.3285605,Anonymous
+xIk7L8_54MK7TvkX9P5keQ,Papa Murphy's,Madison,2,4,2,43.0482473,-89.3237185,Pizza
+XIZ259hZ6Yww3C0o97MgUQ,Fazoli's,Madison,1,13,2.5,43.127149,-89.30111,Italian
+XkIaCb-cJpeC4TgLzwy25g,Falling Water Cafe,Madison,2,6,2.5,43.0878804,-89.5231721,American (New)
+xMyTUliefguc3bfetGebJg,Pizza Pit,Madison,2,7,2.5,43.0923911,-89.3610073,Pizza
+XnDKCPI00KP6ByyPGaDYBA,Firehouse Subs,Madison,1,25,4,43.0605835,-89.5193733,Fast Food
+xnklhny_k9ns9zbZhx0vsg,Ramen Station,Madison,2,32,3.5,43.0555455,-89.3978463,Japanese
+XNRQG0gffiO5H4iZdFIOOg,Hy-Vee Market Grill,Madison,2,14,4,43.0136763,-89.4797493,American (Traditional)
+xou2z56CFTWYoA99s4DpTg,Taco Bell,Madison,1,6,3.5,43.0477,-89.3246,Fast Food
+Xp7OA8gz7zDgB3I54jyb4g,SIR Hobo's,Madison,1,26,3,43.182445,-89.225628,Anonymous
+x-q08gEaLM73OyabCSKKGg,Buffalo Wild Wings,Madison,2,34,3,43.07312394,-89.3984288,American (Traditional)
+XROHg2KXLXI6LfzylKbNMQ,Pizza Pit,Madison,4,8,2,43.0867933,-89.3068682,Pizza
+XsDFvUcFxnOEOw9zKvO-iA,Pasqual's,Madison,2,68,3,43.064708,-89.416916,Mexican
+XstnM5vqSqdw-9rLSzUg5A,The Nile,Madison,2,97,4,43.0530217,-89.4863743,Mediterranean
+xtW28KmwigJ8fAPgT6OkFw,Baldwin Street Grille,Madison,1,45,4,43.0876189,-89.366341,American (Traditional)
+xVNehV47VEyx-Uj0DTdPEw,Nitty Gritty Restaurant & Bar,Madison,2,52,3,43.18098223,-89.21057613,Burgers
+XvXisQrvJXcGK5nTImokrw,Buffalo Wild Wings,Madison,2,37,2.5,43.12616206,-89.30636091,American (Traditional)
+XWDk-pLSbVE2Vvv9Z-zusQ,Burger King,Madison,1,21,1.5,43.101439,-89.347232,Fast Food
+xWLGtdbQn7NGD3djtmjTKA,Pasqual's Cantina,Madison,2,54,2.5,43.08814,-89.3652468,Mexican
+XY_vRB1QTqo86sGALFLjAw,Jade Garden,Madison,1,41,3,43.0548686,-89.3968494,Chinese
+XyG2W5qfu7rj4tCJBZrIKA,Jordandal Cookhouse,Madison,2,61,4.5,42.988796,-89.545401,American (Traditional)
+Xys8CR7m-Lf8j3SUSAN9Ug,Habanero's Mexican Grill,Madison,1,105,4.5,43.0651865,-89.3083494,Mexican
+xZwaUcrFMSY1O9dK2dAUpA,China Wok,Madison,1,30,3,43.0945835,-89.3641631,Chinese
+Y_hWal1CfHfSaMEfXcIumQ,Subway,Madison,1,4,3.5,43.1784005,-89.2377158,Fast Food
+y7GRFf2jsQxUwu1pw5kkXQ,Edo Japanese Restaurant,Madison,2,74,3,43.0611621,-89.4011106,Japanese
+y8rPxSf0m9Qc2A-wwiPkJw,Little Caesars Pizza,Madison,1,7,2.5,43.1021144,-89.3447315,Pizza
+y93QKoRHJmaBL-x_OkNuyg,Draft House Bar & Restaurant,Madison,2,35,3.5,43.001914,-89.5296788,American (Traditional)
+yBD4U6uAtTIT6Ggh3gy0og,Buffalo Wild Wings,Madison,2,33,2.5,43.0148531,-89.4765581,American (Traditional)
+yBIg6XlCwu0HJeYb5peH2Q,Fresh Cool Drinks,Madison,1,10,5,43.07499701,-89.39794734,Thai
+ybkWtM1ZnT2ewuquj3A9KQ,Benvenuto's Italian Grill,Madison,2,36,3,43.12889904,-89.36005005,Italian
+YCKOz3ja7i3nbavwdf6lWQ,Greenbush Bar,Madison,2,137,4,43.067873,-89.401811,Pizza
+YdN00GJNgC5uY8tlwbzr0Q,The Caribou Tavern,Madison,1,54,4,43.0819486,-89.379443,Burgers
+yFKx9HSYtcTuaCs4jaqgKw,Doubleday's,Madison,0,4,4.5,43.100532,-89.167109,Pizza
+YjPVr7OktptCtORjq5da2A,Chick-fil-A,Madison,1,33,4,43.058073,-89.503443,Fast Food
+yJYXwvF_RBUIdguShrYSSg,Mediterranean Hookah Lounge and Cafe,Madison,2,26,4,43.0390133,-89.3865265,Mediterranean
+ykxf0XiJt-d76dBwfO_yew,TGI Fridays,Madison,2,22,3,43.131344,-89.2985024,American (Traditional)
+YlznKuAxnd7j3QfXFzoIog,Players Sports Bar,Madison,1,19,4.5,43.0924809,-89.3545584,Burgers
+Y-owGVK9wY-kZYPwG30nZw,Spring Garden Restaurant,Madison,2,12,3,43.1907952,-89.4617553,Mediterranean
+yp7pQcbglwBn8tfUVI7QUA,Craftsman Table & Tap,Madison,2,147,3.5,43.106774,-89.4977379,American (Traditional)
+YqRptNqPphwwP4Cg2sYQ2g,Martin O'Grady Irish Pub & Grill,Madison,2,32,2.5,43.0612817,-89.511733,Anonymous
+yR_oVVP2cOeDpu5WrlpquA,Bennett's Meadowood Country Club,Madison,1,19,4,43.0319789,-89.4604261,Burgers
+yrBo3c3OTKVO4H1ttBxadw,Pooley's,Madison,2,33,3,43.1416016,-89.2849001,American (Traditional)
+yrxPKjTAEBa4T44vSnfB3w,Buraka Restaurant,Madison,2,29,3.5,43.0836473,-89.3642491,Vegetarian
+YuEJiPWOvk7rm63UinIZYA,Urban Slice,Madison,1,6,2,43.071074,-89.4075932,Pizza
+yV-eB-pQVeWE7W-WPC8BUg,Prairie Diner,Madison,1,28,4,43.1881219,-89.230805,Anonymous
+yXBo7Wgos9B-KzkYSMrNJw,DumplingHaus,Madison,2,162,4,43.07156358,-89.45216384,Dim Sum
+YXfDJLWtchsCccaHMMkyYw,Sa-Bai Thong,Madison,2,110,3.5,43.0752466,-89.43766668,Thai
+yYIEKwgQUHJpySOcVdCAkg,Perkins Restaurant & Bakery,Madison,2,20,3,43.1358954,-89.29944858,American (Traditional)
+yYLq0mtLpEjJTMBMfG1Cdg,Luigi's,Madison,2,75,3.5,43.0548519,-89.450401,Italian
+yZwWJQmisOgR5r1hMaTGyg,Wonder Bar Steakhouse,Madison,3,84,4,43.05216,-89.379187,Steakhouses
+z_I0ojM_8LhON1laLtntlA,Edo Garden Monona,Madison,2,56,3,43.0496297,-89.3255852,Sushi Bars
+z_mkazvf3NtvDJ-SYQgxow,Little Caesars Pizza,Madison,1,4,3,43.1794029,-89.2363971,Pizza
+z_WA9j09K3dbWIbXWSEwkQ,Cosi,Madison,1,6,2,43.0751909,-89.3898789,Anonymous
+Z137pkw7O9Fmfb7SGktEtA,Chipotle Mexican Grill,Madison,1,28,3.5,43.13044458,-89.30569551,Fast Food
+z1vIohB7e_8S0mVVcP2APg,Twist Bar & Grill,Madison,2,18,3.5,43.054689,-89.496055,American (New)
+z3dv9I2SN0QNaXLGBCwqBQ,Roast Public House,Madison,2,121,3.5,43.07491583,-89.39471268,Anonymous
+Z3qmQ6N4VEudR45exSHrTg,Mickey's Tavern,Madison,1,159,4,43.0878975,-89.3587192,American (New)
+z9_qN1d92eF6_ngV8HtWhg,McDonald's,Madison,1,3,2.5,43.066784,-89.326689,Burgers
+zAsxPh3h9xMQnSDGl41kSg,Wilson's Bar,Madison,1,23,3.5,43.093214,-89.350403,Burgers
+zCm-stt_czGayumPwlzn2w,Arby's,Madison,1,7,2.5,43.05212947,-89.50249574,Fast Food
+zeDcEyeIZX-Zzdqcbe61pg,Takara,Madison,2,75,3.5,43.0503272,-89.4745296,Sushi Bars
+zFFN-NQjuQROEQW_xtQXWQ,RP Adler's,Madison,2,54,3.5,43.0553398,-89.5235111,American (New)
+ZfIJYXEm6PSxmEc-11mbZQ,Culver's,Madison,1,6,3.5,43.0137642,-89.3021944,Fast Food
+zgxNUxS8eIyhkrXegDLtjQ,McGovern's  Enterprises,Madison,2,10,3.5,43.182188,-89.2275121,Burgers
+ZiR5Fu1yD5fqDHAfAfTBig,Nau-Ti-Gal,Madison,2,59,2.5,43.15019988,-89.4041699,Burgers
+ZjwZIQM4TfFO7T7ck7FtYQ,Copps Food Center,Madison,2,10,2.5,43.112943,-89.349625,Anonymous
+ZkVsZQgPqC_I6HGB_Up0gg,Swad,Madison,2,128,4.5,43.05365159,-89.32575215,Indian
+z-Lywypl0Y_O2QIp2mGXmA,Chicken Lips,Madison,1,39,4.5,43.1494859,-89.2066399,Chicken Wings
+zOc8lbjViUZajbY7M0aUCQ,Spartan Pizza,Madison,1,13,4,43.0141412,-89.2886604,Burgers
+ZP761-os3_PHEaNohcz_7A,Outback Steakhouse,Madison,2,34,2.5,43.0659116,-89.5240321,Steakhouses
+Zrj5ETRPc9-Zy4AZ4ie0NQ,Wurst German Bar,Madison,2,13,2.5,43.116806,-89.334795,Anonymous
+Zu8SnDo9MybuebSOTevT9g,M-N-M's Coffeehouse,Madison,1,19,4.5,43.192395,-89.463177,Coffee & Tea
+ZURfbJW3iDVL7Qj_ZrZmFw,Athens Gyros,Madison,1,25,4,43.15067963,-89.41466895,Greek
+ZusZ0l8gBpLvvYcTkuvRgw,Applebee's,Madison,2,16,2.5,43.0523183,-89.4743081,American (Traditional)
+ZVCdIgZhGgnGBdzt2Y0Iiw,Come Back In,Madison,1,84,3.5,43.0760533,-89.3767519,Breakfast & Brunch
+ZWL4WsDHMNu0MIICTG1Nyg,Asahi Japanese Restaurant,Madison,2,6,3,43.0615382,-89.4008856,Sushi Bars
+zWrJsFosqUrChGAGc3VkTg,The Boathouse,Madison,2,49,2.5,43.0791895,-89.3896863,American (Traditional)
+ZXDlrA9Aqsda1WfQD3H6aw,Papa Murphy's Take and Bake Pizza,Madison,2,5,3,43.1753564,-89.2482746,Pizza
+zXhseLVGffVE0f3krUhwKw,Gooseberry on the Square,Madison,2,13,3,43.0754387,-89.3821983,American (Traditional)
+zZ4a_YoexMJlP9AvWxlZEQ,608 Sports Bar & Restaurant,Madison,2,5,3,43.09491173,-89.36405394,Burgers
+ZZkubP-TCzbGuEOEzZno-A,Quivey's Grove,Madison,2,109,3.5,43.0086524,-89.4794905,American (New)

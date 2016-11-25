@@ -11,7 +11,8 @@ def uprint(*objects, sep=' ', end='\n', file=sys.stdout):
 uprint("{")
 uprint("   \"type\": \"FeatureCollection\",")
 uprint("   \"features\": [")
-with open('Business_Cuisine.csv') as csvfile:
+csvfilename = sys.argv[1]
+with open(csvfilename) as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         uprint("  {")

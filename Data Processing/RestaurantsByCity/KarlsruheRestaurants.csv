@@ -1,0 +1,512 @@
+Business_id,Name,City,Price Range,Review Count,Stars,Latitude,Longitude,Cuisine
+_8tUKyMRMMt1YSlac04eqg,Schiffsrestaurant Vater Rhein,Karlsruhe,2,3,3.5,49.0377,8.31318,Anonymous
+_CEgkUvPLL-omIutKaWs5Q,Chiang Mai,Karlsruhe,2,18,3.5,49.0084,8.42079,Thai
+_Fi4b5lYGsKhI4iCw7j_BQ,Rote Sonne China Schnellrestaurant,Karlsruhe,1,3,4,49.0106,8.42177,Chinese
+_J9JwsqYf1hKdtsE7A9OnA,Kofflers Wiener Beisel,Karlsruhe,2,4,4,49.0096502,8.405104,Fast Food
+_lhblpeTBbfG3TnWLLEGBw,Fünf Sterne,Karlsruhe,2,43,3.5,49.00540211,8.411165151,Chinese
+_TgKU9RQ10RfdZz8CSGEGQ,Böckeler,Karlsruhe,0,3,3.5,49.0093,8.40339,Anonymous
+_v0l_NYqRLE12GJMflm4Zg,Phó,Karlsruhe,1,17,4,49.0109,8.39556,Vietnamese
+_WxiLrlNpPuERam8YuQ-dg,Da Giovanni,Karlsruhe,0,10,4.5,49.001,8.39079,Italian
+0_6u_uhvLYGRt9YLtZLa9A,Pizzeria Luisenstube,Karlsruhe,1,4,3,48.9375,8.4149704,Italian
+0123BsbSufx_cKhbbVWmIQ,Rintheimer Stuben im Tsv,Karlsruhe,2,3,4.5,49.0108,8.44033,Anonymous
+081EZ8AIZ4QWVaYl_1wUCw,Cafe Carré,Karlsruhe,3,4,3.5,49.0092602,8.3764097,Coffee & Tea
+0h64oEQLhlMrrsko7B1eNA,Sol i Luna Restaurant,Karlsruhe,2,52,4,48.9994,8.47134,Anonymous
+0J0FdaT-dhECIrnnlfQqqA,San Marco,Karlsruhe,2,9,3.5,48.9975,8.33655,Pizza
+0NWm7KorY2NDl9jAjZPTRw,Thai Orchid,Karlsruhe,2,4,4.5,49.0062086,8.4082587,Thai
+0OTWK0GcabvOWfaqqJsBxw,Mersin Kebab-Pizza-Imbiß,Karlsruhe,1,4,4,49.0116,8.36299,Anonymous
+0Q7ftIbv1r7Jiupuxi7WDw,Syrtaki,Karlsruhe,2,19,3.5,49.0083,8.3975907,Greek
+0SgsUyw0sQSpt6CSI73r6Q,Zum Elsternest,Karlsruhe,2,6,3.5,48.9778654,8.3960922,Anonymous
+0tIwFdNA942oqnm47cnw4w,Watts Brasserie,Karlsruhe,3,23,3.5,48.9395,8.4176,Anonymous
+0W3K89HZ6zkNg3AqBMq4Dw,Klenerts,Karlsruhe,3,7,4,48.9641,8.28743,Anonymous
+0WiuRhBf8WQlr1UqFgKEXQ,Olive - das kleine Restaurant,Karlsruhe,2,18,4,49.0062,8.38194,Anonymous
+126Dmjf_NJs6OJ3ttI-J5Q,McDonald's,Karlsruhe,2,15,3,48.99435118,8.399387249,Burgers
+14FahioZzo_F5LlscNzcUw,Saray Kebap,Karlsruhe,0,3,3,48.91062,8.25346,Anonymous
+14qE5P0ZtWe782tWQYwCcw,Herrmannshäusle,Karlsruhe,3,11,4.5,49.0647934,8.4715598,Anonymous
+1FVEeqJv6V6decG4S4ZNFw,Jäger Biergarten,Karlsruhe,0,3,3.5,48.96339,8.33443,Anonymous
+1vObhKVuXQF7YX5R6qxwVA,Rote Taube,Karlsruhe,2,9,4,49.0057518,8.3721617,Anonymous
+24nfW5gDvX9ot2hT9rf6xg,Coffee Boxx,Karlsruhe,2,12,4.5,49.01488101,8.384188414,Cafes
+2fS1ssXEmuXH7t2zNx_DZQ,Judy's Café,Karlsruhe,2,4,4.5,48.9881413,8.4743368,Cafes
+2hTbsev_7hF8Fyla0zoUAw,Nuraghe,Karlsruhe,3,24,4,49.0551485,8.3814993,Italian
+2J6pdzKizFye435wkEcMpg,Vongruen,Karlsruhe,2,5,4,49.0087904,8.3898076,Burgers
+2PlaD6xXItbxo0ZbjQ7iQg,Pizzeria Stella Maris,Karlsruhe,2,5,4.5,49.04215,8.36618,Pizza
+2QclfX_80Y4T2zZ-h0FlmA,Unterhaus Gaststättenbetriebs,Karlsruhe,3,5,1.5,49.0103,8.39713,Seafood
+2x1USZcrV-1zrEDLzaX-lw,Bombay Palace,Karlsruhe,0,5,3.5,48.9858,8.39276,Vegetarian
+35Znve8wyIqKcGRJ3vVdLA,Padellino,Karlsruhe,3,16,3.5,48.9420364,8.4097545,Italian
+39zkau4YW8ovL3zUS10SAA,Restaurant Abrahams,Karlsruhe,3,5,2.5,49.0079738,8.4141097,Anonymous
+3C70DNk7sa0KuRJu3zKiXQ,Pomodoro,Karlsruhe,2,17,4,49.0118,8.40066,Italian
+3Dk5qrbYaP7lCYyjmo0JRg,Mogogo,Karlsruhe,2,38,4,49.0126722,8.397885,Anonymous
+3hrqeq7BVC8RP3rJBgCcIA,Pizzeria Fliegender Italiener,Karlsruhe,2,3,3.5,49.0114,8.36071,Italian
+3LA8ABDMBZnlEnVMmJ-YIA,Bäckerei-Konditorei Visel,Karlsruhe,2,5,3,49.00981,8.42244,Cafes
+-3Qu8aYgOleRw-OThNPovA,Sole d' Oro,Karlsruhe,2,11,4,48.9948165,8.393987,Italian
+3Rm2NlH_9Tp249DqicoeqQ,Maredo,Karlsruhe,2,63,3,49.0088748,8.4021614,Steakhouses
+3uIRIs9Bs1ImPjfQp-lYoA,Lehner's Wirtshaus,Karlsruhe,2,64,3.5,49.009036,8.3953183,Anonymous
+3vhkvCQizEJqcPfdURBj3g,amici,Karlsruhe,2,11,3.5,49.0103,8.39786,Italian
+41tFQSXt68OyPDbm3GAQdQ,Bangkok Foodland,Karlsruhe,1,35,4,49.010514,8.393407,Thai
+43A2uNd1EDp_tZGAzcl0AA,Beyti,Karlsruhe,1,5,4,49.0079271,8.3795858,Anonymous
+4fZtwMekeFdChOBQizz8Fg,Burger King,Karlsruhe,2,3,2.5,49.0289,8.35834,Burgers
+4lanRbZT3tZx9Gv63SO7kQ,Pizzeria Centrale,Karlsruhe,2,28,3.5,49.00744697,8.388330448,Italian
+4qI8E_OhC1RsO4nRtim-cQ,Schnitzelparadies,Karlsruhe,1,5,4,49.09544514,8.484202623,Anonymous
+4XZmBXSb-IvtkQ2nx_TQSg,Bambus-Garten,Karlsruhe,2,10,3,48.9426,8.40896,Chinese
+516cVatYZRqXcHEdfSTasw,Café Am Markt,Karlsruhe,2,6,3.5,49.009768,8.40367,Cafes
+51tbyswAGxdw9mN5qrPGeA,Nat-Pob,Karlsruhe,2,9,3.5,49.0175,8.34959,Thai
+5cOhs2bPeCMYA7OdQ3AOrQ,Gasthaus dBadisch,Karlsruhe,2,5,5,49.0761184,8.39144,Anonymous
+5jb7i9_803c0YejTudYzHA,Shanghai China Schnellrestaurant,Karlsruhe,3,13,4,49.0103,8.38512,Fast Food
+5VTBQov3GPKQ-dl-GW4JeA,Cafe Eukalyptus,Karlsruhe,0,5,4.5,49.00165894,8.382980727,Coffee & Tea
+5wfKnQS46yzNQSVfK0Cugg,Class Döner & Pizzahaus Rüppurr,Karlsruhe,1,4,4,48.9726,8.40868,Pizza
+5wUave1meYwsd6UFdihW4w,Maiers Restaurant Am See,Karlsruhe,3,9,4,48.9188,8.37076,Anonymous
+5xXr_KnqboB4SclCe9d9jg,Falafelhaus,Karlsruhe,1,13,5,49.0088292,8.3915418,Mediterranean
+69-bzg2RpU2mi9T79u6nUg,Gasthaus Adler Rheinstetten,Karlsruhe,0,4,4,48.9618109,8.292246,Anonymous
+6Ai-Uz3h9eC7UiaLvR-irA,ZEL Restaurant,Karlsruhe,2,19,4,49.01022814,8.392091015,Pizza
+6B2uNKnslhbSFfym3Tw4ZQ,Cafe Brahms,Karlsruhe,1,3,4.5,49.01288,8.36553,Cafes
+6FAJctqkP0uwTWfSV3lDSQ,Kofflers Heuriger,Karlsruhe,2,15,3,48.9722843,8.403436,Anonymous
+6ffwWT-0iWLc7TnKkh-Nuw,Ssc Gaststätte,Karlsruhe,2,5,3.5,49.027,8.44388,Anonymous
+6fYqoI-jc2qpBAGOyWC65A,Zum Laub,Karlsruhe,2,11,3.5,49.0037,8.52661,Steakhouses
+-6NaBMeSXBnY7j9p7sdPhw,Brauhaus 2.0,Karlsruhe,2,25,3,49.0370694,8.3485875,Anonymous
+6WbvAT9Il4Fi9egO4F2M5g,La Pizza,Karlsruhe,2,7,2.5,49.0056,8.40342,Italian
+6yCm35snSRmCQqXI8MlYSw,Restaurant La Signora,Karlsruhe,2,13,4,49.04508,8.38144,Italian
+7a2RrK3SYgMOEuJesKBZLA,Pizzeria Steinofen,Karlsruhe,1,7,4.5,49.02983,8.34055,Italian
+7eiSjE-Q8Z9hJXkzfUYlhA,McDonald's,Karlsruhe,1,4,2.5,49.01019931,8.394696169,Burgers
+7GFd-ao4w7MzUDb-qz-ayg,Oishii,Karlsruhe,2,40,4,49.0079107,8.3956589,Sushi Bars
+7jt9kAnYOweq9y2I0uE1Dw,Moghul Mahal,Karlsruhe,4,11,3.5,49.0132,8.37467,Indian
+7Sl1qWqsYO_K0Ah7btDzbA,Ristorante Schwanen,Karlsruhe,2,11,3.5,49.0042,8.49771,Mediterranean
+8BlSo_rH0CUlkpogYMeN8Q,Fischerheim Durlach,Karlsruhe,2,12,3.5,49.00642,8.46986,Anonymous
+8dVpiN5yCnpnhW3DL-2_uA,Landgasthof Hirsch,Karlsruhe,0,3,3.5,48.9327,8.26904,Anonymous
+8FgK0h0Kh0BpxhaqDsjaZA,Rim Wang,Karlsruhe,3,34,3.5,49.005,8.35002,Thai
+8KCsKouVZYtpRB0fniPrdg,MoccaSin Coffee,Karlsruhe,1,6,5,48.9423505,8.406616,Coffee & Tea
+8QhUXk_Y89rMmQHzzBLNBQ,Gasthof Tannweg,Karlsruhe,1,7,4.5,48.9554,8.47922,Anonymous
+8R57IiGUkoq6A9DSEmJRcQ,Zur Tränke,Karlsruhe,0,5,4.5,49.0767,8.38092,Anonymous
+8rtzGl1pt3YrICBum8cRxA,Restaurant Piro,Karlsruhe,2,15,3.5,49.0102082,8.3930013,Pizza
+8WUOay5hclm0wjKGCRm7Sw,Café Creativ Cuisine,Karlsruhe,0,4,3.5,49.0009536,8.3887202,Cafes
+-8YUIv3tK0Ui1G8KA5c9zA,Hotel-Restaurant Erbprinz,Karlsruhe,4,15,3.5,48.94127,8.40434,Anonymous
+96-0tsLAkE3xC0eZ7Jsu_g,Wirtshaus zum Schwanen,Karlsruhe,0,3,3.5,48.9743038,8.453387,Anonymous
+9HZiyUyDcZl5WCA248mAJA,Imbiß & Bistro Dersim,Karlsruhe,2,6,3,48.9427,8.40888,Fast Food
+9jSE6VWYhI_4NRwoXRQQ4w,Dr. Kaffee,Karlsruhe,1,11,5,49.0090329,8.4153663,Coffee & Tea
+9O13j4NIYBkZVfInk6FDEA,Restaurant Weinhaus Steppe,Karlsruhe,0,5,4.5,48.91946318,8.479737951,Anonymous
+9rz7hggrbeIOg1FcQa_uwQ,Borsalino,Karlsruhe,2,75,3.5,48.9974,8.46465,Italian
+9sR3wYRz9WxCCCt4Br-T3g,Hartmaier's,Karlsruhe,4,19,4.5,48.93955,8.41691,Seafood
+A0g1MhXHME3C1yxc4PCxhA,Pizza Hut,Karlsruhe,2,11,2.5,49.0093,8.396,Fast Food
+A2aS1RVe9nM-CiLa0vN69w,Wirtshaus Zur Rose,Karlsruhe,2,9,4,49.0332008,8.3368594,Anonymous
+AAaF8hc_KTjhi-2HzWdsRg,Hagsfelder Stuben,Karlsruhe,2,14,4,49.0274374,8.4593159,Steakhouses
+ac8dhJhjJgan5T-_KHu_9w,Romulus et Remus,Karlsruhe,2,18,4,48.9931,8.46144,Pizza
+acyHuDT1T7naRmWDVfDhXg,Marianne's Flammkuchen,Karlsruhe,2,31,3.5,49.00560669,8.36678147,French
+A-DrNFzlaynJgnPtu8LBMw,Le Restaurant,Karlsruhe,2,3,5,48.9874338,8.541948,Vietnamese
+aM0RwIaM3IRrCb4mtLwPig,Cielo,Karlsruhe,2,21,4,48.99945,8.47156,Cafes
+APr27c-qEfk7RGCPFE_tug,Bep Xua,Karlsruhe,0,4,4.5,49.00560607,8.384862654,Vietnamese
+AThVusdWIYLmXMCVFN5n2w,El Tesoro,Karlsruhe,1,5,4.5,49.0113,8.35909,Cafes
+aUFag1TNdmAQYoqVRk-ziQ,La Terazza,Karlsruhe,2,21,4,48.9923,8.44193,Italian
+AvC6wcZ_BJFqLP3KtnU1Yw,Yangda,Karlsruhe,1,11,5,49.01067666,8.396237232,Chinese
+aWPbsy9tBGrixT9N0jJ2-w,SVK Beiertheim,Karlsruhe,2,4,3,48.9965,8.37844,Greek
+b3051J8Ii1485ZOJBYVzhQ,Schlosscafé,Karlsruhe,2,14,3.5,49.01387124,8.40487361,Anonymous
+B3gjclBEA5cL4TooZUjYkw,Kühler Krug Familienbrauerei,Karlsruhe,2,59,3,49.00418,8.36873,Anonymous
+B4f4wksmcqYTFh4eESm3Kg,Osteria Carré,Karlsruhe,2,8,3.5,49.00928853,8.376420074,Italian
+b4TLYjfO6iiY0bZEnm3uzA,La Capannina,Karlsruhe,2,5,4.5,48.9294,8.47129,Pizza
+BbAr92cLCT-KapUEuzfn9A,Akropolis,Karlsruhe,0,7,4,48.9523,8.51714,Greek
+Be3UQjMhbQDxRnmYu0pAMw,Goldenes Lamm,Karlsruhe,2,3,3.5,48.9542,8.50841,Anonymous
+bgBafNxzbhvsC4GAivwWtQ,Parkdeckzehn,Karlsruhe,2,44,3.5,49.0088291,8.4017419,Cafes
+bH4FuprJUD5eEMzwzO06yg,Jägerstube,Karlsruhe,2,7,2.5,48.9365,8.40716,Italian
+bi7VIc7INLhKaYZqBJR_8Q,Jin-Palast Chinarestaurant,Karlsruhe,2,16,3.5,49.0443,8.39407,Chinese
+bm8_IYhdxx20XFWYCHYrSg,Zum kleinen Ketterer,Karlsruhe,2,25,4,49.0076646,8.4075991,Anonymous
+Bo8T_i8a76dZZfuFVo_O0g,Rosenbaum,Karlsruhe,2,4,3,49.00868,8.39705,Anonymous
+BPY-04VxlC60qxww38dFTQ,Endle,Karlsruhe,3,24,4.5,49.0101131,8.3907078,Cafes
+bqcemu1Y-ZTX8haoRqQQog,Der Vogelbräu,Karlsruhe,2,40,4,48.9981222,8.4656999,Anonymous
+Bsj9BC15wZDAlWTsP8kfVg,Aroma Kebap,Karlsruhe,1,18,4.5,49.00573671,8.372875862,Fast Food
+bSNb73315kS9dOJ1q6uy9g,Raju's Pizza Service,Karlsruhe,2,3,3,48.92931,8.2673,Italian
+BU5j4XmGAanDPZ_U9IABaA,Lindenbräu,Karlsruhe,2,19,4,48.9254315,8.4781338,Anonymous
+bVg-aNsf3KNJ4oSuuhw-AA,Akropolis-Ziegler,Karlsruhe,2,8,2.5,49.004,8.40611,Greek
+ByZychE8TxTgsNez8nhjfw,Jaipur,Karlsruhe,3,11,4,49.0072917,8.3848345,Indian
+C-3H0JM_J3Ow3u-8dwjhnA,Bratar,Karlsruhe,2,59,3.5,49.00868,8.39705,Burgers
+C3thwROobYHtoeZXjcoQXQ,Schreberklause,Karlsruhe,0,8,3,48.990186,8.467055,Greek
+c74DXZNvjNgOMKKwaL8HUg,Gold,Karlsruhe,2,42,4,49.0093069,8.4223463,Anonymous
+C8CSSQU2pE1MWgNJT6J2JA,Central Pizza & Kebap,Karlsruhe,0,7,4.5,49.0087744,8.3918717,Pizza
+c8QK4fd-nuyLZDQu5dzLGA,Golden Goal,Karlsruhe,0,6,4.5,49.0018,8.48009,Anonymous
+cd4EpU1PkomEAXjU0xyw1Q,Pizzeria Toscana,Karlsruhe,0,5,4,48.91394,8.464,Pizza
+CdZKeUZtCjqV0ni2NeFlgA,Alte Schmiede,Karlsruhe,3,50,4,48.9997,8.47296,Anonymous
+censB138iZoYjr_riZSY3Q,Sushi King,Karlsruhe,2,7,3,49.01,8.39424,Sushi Bars
+CFoN6P3YWTBEfCIRrTsYbA,Charles Oxford,Karlsruhe,2,6,3.5,49.01022798,8.397797068,Burgers
+CId0P8GkPJxBVXKgWyM2tA,Bambus Garten,Karlsruhe,2,13,4,48.9972962,8.4588132,Vietnamese
+CiGZR0Hr7YY6_GqcBIttxg,Kaiser Grill,Karlsruhe,0,6,3.5,49.0094,8.40955,Fast Food
+cK-Aa0DUAUHJmNTJQc109Q,Yes we can Burger XL,Karlsruhe,2,8,3,49.0094,8.40972,Fast Food
+cnXDAjSiySOySahN0HPoyw,K2,Karlsruhe,3,4,4,49.0016943,8.4624687,Italian
+co2KapMLsKfc7fi2_GefXQ,Alibaba,Karlsruhe,2,33,4,49.0065242,8.4060692,Middle Eastern
+CpGgeW1ioh-DzcNheh9nGA,Ristorante Italia,Karlsruhe,0,3,3,49.0064216,8.5291387,Anonymous
+CRcwhJTaOYE1IYLCFl_hrQ,Pizza-Taxi Bella Madina,Karlsruhe,0,3,1.5,48.9427,8.40178,Pizza
+Cu4mKzo8TsOEzZJuF4EAXA,Zero,Karlsruhe,2,23,3.5,49.00926338,8.405092001,Cafes
+cVQWrQpeKsQVphwW_6LcpQ,Restaurant Shiraz,Karlsruhe,2,6,3,49.007737,8.3874269,Anonymous
+cVXlK6H02uSjwrmu1fW-Vg,La Cigogne,Karlsruhe,3,4,3.5,48.9324,8.46682,French
+cwo-SSQxjvtn9S0uhjGDSQ,Café Karle,Karlsruhe,0,3,3.5,48.9988711,8.4014459,Coffee & Tea
+cxs28BsfEmlkRUTucx8a8w,Eiscafe Capri,Karlsruhe,2,5,4,49.0102,8.39732,Coffee & Tea
+d4r8kOr0ZSpH2MnVoMZzbQ,Gutenberg,Karlsruhe,2,37,3.5,49.0087709,8.3762576,Anonymous
+d8ksSGlDe5XNZevNJwAI0g,Andreasbräu,Karlsruhe,2,13,4,49.09044,8.39895,Anonymous
+DEHWrvG-2mpR0zB_HQY1pg,Tialini,Karlsruhe,2,19,3.5,49.00484371,8.415722258,Italian
+DeiWR9aL18WpVyzuey7dGg,Karlsruher Hof,Karlsruhe,0,7,4,49.0052,8.33341,Anonymous
+Df8FjaoiZveDswmFihT7Yw,Liebes Beef,Karlsruhe,2,3,4,49.00933825,8.423936069,Burgers
+dGkpFKbyY39izmLuN1MMDg,Zum Lamm,Karlsruhe,1,6,4,48.9689,8.40009,Italian
+dkbalwKdoNnRWZJE-zcGmA,Wok-Lai,Karlsruhe,2,4,4.5,49.0521,8.5319,Asian Fusion
+DlH3OmOOJuz5hNU6THjJCA,Gasthof Großer Kurfürst,Karlsruhe,1,17,4,49.008,8.38467,Anonymous
+DN4uBC1Om48WoHgcoR7xZw,Lauerturmstüble,Karlsruhe,1,12,3.5,48.9431,8.40806,Anonymous
+doAthESAlj4_-FtsyHGyNw,Mastar Hayda Zilfo und Sultan,Karlsruhe,2,6,3.5,48.9984,8.39386,Pizza
+DOYwzDK08AmZJxaoCv-7Cw,Dom,Karlsruhe,2,8,4,49.010457,8.3926719,Steakhouses
+DPQt9KMXB9i0lF7ib3F5Mw,Hubraum,Karlsruhe,2,30,3,49.0089,8.46856,Anonymous
+Drf2RxbCnVybNiDcFuPFtg,Schwarzwaldstube,Karlsruhe,0,4,3,48.975,8.31374,Anonymous
+Ds15PXK8uFDvkvVDaBuOVw,Kostalexis Gyros Pita,Karlsruhe,1,14,4.5,49.0091593,8.4112859,Greek
+dUz8Sa9SY6l_nIEyUhC90A,Trattoria & Pizzeria Da Luigi,Karlsruhe,2,15,4.5,49.0674569,8.481560118,Pizza
+dvZkN9RW6juVCyRolSyYAQ,Dean & David,Karlsruhe,2,40,4,49.00995334,8.393205533,Fast Food
+DvzTiBV8EtCQy1VuTbZOQQ,Vaca Verde,Karlsruhe,3,10,4,49.0081,8.37411,Mediterranean
+DxnQjhwf2h2qxB7N-mCVAw,Gaststätte Saloniki,Karlsruhe,0,4,3.5,48.9935,8.36215,Greek
+dyZjJa644Es2HvJT96_6xQ,Wok Asiaimbiss,Karlsruhe,1,3,4,48.9404,8.40752,Chinese
+Dzzn3oCTxxDImla0uhhUXw,Yin-Yang China Schnellimbiß,Karlsruhe,1,3,4.5,49.0108781,8.395829,Fast Food
+dzZnC5YVzZVzW0he28HwEA,Eiscafé Eis Schätzle,Karlsruhe,2,6,3,48.9845,8.39833,Coffee & Tea
+E3iQVRnC-EYn_F6jdRU25g,Papa Corleone,Karlsruhe,0,4,4.5,49.0086,8.37519,Italian
+E4xZKaClfyebUI59RBOePQ,Markgrafenkeller,Karlsruhe,3,6,4.5,48.9413,8.40809,Anonymous
+EA6Ym63TtF9ntTrkZgkyJA,Italy Italy,Karlsruhe,2,38,3,49.0093,8.39886,Pizza
+ebMNlzXkEl2lOVuXjgQgmA,McDonald's,Karlsruhe,2,6,2.5,48.9901,8.37307,Burgers
+EC8I62pXmzHJUU-Fr16K8w,Pfannestiel,Karlsruhe,1,7,3.5,49.0075253,8.4130358,Anonymous
+EfXDe0RE17ihEkdL3r45Ug,Schützenhaus Mühlburg,Karlsruhe,0,3,4.5,49.0292,8.33885,Anonymous
+ejtVhXk9MdORE6lZxvejTg,Cala Gonone,Karlsruhe,3,7,4.5,49.0535,8.52702,Italian
+eKhdSimzPB9sEfFQmX-zHg,Waldklause,Karlsruhe,2,7,4,48.9229,8.35876,Anonymous
+ELbBgsX1rccs9ZZ9c9p9PA,Krua Thai,Karlsruhe,1,3,3.5,49.0106768,8.3961036,Thai
+eMtSU9hLX1sl4jATF_mdVA,Hoepfner Burggarten,Karlsruhe,0,3,3.5,49.0126096,8.4269795,Anonymous
+EnTfcULMZms42b4JzpqpNw,Pizzeria Ristorante La Piazzetta Da Pietro,Karlsruhe,4,6,4.5,48.92973,8.47283,Pizza
+EpZsI6uHsyaE1xHI-7Qglw,Triangel,Karlsruhe,3,9,3.5,48.9202,8.5031,American (Traditional)
+eqJ-p_8AYeltJU2tJHURJA,La Churreria,Karlsruhe,2,6,3.5,49.00750918,8.386897063,Anonymous
+eV0EsRRpx4M8tWr2W4Laxw,Kaffeehaus Schmidt,Karlsruhe,2,17,4,49.0106922,8.3748808,Breakfast & Brunch
+ExFAJB0sH2M4pCeH88U8Ag,Kolo,Karlsruhe,1,8,4.5,49.00888445,8.391655509,Pizza
+eYwk23GQRyxdTFsW7vzi0g,Zur Wagenburg,Karlsruhe,0,3,4.5,48.914,8.49461,Anonymous
+eZ5bRX8Et83RKG2RkbTajQ,Wok China-Schnellrestaurant,Karlsruhe,1,5,4.5,49.0119516,8.3957352,Asian Fusion
+f1Qz5IoAcCF-fGMOfCXpSg,Jaroons,Karlsruhe,2,35,3,49.00058859,8.385124497,Burgers
+f2PQkagSYmdKKCQgE1fFTA,Marty's Restaurant,Karlsruhe,1,4,3.5,49.0079,8.33601,Anonymous
+F7bt2jRmYrzUrC-KRcKl-w,Umut,Karlsruhe,2,3,2.5,48.9993295,8.4673396,Pizza
+FCLHzkBsgjZCrHy6mm5LHg,da Gianni Ristorante,Karlsruhe,2,8,4,49.0013,8.39458,Italian
+FdNKP0YfRlMLMhKUlFhddQ,Palmengarten,Karlsruhe,0,5,4,48.9495,8.4038,Anonymous
+feSkNQq2U7scCVkGGJpudA,Kais Pizza,Karlsruhe,3,19,3.5,49.0087,8.41021,Pizza
+feuIeCASfyAsAiWJOM6Gfg,Moccasin,Karlsruhe,1,3,5,48.9993,8.47479,Coffee & Tea
+f-h9a30WaGubIQjjQs-w9A,Majolika,Karlsruhe,0,3,4,49.0026,8.40213,Mediterranean
+fIPiGSlvwxHf7_R2FL4KDQ,Segafredo,Karlsruhe,2,7,4.5,49.00883452,8.397176185,Cafes
+FjEIf2VoM1cLUgTtsPurTQ,Zeitlos,Karlsruhe,2,11,4,48.9417064,8.2512794,Anonymous
+FJQLkkXYvukWFTJMMJvpOg,LetscheBacchus Mediteranes Restaurant und Weinstube,Karlsruhe,3,47,4.5,48.9999,8.47252,Mediterranean
+fkdzXWjseG1gKubQD_fkGg,Vin Fou,Karlsruhe,2,12,4,49.001901,8.3898204,Mediterranean
+fKEwqLzYhcW9pt1rMpfK2A,Eierhuber,Karlsruhe,3,18,3.5,49.0094,8.37481,Anonymous
+flxT4xQdjw8U6R7XlA3IrA,Burger King,Karlsruhe,0,3,2,49.009148,8.3799444,Burgers
+fmYWSos9ySdLN6zkcS5cNg,Rosenbaum,Karlsruhe,0,6,4,49.0089,8.39723,Mediterranean
+FpdNzWH9nEHHXfRvZ2tmqA,Hong Asia,Karlsruhe,1,3,2,48.9406,8.40394,Asian Fusion
+FQFd7NxnZnHX_nQ9riXJjA,Seehof Hellas,Karlsruhe,2,10,3.5,48.9588,8.40607,Greek
+fvZZp-gKF6HfoIZMhh2XtA,Wienerwald,Karlsruhe,2,10,2.5,49.0106,8.37497,Fast Food
+fxDQVbsUK0EjsME2dr8ZIw,Zum Markgrafen,Karlsruhe,3,5,4,49.00684,8.41076,Anonymous
+g15qf0dUuu_aMN3mpY5quA,Café Extrablatt,Karlsruhe,2,28,3.5,49.0085,8.39323,Cafes
+G8RItqxdcG89jOKUk-neZw,Saigon,Karlsruhe,2,14,4,49.0027,8.38666,Vietnamese
+GApmMso82MaAbCWWin3d5A, KSC-Clubhaus,Karlsruhe,3,6,3,49.0206,8.41481,Greek
+GcYGGOoTlN9qa5zVvbwbTw,funsportsbar XL,Karlsruhe,2,6,3,49.0442998,8.3896307,Anonymous
+Gdb8Wz1i5HtVxZ1aP4ZI_A,Cafe Jäck,Karlsruhe,2,5,4.5,49.0069432,8.3949231,Anonymous
+gepa_EcPF8raQjJByhbKKw,Clubhaus im FV Daxlanden,Karlsruhe,0,5,4,48.9994,8.34102,Anonymous
+GeQ03iVyEc653Z9U8doO7A,Rih,Karlsruhe,3,17,3.5,49.0111,8.39969,Cafes
+GFCSVqiFmOtkGmvE2IsqKA,Curry Queen College Point,Karlsruhe,1,3,4,49.01144,8.41754,Anonymous
+ggmtudEwKHHDd9sq2CvqLQ,Pablos,Karlsruhe,3,17,4,49.0008,8.47261,Anonymous
+gHU8sHbkHaduYSFAd8C4Ng,Restaurant Ritter,Karlsruhe,2,27,3.5,49.0123,8.35791,Anonymous
+GJx5yeXImKVS-_5CY18OEw,Gourmetrestaurant Erbprinz,Karlsruhe,0,3,4.5,48.9413,8.40434,Mediterranean
+GKe4j0FMpaN_4QUcSSUPcw,Pizzeria Gigi,Karlsruhe,2,11,3.5,49.0034,8.40551,Italian
+gKrRXJNjGlZHsoJ7oBbb3g,Böckeler's Cafe,Karlsruhe,3,20,2.5,49.00934,8.40339,Coffee & Tea
+Gq9Cb7HsJSx-fLY2w16iZw,Besitos,Karlsruhe,2,59,3,49.0090322,8.403884,Steakhouses
+GrQhGmJ4sEBu8uVo8gAaGw,Kommödchen,Karlsruhe,3,82,4.5,49.004083,8.408095,Anonymous
+grTFv0AWA2yD1ebaRVY2Qg,Sushi Circle,Karlsruhe,3,53,3.5,49.0073,8.40278,Sushi Bars
+GuNsp9jyyZkk-_1-Bd4ltQ,Alte Brauerei,Karlsruhe,3,24,4,49.0534,8.53119,Anonymous
+gw8c-CiE_6mAhJmG7aqxlw,Max,Karlsruhe,2,54,3.5,49.0109985,8.3949319,Cafes
+gY-_DMsOpYzSGxHp8Pqigg,Mary Poppins,Karlsruhe,3,26,3.5,49.01059,8.37741,Coffee & Tea
+GY9pfuQlO0BhRUxvY9whmA,Joey's,Karlsruhe,2,13,2.5,49.0086696,8.4176549,Pizza
+GZFfHlX-hLlVR1KFQK1_Ag,Jacques Meyer's Culinarium,Karlsruhe,3,6,4.5,48.94537067,8.413292706,Mediterranean
+GZKJ-ZuZ8FR7pFDno8fSeQ,TSV Grünwinkel,Karlsruhe,0,4,4,49.0006,8.35169,Anonymous
+h0i4gaAXH3GsU4n6yqzL9w,Chopsticks Express,Karlsruhe,1,10,4.5,49.0079053,8.3956308,Thai
+h19yI0EpnAmZ6u-8FaMHrA,Rheinterrasse,Karlsruhe,0,6,3.5,49.0378,8.30596,Anonymous
+h3oTapYP5Q1G_u1t9xN64g,Trattoria Toscana,Karlsruhe,4,23,4,49.0084,8.39637,Italian
+H9FMHAE6UK55RH0N6yItEA,extrem pizza,Karlsruhe,2,7,4.5,49.0074,8.53064,Italian
+hc4D6AnfzhtMpOCWgXaZSA,K2 Döner Kebap Center,Karlsruhe,2,10,3,49.00947771,8.407839351,Anonymous
+He-DZK510V8MHobwyYBr4w,Cafés Pierod,Karlsruhe,3,15,4.5,48.9414,8.40803,Cafes
+HFCGZPpfnHpCDfLYRjjkng,Kaffeebar Schiller,Karlsruhe,2,7,4.5,49.0089,8.40884,Cafes
+hfl9dNooP69TCQus3tfaGQ,Hoepfner Burghof,Karlsruhe,2,6,2.5,49.0127,8.4275,Anonymous
+hhCpRudOwsKhqnDFahXfZA,Mille Stelle,Karlsruhe,2,56,3.5,49.01084916,8.394354603,Pizza
+hhJKsnDFDLGhIbvzFhWAEw,Aaaa Hotelwelt,Karlsruhe,3,14,3,49.0127895,8.3933216,Anonymous
+hhkBYTa41cgPFAE0v9xrBg,Ins Blatt,Karlsruhe,2,3,3.5,49.0095822,8.407182,Coffee & Tea
+HhRsdzXs__gDxZ7K3RWLdg,Zum Ochsen,Karlsruhe,3,18,4,49.0013,8.47273,French
+him1b0hMxc1m8RVCj1gQIg,Karthago Döner,Karlsruhe,1,12,4,49.0087271,8.4175911,Pizza
+hJuw__aAzsTKNZjLpFUUcg,Cortina,Karlsruhe,1,4,4.5,49.0094,8.40791,Anonymous
+h-L8_QFAaGaXRxY1HsuRGA,Ristorante Da Rocco,Karlsruhe,3,3,3,48.978,8.31623,Italian
+Hn4X80Mughw7s2ImIUipaw,Bleu,Karlsruhe,1,41,3.5,49.0102472,8.3849638,Cafes
+ho0ycCxMxuQmcIS-aIj-TQ,Ballermann 1,Karlsruhe,2,20,3.5,49.0097,8.41111,American (Traditional)
+hoMYlkrb_FVGHxgX4s9QOA,Pizzahaus,Karlsruhe,2,23,3.5,49.0108,8.42337,Italian
+HTTgh_AzAfC09l2WyRZX5w,Badisch Brauhaus,Karlsruhe,2,80,3,49.0117821,8.3939728,Anonymous
+huNUOZSeshXtXf_P-ZC47A,Der Pfälzer Grill,Karlsruhe,0,3,1.5,49.00422,8.4485,Anonymous
+hvr8NYKtGbJL0T7Y3WRv8w,Biergarten Jäger,Karlsruhe,2,3,3.5,48.965887,8.3410161,Anonymous
+HWbMWSe_ZTE_tzP9ocim4Q,Yasmin,Karlsruhe,2,9,3,48.9412,8.40781,Asian Fusion
+hwZfVaI9BYrhvOiPx1MEFw,Zum Goldenen Anker,Karlsruhe,3,19,4.5,49.0794,8.38975,Anonymous
+hXuQgPheHrZHfYM_cqibIQ,Pflug Durlach,Karlsruhe,2,9,3.5,49.0005,8.47277,Anonymous
+HYWs2uSBdFgj73yvKm7gLQ,Wohnzimmer,Karlsruhe,2,4,4,49.0091,8.40311,Cafes
+HZc_AmZTP9UJLygjXBGlkg,China-City und Japan Sushi,Karlsruhe,0,7,2.5,49,8.38578,Chinese
+I_Zobc5TXNMAl9PxasrUcA,Pizzeria Al Ponte,Karlsruhe,2,3,2.5,49.0262,8.4529,Anonymous
+I2nPfACCnDbuGRHB5wafWQ,Clubhaus FV Sportfreunde Forchheim,Karlsruhe,2,5,4.5,48.97907,8.31881,Anonymous
+i5OJAtAfw_adcXuiYPXM2w,Marktlücke,Karlsruhe,2,42,3.5,49.0090852,8.4036314,Anonymous
+i5RiBntsRyVbH4sZPnhfyg,Piccola Pizzaservice,Karlsruhe,0,3,4,48.9985,8.46293,Italian
+ia4OINUjKlm8tbpI3i2s5w,Gaststätte La Fattoria,Karlsruhe,2,5,4.5,49.0472,8.39623,Anonymous
+IBIXSk96EGamXhd8jZJ04A,Hühnerstall,Karlsruhe,0,4,5,49.0337,8.34502,Anonymous
+ICQLD1gYrYlnahI-wQabQg,Saray Grill,Karlsruhe,2,3,2,49.0107061,8.3755378,Anonymous
+iEg59rSBqgoASuyCGV3oMw,Rimelin,Karlsruhe,2,24,4.5,48.9949,8.46257,Mediterranean
+igf4FRdL8qxIpYWYw5WYKA,Cafe Gurke,Karlsruhe,3,10,4,49.0017467,8.3937144,Anonymous
+iIMc7_Kuipe4IO9CXPjk1A,FreshSub,Karlsruhe,1,18,4.5,49.0101678,8.3973169,Fast Food
+ILtKHOTf_EwrzAesMeNBOw,China Restaurant Long,Karlsruhe,0,8,4,48.9629,8.28568,Anonymous
+iqabqwO_ZzWDZfasJy4ILQ,Mamma Leone,Karlsruhe,2,6,4.5,49.04787,8.39297,Pizza
+iqNw9UHBlsumItmncc8zAA,American Diner Durlach,Karlsruhe,2,53,4,48.99534,8.45017,American (Traditional)
+IT4_iHuLkHBVl8gcKvL5qw,Casa do José,Karlsruhe,2,9,4.5,49.005811,8.4069024,Anonymous
+IuHDE3FdVwFlBb5zZmsr7w,Alt Weingarten,Karlsruhe,3,6,5,49.0507,8.53188,Italian
+IUHSaYplitEtiCS_J3fy5g,Restaurant am Grollenberg,Karlsruhe,0,9,4,49.001351,8.497428,Anonymous
+IvdsbInH0OAjk2lIiuGxJw,Gaststätte La Tegola,Karlsruhe,2,12,4,49.0015013,8.3925622,Italian
+ivlbvS9I0457UyljErTDcw,L'Incontro,Karlsruhe,2,25,4,49.0098531,8.3899586,Vegetarian
+J8Iumsh8ZhDIsbYuRm44AQ,Restaurant Mediterran,Karlsruhe,0,4,4.5,49.03750906,8.330678816,Mediterranean
+jAWUEUMysKTW605pkzFT2Q,Vesuvio,Karlsruhe,1,7,3.5,49.0312518,8.3410331,Pizza
+JDrNMAJH50LeypYcyCvtvg,Rössle,Karlsruhe,0,5,4,49.0009,8.35137,Anonymous
+JEsKdG3DB8x8OVMUPd4rsg,Restaurant Kreuz,Karlsruhe,1,6,4.5,48.9419,8.4081,Anonymous
+JfmueQg8DCnM8cOHMU8mAg,Restaurant im Hotel Steuermann,Karlsruhe,3,9,4,49.0092,8.33438,French
+jICAZqd25tqWiOdErWgufA,Pavarotti,Karlsruhe,2,7,4.5,48.9978851,8.4634279,Italian
+JO7YPZUarTWSmgH6lvvo-g,La Corona,Karlsruhe,2,9,4,49.008,8.40972,Italian
+jptSDzDj9XS82tlJk7T1mg,Anders auf dem Turmberg,Karlsruhe,3,20,4,48.99677,8.48544,Coffee & Tea
+jqGVJRgYeeDBNGwDf98e3A,Radhaus,Karlsruhe,2,8,4,48.96959,8.42389,French
+JSUrYTag6F5_D9sVrUEtjw,Marrakesch Imbiss,Karlsruhe,2,5,5,49.0088458,8.4103471,Middle Eastern
+jVAsYNTmNE1q6tttEv2P-w,Viva,Karlsruhe,3,18,3,49.00846,8.40263,Vegetarian
+JVIBRz1ApsunKhkv4ydzhw,King Seng,Karlsruhe,0,4,3.5,49.078,8.38519,Chinese
+jViZvpGS1uYO2E6t5fG4xw,Nagels Kranz,Karlsruhe,3,23,4,49.050807,8.3774673,French
+jyCkvh9oCyhQS8sotRCUGA,Bezos Grill,Karlsruhe,1,5,3,48.9944,8.39605,Fast Food
+jzmHs1saND7pr1OJ995PAA,Il Teatro,Karlsruhe,3,18,2,49.00413,8.40253,Italian
+kBhO7ZsUsA-Dq0iZJN5YuQ,Oxford Foods & Drinks,Karlsruhe,1,30,4,49.0093693,8.4117936,American (Traditional)
+kJYmRN3h_Uihnje_mEQlvw,Hikari Asian Food,Karlsruhe,1,3,3,49.00491815,8.450262109,Fast Food
+k-Luaw_6agrJ3KEftVmUoQ,Restaurant Bernstein,Karlsruhe,3,13,3.5,48.9951,8.3522,Anonymous
+Ko0IWAEQtHd5kWr30PXD_A,Bäckerei-Konditorei Visel,Karlsruhe,3,3,3.5,49.0331501,8.4555942,Cafes
+kOfQyegQ7As4JPCpuQSZuQ,Sokrates,Karlsruhe,2,76,4.5,48.9961953,8.3915446,Greek
+koSCCHbaAD2JYaKoEWAGvQ,Eren,Karlsruhe,3,4,2,49.0093937,8.4049898,Pizza
+Kq1ZRU1MgrYQa2KfxESM7w,Tasse mit Pfiff,Karlsruhe,1,6,4.5,49.0087,8.41154,Fast Food
+KuKKjFdKH_0rVPx79q2uAA,Hellas-Salute,Karlsruhe,2,5,5,49.0674942,8.4794283,Greek
+kvWf4Z4afJvWZdkCVxDyeg,Restaurant Beim Schupi,Karlsruhe,2,42,3,49.00774,8.35631,Anonymous
+kW09pbl03gT_u9mNYHktgQ,Olivenbaum,Karlsruhe,2,7,4.5,49.07333,8.45283,Greek
+kZZVvob6GNtz-J5yVe10iA,Watt's,Karlsruhe,0,15,4,48.9394,8.41647,Anonymous
+l7UvEpdtIO66VyIGvriO0w,La Pineta,Karlsruhe,0,3,2,48.9849,8.40427,Italian
+L8ptAswq0UvUwXdnVWjE8Q,Enchilada,Karlsruhe,2,68,3,49.0087155,8.3955183,Tex-Mex
+lAGqSQW24ym7OFxMBXf4RQ,China Restaurant Yangtse,Karlsruhe,2,38,3,49.0683,8.39917,Chinese
+L-EkWc4HZiDVoxB7C3Z3Vg,Vogel Hausbräu,Karlsruhe,2,38,4,48.9415,8.40498,Anonymous
+LEt0zGi-on6rI1h4r7IP_w,Die Zwiebel,Karlsruhe,2,15,4,49.0082425,8.4197889,Burgers
+Lg5F2e02jBaK0lrqbc8SRw,Panorama,Karlsruhe,2,25,3.5,48.9979177,8.3940762,Greek
+LHYZbX-BaPg3k7xn5EG5Ug,Deli Burgers,Karlsruhe,2,9,4,49.01095309,8.395964652,Burgers
+lku1qyIEkEPGgl-ZSMXIQw,Kouros,Karlsruhe,2,23,4,48.9427,8.41067,Greek
+LmGNs_JUEzpaJ_I_2O90vA,Waldschänke,Karlsruhe,2,4,4.5,48.969,8.3283,Greek
+LRevsPnXvytCmV7gWOh_1w,Shalimar,Karlsruhe,2,24,4.5,48.94035,8.40748,Indian
+lSZ1IMqd3ctUB9mzf22AEQ,Yuff..ka Restaurant,Karlsruhe,1,7,3,49.0095,8.39541,Anonymous
+LuCrgEAXPoE0lcBnrVijQQ,Schmalztöpfle,Karlsruhe,3,21,4,48.946,8.48018,Anonymous
+lxptrd5mnV0dZ9aTKEOy0g,Schützenhaus auf dem Turmberg,Karlsruhe,3,20,3.5,48.9949,8.49404,Anonymous
+lzJkgOCnjAA5B8tKPrLgsg,Korfu,Karlsruhe,2,8,3.5,48.9294,8.2722,Greek
+m1xsKQP-gP1eL1_hFAmyhA,La Strada,Karlsruhe,2,38,3,49.0068451,8.3948235,Pizza
+MAgvMutGp9HHfQ_opx2btQ,Il Vino  Weinbar ,Karlsruhe,2,4,3.5,49.0056,8.40342,Italian
+mAoCr7W94jiERo1xVyg2_Q,Oststadt Döner,Karlsruhe,2,7,4.5,49.01145757,8.423938751,Fast Food
+mHchPV-YF9bjZroxXSHMyQ,Carpe Diem,Karlsruhe,2,3,4.5,48.959069,8.2939138,French
+Mhv_TCsXRVOfeatAZnm3xg,Künstlerkneipe,Karlsruhe,3,11,5,49.0051,8.32635,Anonymous
+mJxdH_5Oy4kARMwO4KF_bg,Heilige Sophie,Karlsruhe,2,28,3,49.007,8.39131,Anonymous
+MKBXPWocpfd196680kx4Ig,Mediterrane Selektion,Karlsruhe,3,32,4,49.002,8.39408,Mediterranean
+mz1n2HTQONwj2Q7VnfvykQ,Tonos Döner Kebap,Karlsruhe,0,5,1.5,49.0090252,8.4147571,Fast Food
+mzvmAOdaxImvqfqmHQrEkA,Restaurant Schwarzer Adler,Karlsruhe,0,12,3.5,48.9922,8.38653,Anonymous
+n_n_WnX-CrjOLpHDr6Xgzg,Kaisergarten,Karlsruhe,2,27,3,49.0098,8.38081,Anonymous
+NBvCfBuShkbCfBVvtmKchQ,Cafe Pierod,Karlsruhe,0,9,3.5,49.0096,8.40472,Coffee & Tea
+NCaqjfK-3uCGhixn4LD7Ug,Restaurant  Zwitscherstube,Karlsruhe,2,15,3.5,48.9787,8.4182,Greek
+NJcyFik3drl9bOX6fsPEMg,Sen,Karlsruhe,2,17,4.5,49.0092,8.3966,Vietnamese
+NKaI-TV3XozbIi58MS2ssw,El Taquito,Karlsruhe,2,82,3.5,49.01047531,8.397736247,Mexican
+NkJZbX7z79t-z7VCTraFQg,Pizzeria Kaminstube,Karlsruhe,2,4,3.5,48.9854,8.54414,Italian
+nkS1No7nnXaQcTjPLsCJTw,Kesselhaus,Karlsruhe,3,48,4,49.00132,8.36659,Anonymous
+nLx3zKqTUrd5VOZn1JzctQ,Pizzeria Portobello,Karlsruhe,2,13,3.5,48.9423958,8.4086861,Pizza
+nNlj8cScT8uG6zeXpgstHg,Alte Bank,Karlsruhe,2,62,3,49.009,8.3983,Anonymous
+npPXKUwvNLiEpFcRjV75BA,Restaurant Zum Löwen,Karlsruhe,0,6,5,49.07797,8.38809,French
+nSfVhbKMbB72kb48ALuC4Q,Continent,Karlsruhe,1,22,3.5,49.009264,8.4073135,Indian
+nTE5qqVWDLyIwaIsZBjgmw,El Bandido,Karlsruhe,2,17,3.5,49.00895265,8.5492494,Mexican
+nTfeDYEy9fV4dEc7LMgM2g,Pizza Sofort,Karlsruhe,0,3,2,48.9916,8.38906,Pizza
+NW8oT7STzS_lnGq9na1hKw,Goldstück,Karlsruhe,2,9,4.5,49.0113,8.39522,Cafes
+nwZpULvp0sz_A38zRdwQog,Ratsstuben,Karlsruhe,4,23,3.5,48.94142,8.40803,Anonymous
+o04jZ9Pqlo0363KStsoVIw,Pizzeria La Vita,Karlsruhe,2,5,2,49.0789,8.38203,Italian
+O44eQVnZciZXU-nQaiKIPw,Döner Pizza Restaurant Memo,Karlsruhe,1,8,4,49.0009,8.39363,Anonymous
+O7gAxbZxe6r2SSzDaA568w,Stövchen,Karlsruhe,1,79,4,49.0073259,8.3927555,Anonymous
+O7WWyfIngvJzkurqHxt-zg,Mille Stelle,Karlsruhe,0,4,4.5,49.0757,8.39335,Italian
+oAJFC0pUXJ1wHOehhgbmYQ,Taj Palace,Karlsruhe,2,24,4,49.0037274,8.394701,Indian
+obJE7v4DCIX7JrHo0ULlIA,Tuk Tuk,Karlsruhe,1,11,3.5,49.0092757,8.3955415,Asian Fusion
+OBRi8m0U1uZISuMsmrNwdw,Hermes,Karlsruhe,2,20,4.5,49.0457,8.36918,Greek
+OeO2xpV6Q9Ao3jCwZwdlTQ,Zum Thai,Karlsruhe,2,3,3.5,48.99938181,8.515779034,Thai
+oHIWHZQAO6N2QezzrGWpsw,Toro  Café  Bar  Tapas,Karlsruhe,2,27,4.5,49.0107267,8.393975,Anonymous
+oI5S8WM1vfrLtFovylkguw,Zum Löwen,Karlsruhe,2,9,4.5,49.05321,8.37848,Anonymous
+OIMZrrL5kGyZ6W6J8xsyEw,Pizza Blitz,Karlsruhe,2,10,3.5,49.0091,8.41238,Pizza
+oIZSTYYYxCMgkPQ6UhfaSg,Sonneneck,Karlsruhe,2,9,3,49.0339736,8.3533116,Greek
+oJc_PmX4cvnOCsbcRahgug,kaiseki,Karlsruhe,2,10,4,49.0030817,8.3941871,Japanese
+OLSLqsB22pn5tXW08CnfIA,Restaurant Nerdings,Karlsruhe,0,4,4,49.001,8.49739,Anonymous
+om3qoz4MTGNn5JLXilys5Q,Kuhweide,Karlsruhe,1,5,4,49.0174,8.45403,Anonymous
+opCB7X-WIu2uiyvg7zU5dw,Paparazzi,Karlsruhe,2,14,2.5,49.00072413,8.384796269,Cafes
+OPckVDslcDH7v98nwtt5jw,portale 50,Karlsruhe,3,32,3.5,49.0077,8.39338,Italian
+OrwnIUTkAWueo46g7MM54Q,China Imbiss Panda,Karlsruhe,1,6,5,49.01039,8.3818002,Fast Food
+OSLkuwNmT-bAXWx_T-SbUg,Bäckerei-Konditorei Visel,Karlsruhe,0,3,4.5,49.0094449,8.4279634,Cafes
+OsNORlL36i6ucMO9EEhNoA,tartufo bianco,Karlsruhe,3,4,4.5,49.00458,8.38397,Italian
+oTIVPCW7ca5xjAJsB6oXJw,new siam,Karlsruhe,2,5,3,49.0057,8.38768,Thai
+ouovRnEE9M1R_jMm3eWqNQ,City Kebab Pizza,Karlsruhe,2,4,2,49.0565,8.5217,Anonymous
+oxPnV43-BYdXRpKfAWbmMg,Badische Weinstube im Botanischen Garten,Karlsruhe,2,6,3.5,49.01394855,8.400995341,Anonymous
+oZpN9T996T1M3eDiATfOCg,z Fondue,Karlsruhe,0,9,4.5,48.9421,8.40788,Anonymous
+p2ClOLk3iwF6glVUsXYoWQ,L'Ancora,Karlsruhe,0,3,4,48.906,8.4981,Italian
+P5dLuhD2vCJxurMCE-UGtA,Kilimanjaro,Karlsruhe,0,4,4.5,48.9995353,8.3938027,Anonymous
+p9zQzAarxtulvnR3N4xcbA,Restaurant Schoko,Karlsruhe,3,23,4,48.974622,8.3160137,Anonymous
+pdISA8BqlOzP415f6l0a9g,Gärtnerklause im Kleingartenverein,Karlsruhe,1,16,4.5,49.0466,8.51328,Anonymous
+PeqiU4qUevbRas9Z7YeOcQ,Carls Wirtshaus,Karlsruhe,2,8,4.5,49.00583007,8.431449597,Anonymous
+PeR64AIkleu-t9gwed6vow,Hallo Pizza!,Karlsruhe,3,11,2,49.0055343,8.409039,Pizza
+PGKNUqWf8bbh3SQMcuKvCA,Brasserie Pot-au-Feu,Karlsruhe,3,24,4,48.943208,8.3980172,French
+pIB6QhXYJZMOAVoGN49Tag,Da Gianni,Karlsruhe,2,5,4,49.0489,8.5346,Italian
+pRCxPIEmu2UojXphKguGvQ,McDonald's,Karlsruhe,2,3,4.5,49.0094,8.40494,Burgers
+PsKXNVUfzpTGKZuAeSSgTA,Le Salon,Karlsruhe,4,4,5,49.00132,8.36659,Anonymous
+Q0eBAW3YgXGHjAulqu7k2g,La Rose,Karlsruhe,1,49,4.5,49.0111355,8.39603,Middle Eastern
+Q9KZP_PPmKwdBKdt18yCWQ,Walhalla,Karlsruhe,0,5,3,48.99959,8.40702,Greek
+QarmS4FAf3tlWMbHaCksvw,Hung Wok's,Karlsruhe,1,10,4.5,49.0105,8.40164,Thai
+qdKwzUXhjBQJ5AlvRZxQLg,Erasmus,Karlsruhe,4,9,4,48.9847005,8.402977,Anonymous
+Qi61w8ZGqtipWfoALZq1hw,Restaurant An den Saumseen,Karlsruhe,2,7,4,49.0035,8.32291,Seafood
+qjM94mEJRjhcFZfjJ0zXVg,Cafe Emaille,Karlsruhe,1,78,3.5,49.0103284,8.3953298,Cafes
+QJsgf4Vcj6ZAKmbt4LPtXQ,FG 1,Karlsruhe,2,6,5,49.01101781,8.42689132,Mediterranean
+qK447qQ0UYOGGWjlZDxycQ,Heimservice + Restaurant Pronto Pronto,Karlsruhe,0,5,1.5,49.0151,8.37556,Anonymous
+qKCYXulWC-SlD2BTc_SUzQ,Der Vogelbräu,Karlsruhe,2,79,4,49.0074424,8.4139686,Anonymous
+QkttdZaXAt5csTYffJvVfg,BesenArt,Karlsruhe,0,6,3.5,48.9162,8.28885,Anonymous
+QL3A3JgdImfDFOHqU1YV0w,Veritas,Karlsruhe,3,15,4.5,48.94685707,8.409819603,Anonymous
+QnClRGIbIj3Ad2CAueSRQw,Brauhaus Monninger,Karlsruhe,2,24,3,49.0029,8.35589,Anonymous
+qnE_bJoQlbW94yLYKAeH5A,Restaurant Löwe am Tiergarten,Karlsruhe,0,4,3.5,48.9996,8.39385,Anonymous
+qpoBgU3CRaJp2_QYMIleBw,Café Cortina,Karlsruhe,0,3,3,49.0116,8.3657,Cafes
+qrCIf32eIwBG8tPdjd59Xg,Purino,Karlsruhe,2,19,3.5,49.00347587,8.426511708,Italian
+QUl85k7lKTvY1ry0sIoBgA,Alte Durlacher Brauerei,Karlsruhe,2,13,3.5,49.0003129,8.4730213,Steakhouses
+qWsWsHsOY9rTZVEr773LEw,Oktave,Karlsruhe,2,14,3.5,49.0094259,8.4203417,Mediterranean
+QXou2_cNNSGNqpIUBikQOg,Bäcker Lörz,Karlsruhe,2,11,4.5,49.0101,8.35593,Cafes
+qZPe4sIIskdoYAt5WZt2jQ,Ristorante Adria,Karlsruhe,0,6,4,48.9915,8.39235,Italian
+R3kAGyaVGZt0Hhq9M46xPw,Espresso Stazione,Karlsruhe,2,21,5,49.0071518,8.4058565,Coffee & Tea
+rdxY4ssW8wLrHUMUSSKAeQ,Kap,Karlsruhe,2,3,5,49.0068,8.41238,Anonymous
+RgdbMe1YL8K0ssfnA2XwmQ,da franco,Karlsruhe,3,17,3,48.9983346,8.4039376,Italian
+rgu4D8r828sQvPM4p3k4XQ,Seng Sushi & Chinarestaurant,Karlsruhe,2,66,4,49.0105991,8.3921432,Sushi Bars
+rhHqf8a6DEax4uo-YpXshA,Wacht am Rhein,Karlsruhe,0,9,4,49.0042,8.39806,Anonymous
+RIGDf2wpemxhAmCgWGOR9w,Dschingis Khan,Karlsruhe,2,8,3,48.9727,8.54874,Asian Fusion
+rI-zKwYMA6ET1TK_oybZlA,Pizza Heimservice Exzellent,Karlsruhe,2,5,2.5,48.9964,8.40859,Italian
+RK-nzsaTzF5at7ncuPm2Pg,Ristorante Da Paolino,Karlsruhe,3,10,4.5,49.0090115,8.3679247,Italian
+R-Ly3sJyBLWLBTg-SbKhKg,Viva Pizza,Karlsruhe,2,4,3,48.94524,8.38349,Pizza
+rOVEvIMMA0f7-PakoMtjtA,Oberer See,Karlsruhe,3,7,2.5,49.0168,8.36126,Anonymous
+rpSKQ-pHcRxKCNuhoEZ2iw,Litfaß,Karlsruhe,2,42,3,49.009,8.40505,Anonymous
+rQruj9he537QGhhaZT_aBw,Akoya Grill & Sushi,Karlsruhe,3,15,3.5,49.00449762,8.417521239,Asian Fusion
+Rw3wYzqmc_GtI8Ocx2xHUA,Kral,Karlsruhe,2,5,4,49.0067,8.41033,Anonymous
+S1K_mg24V0704Le6B8x0AQ,San Felice,Karlsruhe,2,29,3.5,49.0323,8.38811,Italian
+S78B3Ue7HfdJRmuGsxoEKg,Shogun Ya,Karlsruhe,2,6,3.5,49.01032925,8.39998457,Sushi Bars
+S8mldWVT5FT2IFTAP1P1lQ,Erbprinz - Weinstube Sibylla,Karlsruhe,0,13,3.5,48.9414,8.40504,French
+s9sRbsrPoRtj4D6UQik5wg,Pizza & Gusto,Karlsruhe,1,3,5,49.008202,8.396102,Italian
+saopjBTvw8iVKmfJe-Y3fA,Minigolf Bierbar,Karlsruhe,2,3,2.5,48.9432,8.27504,Anonymous
+Sdb26i3k-2oGfFIOM7Vo1g,Asia Imbiss,Karlsruhe,1,6,4,49.02862,8.45656,Asian Fusion
+SEDbbnlM6veHdjECABo3dg,Café Vanguarde,Karlsruhe,1,3,4.5,49.01386,8.35779,Cafes
+sFP7NkMVdr8KaZ32zjYQaA,Fünf,Karlsruhe,2,18,4,49.033,8.39203,Anonymous
+SISGZJOJtEPMZCYXTHFftA,Mykonos,Karlsruhe,0,5,4,48.9993,8.45698,Greek
+SjAnB4unBymlvlXe8ltMOw,Philong,Karlsruhe,2,4,4,49.0067,8.4036,Chinese
+sJYgtBb-To4rG12ANUtYmw,Palladio,Karlsruhe,2,15,4,48.94136055,8.405290785,Italian
+SqbXhueVJl4F4rbc2193wg,Pershia,Karlsruhe,2,15,4,49.0046,8.34122,Anonymous
+sriGkDnL9vUUjXZQDFyvsQ,Yangda,Karlsruhe,2,3,4,49.0107021,8.3961268,Chinese
+SsThJPCbJYsWr5ZOpuzk6g,Restaurant Gartenzwerg,Karlsruhe,2,23,3.5,48.9773,8.39266,Greek
+sWUJBOH7_iL4OcjX9tVIbg,Café Palladio,Karlsruhe,3,6,3,49.00965955,8.394396901,Cafes
+Sx2rwD5PWZgQzS_T7Czz-A,Kaffeebar Isetta,Karlsruhe,2,3,4.5,48.9973,8.39339,Coffee & Tea
+sXFxpk-7G_5EasbUQmIzyw,El Taco,Karlsruhe,2,11,3,49.03022544,8.340256333,Mexican
+SXMFJo-4eB5YbhHYMCLYFA,Hoepfner Burghof,Karlsruhe,0,8,3,49.0473,8.4547,Vegetarian
+SY_vl_vFvoZv59GX8V7F8Q,Wolf's Bräu,Karlsruhe,2,9,4,49.0016,8.40788,Anonymous
+sZkbuP7RPo7PQjOPbt3i4Q,Köprü Kebab II,Karlsruhe,2,6,3.5,49.0024,8.4034,Anonymous
+t19dYb7sygky_uSFze7nlg,Euphrat Döner,Karlsruhe,2,17,3.5,49.0084,8.39153,Anonymous
+TbPbHknC5EMptGyoq0uK3A,Mtv Gaststätte,Karlsruhe,1,18,4.5,49.023,8.41793,Cafes
+tFDuF_WwCB_AI_RlgHQZ6w,täglich,Karlsruhe,2,8,3,48.9407,8.40697,Cafes
+tjqmHj3E1zyb6Dy8TbPc8Q,Arzum,Karlsruhe,1,18,4,49.0025347,8.4109536,Pizza
+TkDLSrDMOe0i7y5olhTmjg,Gelbe Seiten,Karlsruhe,2,20,3,49.0071138,8.4035151,Cafes
+Tm3w1r_ysQSxu-hnV9BetA,Föry Bäckerei und Café,Karlsruhe,2,3,5,48.9109,8.25536,Cafes
+tMzGMo61zvpfh7g1JtMacg,Apollon,Karlsruhe,3,8,4.5,49.0804348,8.3989263,Greek
+TnFAFcoYTEwGD5E8m0z0Og,Best Döner / Pizza Haus,Karlsruhe,2,7,4.5,49.0424,8.44355,Anonymous
+tOnHeSrUQ3hGGnxrmCCiQg,Restaurant Maharani Palace,Karlsruhe,2,20,4,49.0003162,8.4797723,Vegetarian
+tpR2U16lkQJI5TK4AOZH7w,Ludwigs,Karlsruhe,2,24,3,49.0088115,8.395907,Italian
+TTrw0LfWHEpZauszXsc7aQ,Espressione,Karlsruhe,3,5,4.5,49.0109714,8.3990277,Cafes
+TxXxBOiBEyHZfVfRnduECA,Ay Sel,Karlsruhe,2,4,4.5,49.0103,8.40166,Anonymous
+tY_GK6bi7iyKF2RjpV5cFw,Die Fritte,Karlsruhe,3,10,3,49.0004,8.38557,Fast Food
+TYqtq5p9HiQ92qyZGyhCqg,Valtellina,Karlsruhe,0,3,3.5,48.9065,8.49784,Italian
+TZI0KlF9whWU1JgUjIRP_Q,EigenArt,Karlsruhe,4,26,4.5,49.0081303,8.40286,Mediterranean
+u_QcgQDztf0juiqHooRqxQ,Hellas Salute,Karlsruhe,2,7,4.5,49.0318,8.38735,Anonymous
+u_xD7-AhxnhDz3lpTYCMhA,Sushi Bar China City,Karlsruhe,2,20,3.5,49.0002,8.3854,Chinese
+U1OrMffyVeE2qbpNTrSSuA,Antalya,Karlsruhe,2,10,4,49.0021803,8.4045914,Anonymous
+U6YILIsxeF57X7IygtAzmw,Flynn's Inn Irish Pub,Karlsruhe,2,14,4.5,49.0046994,8.391051,Anonymous
+u9KzJQFIh49y7KacPbaNaw,Rosa Bianca,Karlsruhe,3,20,3.5,49.0105,8.39388,Italian
+UbMfwmBEU9Jt3rRysjh4Yg,Laib & Leben,Karlsruhe,2,11,3.5,49.00388976,8.420191462,Cafes
+ucNCtUDrAF3rf6rYNdIEpg,Oberländer Weinstube,Karlsruhe,0,11,4.5,49.0117491,8.3982185,French
+uDcPmLSWvq3vWac__ZhJrQ,s' Häusle,Karlsruhe,0,5,3,48.99,8.38594,French
+UDvpY4D2zWLInNxNWGb3iw,Bombay Palace,Karlsruhe,2,6,4,48.98584,8.39254,Indian
+UFhXPp4kA9zwbjdkUivTiA,Löwenbräukeller,Karlsruhe,2,20,3.5,49.00775348,8.382325283,Anonymous
+UgdA4TRbbOvmsubfp9b03Q,Il Caminetto,Karlsruhe,2,15,4.5,49.01,8.40806,Pizza
+uh-8pp-GZFwrB6YV--tmzA,Gasthaus zum Hirsch,Karlsruhe,0,5,4,48.91349,8.25344,Anonymous
+UJaAi1u6ocEMwqdiVYYOoQ,Hotel Allee,Karlsruhe,2,5,3.5,49.0109498,8.3717994,Anonymous
+UKgcD3uy_y_J0NpkSUi28g,schuhs,Karlsruhe,3,7,3,49.0314426,8.3392771,Anonymous
+uKN9qKI9_FUJya2tQc2S_Q,Eggensteiner Döner Kebap Haus,Karlsruhe,3,8,4.5,49.0783,8.38828,Anonymous
+uMI7fuUCZ8Bgy_xq37JuJQ,Carpe Diem,Karlsruhe,3,16,3.5,49.0094,8.37548,Cafes
+Umq7lcGqslqbIFtPHwvSYw,Eiscafe Casal,Karlsruhe,2,27,4.5,49.0099839,8.3969286,Coffee & Tea
+UMXxDCwStYjH5-ISb3ikUg,Espresso + More,Karlsruhe,3,5,4.5,49.0086,8.37437,Cafes
+UPA058i2o2W_3F5PvnlU1g,da Nino,Karlsruhe,0,4,3,49.0108,8.35596,Italian
+upJZl7WyrJaXHYLx941fjg,Albhof,Karlsruhe,3,9,3.5,48.9713,8.40381,Anonymous
+upQpcnTaJXNV5Gh3DN6TBg,Asia Dynasty,Karlsruhe,2,31,3,49.0106,8.39766,Asian Fusion
+UTTXRaoaowgCDrkkZtwHVQ,Curry76,Karlsruhe,2,31,4.5,49.01072039,8.397215207,Anonymous
+UVfh-2Jod32qq-CcpV2rGg,s' Wölfle Bistro,Karlsruhe,0,3,3.5,48.97255872,8.454118967,Anonymous
+UX0dUr8Q9IgUpN6GxdneIQ,Alter Brauhof,Karlsruhe,2,19,3.5,49.0014411,8.3974337,Anonymous
+UYegAlQFh85wH9FKkC-O9Q,KOLO Restaurant,Karlsruhe,1,6,4,49.01377977,8.431304097,Pizza
+uYHtexRRnIWpxXkfnYIvcQ,Palmgarten,Karlsruhe,0,5,3,49.0269,8.46418,Anonymous
+V3uUrc-aM1z5TCersU_RSQ,Annas schnelle Wunder Küche,Karlsruhe,1,4,3,49.0185,8.35627,Fast Food
+VaTVq_DMtcu38LrHcxdvLw,Gaststätte Braustüble,Karlsruhe,2,6,3.5,49.0065359,8.381561,Anonymous
+vcvXl_EBMAO5ogIEApkfwA,Cafe Palaver,Karlsruhe,2,61,4,49.0069786,8.4074475,Cafes
+Vj3Dvf9OwTrEZiOzpwr4-w,Cantina Majolika,Karlsruhe,3,21,3.5,49.0177377,8.4023623,Italian
+VjUooAwjEk8kNf4RAasxdg,Cubanita,Karlsruhe,2,39,3,48.99971,8.4754,Italian
+VkXW8B9SSJJkLZoj-tnEvg,My Heart Beats Vegan,Karlsruhe,2,3,3.5,49.0057831,8.4066376,Burgers
+vnYeVzgrdfxmkhiQfotJJA,Obermühle,Karlsruhe,2,10,3.5,49.0033,8.4785,Coffee & Tea
+wcDIREqhp_M8MFb7jRUkuA,Goldenes Horn,Karlsruhe,3,10,3.5,49.0093,8.40715,Anonymous
+WEWNWZ9Jgu5rdTz-Wm6j-Q,Zum Eisenbahnlandwirt Fattoria da Federico,Karlsruhe,1,10,4.5,48.9984263,8.454413351,Italian
+WhuwyDN8C6dOGsgcdXA3Xw,Vapiano,Karlsruhe,2,78,3,49.011186,8.395393,Italian
+wlpEw_wjXNqmwzMw4Trv-g,Özge Imbiss,Karlsruhe,2,5,4,48.9597,8.2909,Anonymous
+Wo5kOFvtYYP1euhiAJav-w,Casa Rustica,Karlsruhe,2,30,4,49.0051,8.32785,Italian
+WPhNbOH_AocROquwLMDl1A,Aposto,Karlsruhe,2,101,3,49.008644,8.3953945,Italian
+WUV8x3y7LdX-bpLyNrWnrQ,Royal Kebab,Karlsruhe,0,3,1.5,48.99352373,8.401794434,Anonymous
+W-Wl0bCoetWp4f98DJ7iiA,Kim Fat,Karlsruhe,1,3,4.5,49.0105,8.40199,Thai
+wwTIhfgZRwYJuyygUQ3WAw,Mevlana,Karlsruhe,1,48,5,49.00563914,8.381736026,Pizza
+X3G0dgXKUuwWTGQftOV6qQ,Restaurant Sonnenbad,Karlsruhe,1,4,4.5,49.01252594,8.348591716,Greek
+xCmGSQ4evtMcLUe8LJRYnw,Asia Food,Karlsruhe,0,3,4.5,48.9991,8.46771,Chinese
+xCUUzCt4EqRiVrsFl6hiYQ,Salmen,Karlsruhe,3,22,2.5,49.00895,8.39655,Mediterranean
+xDgwDsrhS3S4Jb25qW2vZA,Cafe Bohne,Karlsruhe,2,11,4,49.0075,8.40768,Cafes
+xFENYZF63fiV00uaNlB9VA,Die Stadtmitte,Karlsruhe,2,14,3.5,49.004,8.40409,Cafes
+Xip3lJW6qUXCWoP8ieGF7g,Bar Milano,Karlsruhe,1,8,4.5,49.0022,8.40796,Cafes
+XjueQh8rz0RiUWCUzGYY-A,EL 29,Karlsruhe,2,36,2.5,49.0013,8.38305,Italian
+XjvhtBnGVEHeB-jzRrE7Fg,Rubenbauer,Karlsruhe,0,3,2.5,48.9936,8.3992,Anonymous
+xk7mi7FGWL2UeQekjie--g,Walk'sches Haus,Karlsruhe,0,4,4,49.0516,8.53175,Anonymous
+-xK-9VwI0WbIdyme7N_0MA,Antalya,Karlsruhe,0,3,3.5,49.0039002,8.39467,Pizza
+xkHfkj1MjALGf-rOjTkTJQ,Hoepfner Treff,Karlsruhe,2,7,4,49.0010596,8.3672117,Anonymous
+Xl2vFM_dc7bLsriiyKzTZw,Sonne,Karlsruhe,0,3,2.5,48.9542,8.50859,Anonymous
+xljcv1ceFxU4HtMxVnby_g,Joes Hasen,Karlsruhe,4,18,4.5,49.0084,8.43031,Mediterranean
+XOfQK8EptEGG6DEQGTIfZw,Tony's Pizzeria,Karlsruhe,1,4,4,49.0521,8.53168,Pizza
+xOHV4QKNn_9FH7gslunbEQ,Seilerei,Karlsruhe,3,10,4,49.0091019,8.4125177,Anonymous
+Xqyxw2wPAb9hnMc6aWTmxQ,Punjab,Karlsruhe,3,15,3,49.0097,8.38991,Indian
+XtaO8ZryRE-cp7fvWP1xdw,Athen Palast,Karlsruhe,2,35,4,49.0045,8.38479,Greek
+Xx6npDqT7zPufnGubcLlSQ,Zum Griechen,Karlsruhe,0,7,4.5,48.9732,8.41535,Greek
+xYMNYPWBbrtYihJJ4n14vQ,El Greco,Karlsruhe,0,4,3,49.0010011,8.4129912,Greek
+y_qmQDXa5ve9zdOd46P7Zw,Pizza Da Roberto,Karlsruhe,2,3,1,49.0097298,8.3819565,Pizza
+Y2ClurK-CH47qiaxwyu4WQ,Gaststätte Die Kippe,Karlsruhe,1,43,3.5,49.0073,8.41931,Anonymous
+Y5KYnewS-fsmgbXpS67wbA,Lamm,Karlsruhe,1,3,3,48.9374,8.27346,Anonymous
+yAvKBD9f54Mncwqd_DRDIg,La Cage,Karlsruhe,2,18,3,49.0085,8.39595,American (Traditional)
+YEbtpJvUrdzwpMneGIuRGw,Grötzinger Pizza- und Kebab Haus,Karlsruhe,2,4,4.5,49.0073882,8.4961897,Pizza
+Y-pLdTgWBbzjvGeEwliGzw,Pizza  Döner Litfaß,Karlsruhe,0,3,4,48.93023,8.26771,Fast Food
+yqPt0KX2PmJjjJ_FB48r3g,Best-Imbiss,Karlsruhe,2,19,2.5,49.0022686,8.3866569,Fast Food
+YWAJKGTZbpIKUOhHCBzMGw,Restaurant garbo,Karlsruhe,2,24,4.5,49.0003,8.39572,Mediterranean
+YylCWByGj96aKdMg5rXaPw,Alex,Karlsruhe,2,22,3,49.0088,8.39414,Breakfast & Brunch
+yzujxM_HrrNB3dri5SX18Q,Grüner Baum,Karlsruhe,2,7,4,48.9168511,8.5057262,Anonymous
+z1eBRYqP3VjQwuu0HbjDjw,Cafe Pan,Karlsruhe,3,9,4,49.0095,8.40681,Coffee & Tea
+Z2z3OKOAIFv1rLSBFYr6lw,China-Restaurant King Seng,Karlsruhe,2,14,2.5,49.0027307,8.4056083,Chinese
+z7KdYRdwLG9O8oL89cxmug,Restaurant Villa Hammerschmiede,Karlsruhe,4,30,4.5,48.97009,8.54856,Anonymous
+Za_v4P5dEdOFkGFvVgzg7A,Bollywood Curryhaus,Karlsruhe,2,4,3,48.99565,8.44813,Indian
+zCCSkDIz7KUHoDDdN64L7Q,Indian Curry Haus,Karlsruhe,0,6,3,49.007288,8.3848354,Indian
+zCVSAxJF62U8kZ8uUKA6Ug,Multi Kulti,Karlsruhe,2,50,3,49.0105543,8.4020704,Coffee & Tea
+ZgBGrt_faLaLk273rEyRdA,La Villetta Cucina Mediterranea,Karlsruhe,3,10,4.5,49.0014456,8.4616611,Mediterranean
+ZIoJzo1Sv9MkwuZ9L1AxDg,Riviera,Karlsruhe,3,15,4.5,49.0631554,8.4709425,Italian
+zlLkLxf0VRs05kmdKLoQ6Q,Kebap Express,Karlsruhe,2,6,3.5,49.0102,8.38704,Anonymous
+zM64LVtsIiPojs1SBECBNA,Ritter Stammhaus,Karlsruhe,0,12,4,49.0987,8.52754,Anonymous
+zp5mGqT0QQQHM1qRqxkywQ,Trattoria Art,Karlsruhe,0,4,4,49.0057,8.40672,Mediterranean
+ZQ6HmK2N2EyP3EU-vtq6_Q,Da Vinci,Karlsruhe,2,10,4.5,49.0093,8.40248,Cafes
+ZuNZZsIId-0PIpTFQoWR8g,Bangkok Foodland,Karlsruhe,2,46,4,49.0081741,8.3895511,Thai
+zw0o_GpYMKzdRNikus_dpw,Restaurant Hellas,Karlsruhe,2,7,3,49.0254337,8.3607027,Greek
+ZWBakQIVSnqIvigLt14p1w,Im Schlachthof,Karlsruhe,2,15,4,49.0061,8.43102,Anonymous
+ZwguYsK83tel85bPkuURQQ,Restaurant Delphi,Karlsruhe,2,19,4.5,49.0001,8.47966,Greek
