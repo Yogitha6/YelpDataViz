@@ -100,10 +100,10 @@ canvas, svg {
   </head>
   <body>
     <div class="row">
-        <div class="col-md-6" id="map" style='height:600px; width:700px; border: 3px solid #73AD21;'>
+        <div class="col-md-6" id="map" style='height:400px; width:700px; border: 3px;'>
             Map place
         </div>
-        <div class="col-md-6" id="wrap" style='height:600px; width:840px; border: 3px solid #73AD21;'>
+        <div class="col-md-6" id="wrap" style='height:666px; width:845px; border: 3px;'>
               {% csrf_token %}
 			<div class="btn-group">
                 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -160,14 +160,15 @@ canvas, svg {
 		$.getJSON("/static/data/"+selectedCity+"Restaurants.geojson",function(data){
 
 		  var restIcon = L.icon({
-			  iconUrl: '/static/img/rest_icon.png',
-			  iconSize: [15,15]
+			  iconUrl: '/static/img/pin_icon.png',
+			  iconSize: [11,15]
 			});
 			
 			L.geoJson(data,{
 			  pointToLayer: function(feature,latlng){
 				var marker = L.marker(latlng,{icon: restIcon});
 				marker.bindPopup(feature.properties.name + '<br/>' + 'Stars: '+ feature.properties.stars+ '</br>'+feature.properties.cuisine);
+				console.log(feature.properties.name);
 				return marker;
 			  }
 			}).addTo(map);

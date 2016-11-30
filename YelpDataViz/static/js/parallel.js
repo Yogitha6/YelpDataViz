@@ -92,10 +92,10 @@ function color(d) {
 function shuffle(array) {
   var m = array.length, t, i;
 
-  // While there remain elements to shuffle�
+  // While there remain elements to shuffle
   while (m) {
 
-    // Pick a remaining element�
+    // Pick a random element from the remaining
     i = Math.floor(Math.random() * m--);
 
     // And swap it with the current element.
@@ -144,7 +144,7 @@ function drawCanvasParallelCoordinates(city)
  foreground.strokeStyle = "rgba(0,100,160,0.1)";
  foreground.lineWidth = 1.3;    // avoid weird subpixel effects
 
- foreground.fillText("Loading...",w/2,h/2);
+ foreground.fillText("Please Wait. Loading...",w/2,h/2);
 
  var svg = d3.select("svg")
     .attr("width", w + m[1] + m[3])
@@ -254,5 +254,4 @@ function drawCanvasParallelCoordinates(city)
     })();
   };
 });
-
 }
