@@ -162,8 +162,50 @@ function shuffle(array) {
   return array;
 }
 
+function drawLeafLetMap(selectedCity, latitude, longitude)
+{
+        var map = L.map('map').setView([latitude, longitude], 12);
+
+		// load a tile layer
+		L.tileLayer( 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
+			maxZoom: 30,
+			minZoom: 1,
+			attribution: 'Map data &copy;',
+			id: 'mapbox.streets'
+		  }).addTo(map);
+
+		  // load GeoJSON from an external file
+		$.getJSON("/static/data/"+selectedCity+"Restaurants.geojson",function(data){
+
+		  var restIcon = L.icon({
+			  iconUrl: '/static/img/pin_icon.png',
+			  iconSize: [11,15]
+			});
+
+			L.geoJson(data,{
+			  pointToLayer: function(feature,latlng){
+				var marker = L.marker(latlng,{icon: restIcon});
+				marker.bindPopup(feature.properties.name + '<br/>' + 'Stars: '+ feature.properties.stars+ '</br>'+feature.properties.cuisine);
+				//console.log(feature.properties.name);
+				return marker;
+			  }
+			}).addTo(map);
+		  });
+		console.log("executed map stuff");
+        console.log(selectedCity);
+}
+
 function drawCanvasParallelCoordinates(city)
 {
+//adding buttons for cuisines
+
+ var cuisineText = "";
+     Object.keys(cuisines).forEach(function(d) {
+        //console.log(d);
+        cuisineText += "<button id=\""+d+"\" style='background:" + color1(cuisines[d]) + "'></button>" + d + "<br/>";
+        });
+    d3.select("#color-encoding").html(cuisineText);
+
  d3.select("#chart")
     .style("width", (w + m[1] + m[3]) + "px")
     .style("height", (h + m[0] + m[2]) + "px")
@@ -208,9 +250,10 @@ function drawCanvasParallelCoordinates(city)
   .append("svg:g")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
+//reading data from the csv file
  d3.csv("/static/data/"+city+"Restaurants.csv", function(data) {
 
-  // Convert quantitative scales to floats
+// Convert quantitative scales to floats
   data = data.map(function(d) {
     for (var k in d) {
       if (k != "Name" && k != "Cuisine" && k != "Business_id")
@@ -219,17 +262,46 @@ function drawCanvasParallelCoordinates(city)
     return d;
   });
 
-  // Extract the list of dimensions and create a scale for each.
+// Extract the list of dimensions and create a scale for each.
   xscale.domain(dimensions = d3.keys(data[0]).filter(function(d) {
     return d != "Name" && d != "Cuisine" && d != "Business_id" &&(yscale[d] = d3.scale.linear()
         .domain(d3.extent(data, function(p) { return +p[d]; }))
         .range([h, 0]));
   }));
 
-  // Render full foreground
+// Render full foreground
   paths(data, foreground, brush_count);
 
- d3.select("#Mexican")
+  // Add a group element for each dimension.
+  var g = svg.selectAll(".dimension")
+      .data(dimensions)
+    .enter().append("svg:g")
+      .attr("class", "dimension")
+      .attr("transform", function(d) { return "translate(" + xscale(d) + ")"; });
+
+  // Add an axis and title.
+  g.append("svg:g")
+      .attr("class", "axis")
+      .each(function(d) { d3.select(this).call(axis.scale(yscale[d])); })
+    .append("svg:text")
+      .attr("text-anchor", "left")
+      .attr("y", -8)
+      .attr("x", -4)
+      .attr("transform", "rotate(-19)")
+      .attr("class", "label")
+      .text(String);
+
+  // Add and store a brush for each axis.
+  g.append("svg:g")
+      .attr("class", "brush")
+      .each(function(d) { d3.select(this).call(yscale[d].brush = d3.svg.brush().y(yscale[d]).on("brush", brush)); })
+    .selectAll("rect")
+      .attr("x", -16)
+      .attr("width", 32)
+      .attr("rx", 3)
+      .attr("ry", 3);
+
+     d3.select("#Mexican")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -312,7 +384,7 @@ function drawCanvasParallelCoordinates(city)
         var dataFiltered = [];
         var j = 0;
         for(var i = 0, len = data.length; i < len; ++i)
-            if(cuisineCategoryMap[data[i].Cuisine]=="Canadian (New)")
+            if(cuisineCategoryMap[data[i].Cuisine]=="Canadian")
             {
               dataFiltered[j] = data[i];
               j = j+1;
@@ -371,36 +443,7 @@ function drawCanvasParallelCoordinates(city)
             }
         paths(dataFiltered, foreground, brush_count);
     });
-
-  // Add a group element for each dimension.
-  var g = svg.selectAll(".dimension")
-      .data(dimensions)
-    .enter().append("svg:g")
-      .attr("class", "dimension")
-      .attr("transform", function(d) { return "translate(" + xscale(d) + ")"; });
-
-  // Add an axis and title.
-  g.append("svg:g")
-      .attr("class", "axis")
-      .each(function(d) { d3.select(this).call(axis.scale(yscale[d])); })
-    .append("svg:text")
-      .attr("text-anchor", "left")
-      .attr("y", -8)
-      .attr("x", -4)
-      .attr("transform", "rotate(-19)")
-      .attr("class", "label")
-      .text(String);
-
-  // Add and store a brush for each axis.
-  g.append("svg:g")
-      .attr("class", "brush")
-      .each(function(d) { d3.select(this).call(yscale[d].brush = d3.svg.brush().y(yscale[d]).on("brush", brush)); })
-    .selectAll("rect")
-      .attr("x", -16)
-      .attr("width", 32)
-      .attr("rx", 3)
-      .attr("ry", 3);
-
+    
   // Handles a brush event, toggling the display of foreground lines.
   function brush() {
     brush_count++;
@@ -434,13 +477,6 @@ function drawCanvasParallelCoordinates(city)
       foodText += "<span style='background:" + color(d.Cuisine) + "'></span>" + d.Name + "<br/>";
     });
     d3.select("#food-list").html(foodText);
-
-    var cuisineText = "";
-     Object.keys(cuisines).forEach(function(d) {
-        //console.log(d);
-        cuisineText += "<button id=\""+d+"\" style='background:" + color1(cuisines[d]) + "'></button>" + d + "<br/>";
-        });
-    d3.select("#color-encoding").html(cuisineText);
 
     ctx.clearRect(0,0,w+1,h+1);
     function render() {
