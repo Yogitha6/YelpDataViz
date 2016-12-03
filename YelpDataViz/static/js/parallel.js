@@ -21,44 +21,96 @@
     brush_count = 0;
 
  var colors = {
-  "Japanese": [240,100,25,1.0],
-  "Chinese": [240,100,50,1.0],
-  "Thai": [120,100,25,1.0],
-  "Indian": [180,100,25,1.0],
-  "Vietnamese": [180,100,50,1.0],
-  "Hawaiian": [120,100,50,1.0],
-  "Korean": [120,100,25,1.0],
-  "Italian": [0,100,25,1.0],
-  "American (Traditional)": [240,0,25,1.0],
-  "American (New)": [300,100,25,1.0],
-  "Mediterranean": [60,100,25,1.0],
-  "French": [0,0,50,1.0],
-  "Mexican": [0,0,75,1.0],
-  "Tex-Mex": [0,100,50,1.0],
-  "Canadian (New)" : [300, 100, 50,1.0],
-  "New Mexican Cuisine" : [60, 100, 50,1.0],
-  "Beijing Chinese Cuisine" : [240,100,50,1.0],
-  "Cantonese" : [300,100,50,0.5],
-  "Asian Fusion": [180,100,25,1.0],
-  "British" : [0,100,50,0.5],
-  "Greek": [120,100,50,0.5],
-  "Sushi Bars": [240,100,25, 1.0],
-  "Dim Sum": [240,100,50, 1.0],
-  "Vegetarian": [120,100,50, 0.7],
-  "Middle Eastern": [0,100,25,0.6],
-  "Steakhouses": [300,100,25,1.0],
-  "Coffee & Tea": [2,100,22,1],
-  "Breakfast & Brunch": [60,100,50,0.6],
-  "Cafes": [2,100,22,1],
-  "Chicken Wings": [240,0,25,1.0],
-  "Fast Food" : [240,0,25,1.0],
-  "Hot Dogs" : [240,0,25,1.0],
-  "Burgers" : [240,0,25,1.0],
-  "Pizza" : [0,100,25,1.0],
-  "Barbeque" : [240,0,25,0.7],
-  "Anonymous" : [110,96,20, 1.0],
-  "Seafood" : [30, 96, 52, 1]
+  "Japanese": [30,100,50,0.65],
+  "Sushi Bars": [30,100,50,0.65],
+  "Chinese": [30,100,50,0.65],
+  "Dim Sum": [30,100,50,0.65],
+  "Cantonese" : [30,100,50,0.65],
+  "Beijing Chinese Cuisine" : [30,100,50,0.65],
+  "Thai": [30,100,50,0.65],
+  "Indian": [30,100,50,0.65],
+  "Vietnamese": [30,100,50,0.65],
+  "Korean": [30,100,50,0.65],
+  "Asian Fusion": [30,100,50,0.65],
+  "Italian": [204,71,41,0.47],
+  "Pizza" : [204,71,41,0.47],
+  "French": [204,71,41,0.47],
+  "Mediterranean": [204,71,41,0.47],
+  "Greek": [204,71,41,0.47],
+  "American (Traditional)": [60, 100, 80, 0.96],
+  "American (New)": [60, 100, 80, 0.96],
+  "Hawaiian": [60, 100, 80, 0.96],
+  "Fast Food": [60, 100, 80, 0.96],
+  "Burgers": [60, 100, 80, 0.96],
+  "Hot Dogs": [60, 100, 80, 0.96],
+  "Steakhouses": [60, 100, 80, 0.96],
+  "Chicken Wings": [60, 100, 80, 0.96],
+  "Barbeque" : [60, 100, 80, 0.96],
+  "Middle Eastern": [201,52,77,0.78],
+  "Mexican": [1,92,79,0.73],
+  "New Mexican Cuisine" : [1,92,79,0.73],
+  "Tex-Mex": [1,92,79,0.73],
+  "British" : [359,79,50,0.49],
+  "Canadian (New)" : [34, 97, 71,0.79],
+  "Vegetarian": [110,96,20, 1.0],
+  "Coffee & Tea": [21,63,43,0.46],
+  "Cafes": [21,63,43,0.46],
+  "Breakfast & Brunch": [21,63,43,0.46],
+  "Anonymous" : [0,0,75,0.4],
+  "Seafood" : [92,57,71,0.80]
  };
+
+var cuisines = {
+"AsianFood"  : [30,100,50,0.65],
+"Mediterranean"  : [204,71,41,0.47],
+"American"   : [60, 100, 80, 0.96],
+"MiddleEastern": [201,52,77,0.78],
+"Mexican": [1,92,79,0.73],
+"British" : [359,79,50,0.49],
+"Canadian" : [34, 97, 71,0.79],
+"Vegetarian": [110,96,20, 1.0],
+"BreakfastandCoffee" : [21,63,43,0.46],
+"Anonymous" : [0,0,75,0.4],
+"Seafood" : [92,57,71,0.80]
+};
+
+var cuisineCategoryMap = {
+  "Japanese": "AsianFood",
+  "Sushi Bars": "AsianFood",
+  "Chinese": "AsianFood",
+  "Dim Sum": "AsianFood",
+  "Cantonese" : "AsianFood",
+  "Beijing Chinese Cuisine" : "AsianFood",
+  "Thai": "AsianFood",
+  "Indian": "AsianFood",
+  "Vietnamese": "AsianFood",
+  "Korean": "AsianFood",
+  "Asian Fusion": "AsianFood",
+  "Italian": "Mediterranean",
+  "Pizza" : "Mediterranean",
+  "French": "Mediterranean",
+  "Mediterranean": "Mediterranean",
+  "Greek": "Mediterranean",
+  "American (Traditional)": "American",
+  "American (New)": "American",
+  "Hawaiian": "American",
+  "Fast Food": "American",
+  "Steakhouses": "American",
+  "Chicken Wings": "American",
+  "Barbeque" : "American",
+  "Middle Eastern": "MiddleEastern",
+  "Mexican": "Mexican",
+  "New Mexican Cuisine" : "Mexican",
+  "Tex-Mex": "Mexican",
+  "British" : "British",
+  "Canadian (New)" : "Canadian",
+  "Vegetarian": "Vegetarian",
+  "Coffee & Tea": "BreakfastandCoffee",
+  "Cafes": "BreakfastandCoffee",
+  "Breakfast & Brunch": "BreakfastandCoffee",
+  "Anonymous" : "Anonymous",
+  "Seafood" : "Seafood"
+}
 
 function path(d, ctx, color) {
   if (color) ctx.strokeStyle = color;
@@ -85,6 +137,10 @@ function path(d, ctx, color) {
 
 function color(d) {
   var c = colors[d];
+  return ["hsla(",c[0],",",c[1],"%,",c[2],"%,",c[3],")"].join("");
+};
+
+function color1(c) {
   return ["hsla(",c[0],",",c[1],"%,",c[2],"%,",c[3],")"].join("");
 };
 
@@ -173,6 +229,149 @@ function drawCanvasParallelCoordinates(city)
   // Render full foreground
   paths(data, foreground, brush_count);
 
+ d3.select("#Mexican")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="Mexican")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+ d3.select("#AsianFood")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="AsianFood")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#Mediterranean")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="Mediterranean")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#American")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="American")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#MiddleEastern")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="MiddleEastern")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#British")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="British")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#Canadian")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="Canadian (New)")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#Vegetarian")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="Vegetarian")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#BreakfastandCoffee")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="BreakfastandCoffee")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#Anonymous")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="Anonymous")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
+	 d3.select("#Seafood")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(cuisineCategoryMap[data[i].Cuisine]=="Seafood")
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
   // Add a group element for each dimension.
   var g = svg.selectAll(".dimension")
       .data(dimensions)
@@ -201,7 +400,7 @@ function drawCanvasParallelCoordinates(city)
       .attr("width", 32)
       .attr("rx", 3)
       .attr("ry", 3);
-	  
+
   // Handles a brush event, toggling the display of foreground lines.
   function brush() {
     brush_count++;
@@ -228,13 +427,20 @@ function drawCanvasParallelCoordinates(city)
     d3.select("#opacity").text((""+opacity).slice(0,6));
 
     data = shuffle(data);
-
+    //console.log(data[0].Cuisine)
     // data table
     var foodText = "";
     data.slice(0,10).forEach(function(d) {
       foodText += "<span style='background:" + color(d.Cuisine) + "'></span>" + d.Name + "<br/>";
     });
     d3.select("#food-list").html(foodText);
+
+    var cuisineText = "";
+     Object.keys(cuisines).forEach(function(d) {
+        //console.log(d);
+        cuisineText += "<button id=\""+d+"\" style='background:" + color1(cuisines[d]) + "'></button>" + d + "<br/>";
+        });
+    d3.select("#color-encoding").html(cuisineText);
 
     ctx.clearRect(0,0,w+1,h+1);
     function render() {

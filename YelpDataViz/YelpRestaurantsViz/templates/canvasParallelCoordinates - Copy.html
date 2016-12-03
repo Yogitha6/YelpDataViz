@@ -46,7 +46,7 @@ canvas, svg {
 .brush .extent {
   fill: rgba(0,0,0,0.12);
   stroke: rgba(255,255,255,0.6);
-  shape-rendering: crisp-edges;
+  shape-rendering: geometricPrecision;
 }
 
 .dark .brush .extent {
@@ -81,7 +81,7 @@ canvas, svg {
 
 .axis g,
 .axis path {
-  display: none;
+  display: block;
 }
 
 #food-list {
@@ -93,6 +93,18 @@ canvas, svg {
 #food-list span {
   display: inline-block;
   height: 6px;
+  width: 6px;
+  margin: 2px 4px;
+}
+#color-encoding {
+  position: absolute;
+  left: 550px;
+  width: 740px;
+  overflow-x: hidden;
+}
+#color-encoding button {
+  display: inline-block;
+  height: 12px;
   width: 6px;
   margin: 2px 4px;
 }
@@ -121,8 +133,7 @@ canvas, svg {
 			<svg></svg>
 		</div>
     <div id="food-list"></div>
-	<div id="color encoding">
-	</div>
+	<div id="color-encoding"></div>
     <p>
     Rendered: <strong id="rendered-count"></strong><br/>
     Selected: <strong id="selected-count"></strong><br/>
@@ -168,7 +179,7 @@ canvas, svg {
 			  pointToLayer: function(feature,latlng){
 				var marker = L.marker(latlng,{icon: restIcon});
 				marker.bindPopup(feature.properties.name + '<br/>' + 'Stars: '+ feature.properties.stars+ '</br>'+feature.properties.cuisine);
-				console.log(feature.properties.name);
+				//console.log(feature.properties.name);
 				return marker;
 			  }
 			}).addTo(map);
