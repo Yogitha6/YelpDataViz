@@ -3,26 +3,28 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <title>Canvas Parallel Coordinates</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <title>Yelp Data Viz</title>
     <style type="text/css">
-body { 
+  #map{ height: 90%; width: 50%;  }
+body {
   font-family: sans-serif;
   font-size: 12px;
   background: #f9f9f9;
   color: #777;
-  margin-top: 40px;
 }
 
 body.dark {
   background: #090909;
-  color: #ccc;
+  color: #777;
 }
 
 #wrap {
-  width: 960px;
+  width: 300px;
   margin: 0 auto;
   position: relative;
 }
@@ -44,7 +46,7 @@ canvas, svg {
 .brush .extent {
   fill: rgba(0,0,0,0.12);
   stroke: rgba(255,255,255,0.6);
-  shape-rendering: crisp-edges;
+  shape-rendering: geometricPrecision;
 }
 
 .dark .brush .extent {
@@ -79,27 +81,49 @@ canvas, svg {
 
 .axis g,
 .axis path {
-  display: none;
+  display: block;
 }
 
 #food-list {
   position: absolute;
-  left: 220px;
+  left: 250px;
   width: 740px;
   overflow-x: hidden;
 }
-#food-list span {
+#food-list button {
   display: inline-block;
-  height: 6px;
+  height: 11px;
+  width: 9px;
+  margin: 2px 4px;
+}
+#color-encoding {
+  position: absolute;
+  left: 550px;
+  width: 740px;
+  overflow-x: hidden;
+}
+#color-encoding button {
+  display: inline-block;
+  height: 12px;
   width: 6px;
   margin: 2px 4px;
 }
     </style>
   </head>
   <body>
-  <div id="wrap">
-      {% csrf_token %}
-	  <div class="btn-group">
+  <div class="container-fluid">
+      <div class="row">
+         <center> <h1> Yelp Data Visualization for Restaurants <h1> </center>
+      </div>
+    <div class="row">
+
+        <div class="col-md-6" id="map" style='height:600px; width:750px; border: 2px;'>
+            Map place
+        </div>
+        <div></div>
+        <div class="col-md-9" id="wrap" style='height:666px; width:845px; border: 2px;'>
+              {% csrf_token %}
+        <div class="btn-group">
                 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Select a City <span class="caret"></span>
                 </button>
@@ -109,14 +133,13 @@ canvas, svg {
                     {% endfor %}
                 </ul>
             </div>
-      <h1>{{ selectedCity }}</h1>
+      <h1>{{ selectedCityName }}</h1>
     <div id="chart">
       <canvas id="foreground"></canvas>
       <svg></svg>
     </div>
     <div id="food-list"></div>
-	<div id="color encoding">
-	</div>
+  <div id="color-encoding"></div>
     <p>
     Rendered: <strong id="rendered-count"></strong><br/>
     Selected: <strong id="selected-count"></strong><br/>
@@ -128,15 +151,33 @@ canvas, svg {
     </p>
     <p>
       Drag along a vertical axis to brush<br/>
-      Tap the axis to remove its brush                                          
+      Tap the axis to remove its brush
     </p>
-  </div>
+    </div>
+    </div>
+      <div class="row">
+      <!-- Adding WC -->
+
+        <div class="col-md-12" id="word-cloud" ></div>
+      </div>
+    </div>
+
+   <script type="text/javascript">document.getElementById('word-cloud').position='relative';</script>
+
+
     <script src="http://mbostock.github.com/d3/d3.v2.js"></script>
+    <script src="{% static 'js/d3.layout.cloud.js' %}"></script>
     <script src="{% static 'js/parallel.js' %}"></script>
     <script type="text/javascript">
-        var selectedCity = "{{ selectedCity }}";
-        console.log(selectedCity);
+    var selectedCity = "{{ selectedCityName }}";
+    var latitude = "{{ selectedCityLatitude }}";
+    var longitude = "{{ selectedCityLongitude }}";
+    // initialize the map
+        drawLeafLetMap(selectedCity, latitude, longitude, "all");
         drawCanvasParallelCoordinates(selectedCity);
     </script>
+
+
+
   </body>
 </html>

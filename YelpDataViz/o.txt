@@ -1,0 +1,30 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 06, 2016 - 15:13:35
+Django version 1.10.3, using settings 'YelpDataViz.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 06, 2016 - 15:16:55
+Django version 1.10.3, using settings 'YelpDataViz.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 06, 2016 - 15:25:29
+Django version 1.10.3, using settings 'YelpDataViz.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 06, 2016 - 15:28:56
+Django version 1.10.3, using settings 'YelpDataViz.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.

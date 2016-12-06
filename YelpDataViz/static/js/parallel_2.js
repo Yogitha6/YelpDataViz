@@ -124,7 +124,7 @@ function path(d, ctx, color) {
         y = yscale[p](d[p]);
     if (i == 0) {
       ctx.moveTo(x,y);
-    } else { 
+    } else {
       var cp1x = x - 0.85*(x-x0);
       var cp1y = y0;
       var cp2x = x - 0.15*(x-x0);

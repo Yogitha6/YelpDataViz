@@ -1,1 +1,121 @@
-i am here
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <title>Yelp Data Viz</title>
+    <style type="text/css">
+  #map{ height: 90%; width: 50%;  }
+body {
+  font-family: sans-serif;
+  font-size: 12px;
+  background: #f9f9f9;
+  color: #777;
+}
+
+body.dark {
+  background: #090909;
+  color: #777;
+}
+
+#wrap {
+  width: 300px;
+  margin: 0 auto;
+  position: relative;
+}
+
+svg {
+  font: 10px sans-serif;
+}
+
+canvas, svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#chart {
+  position: relative;
+}
+
+.brush .extent {
+  fill: rgba(0,0,0,0.12);
+  stroke: rgba(255,255,255,0.6);
+  shape-rendering: geometricPrecision;
+}
+
+.dark .brush .extent {
+  fill: rgba(255,255,255,0.12);
+  stroke: rgba(0,0,0,0.5);
+}
+
+.axis line, .axis path {
+  fill: none;
+  stroke: #222;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  fill: #222;
+  text-shadow: 1px 1px 1px #fff, -1px -1px 1px #fff;
+}
+
+.axis text.label {
+  fill: #444;
+  font-size: 14px;
+}
+
+.dark .axis text {
+  fill: #f2f2f2;
+  text-shadow: 0 1px 0 #000, 1px 0 0 #000;
+}
+
+.dark .axis text.label {
+  fill: #ddd;
+}
+
+.axis g,
+.axis path {
+  display: block;
+}
+
+#food-list {
+  position: absolute;
+  left: 250px;
+  width: 740px;
+  overflow-x: hidden;
+}
+#food-list button {
+  display: inline-block;
+  height: 11px;
+  width: 9px;
+  margin: 2px 4px;
+}
+#color-encoding {
+  position: absolute;
+  left: 550px;
+  width: 740px;
+  overflow-x: hidden;
+}
+#color-encoding button {
+  display: inline-block;
+  height: 12px;
+  width: 6px;
+  margin: 2px 4px;
+}
+    </style>
+  </head>
+  <body>
+ <div class="row">
+      {% include "canvasParallelCoordinates-Copy.html" with cityname="{{ selectedCityName }}" cities="{{cities}}" selectedCityLatitude="{{selectedCityLatitude}}" selectedCityLongitude="{{selectedCityLongitude}}" %}
+  </div>
+  <div class="row">
+      {% include "canvasParallelCoordinates-Copy.html" with cityname="{{ selectedCityName }}" cities="{{cities}}" selectedCityLatitude="{{selectedCityLatitude}}" selectedCityLongitude="{{selectedCityLongitude}}" %}
+  </div>
+  </body>
+</html>
