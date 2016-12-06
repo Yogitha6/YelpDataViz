@@ -166,34 +166,66 @@ function drawLeafLetMap(selectedCity, latitude, longitude)
 {
         var map = L.map('map').setView([latitude, longitude], 12);
 
-		// load a tile layer
-		L.tileLayer( 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
-			maxZoom: 30,
-			minZoom: 1,
-			attribution: 'Map data &copy;',
-			id: 'mapbox.streets'
-		  }).addTo(map);
+    // load a tile layer
+    L.tileLayer( 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
+      maxZoom: 30,
+      minZoom: 1,
+      attribution: 'Map data &copy;',
+      id: 'mapbox.streets'
+      }).addTo(map);
 
-		  // load GeoJSON from an external file
-		$.getJSON("/static/data/"+selectedCity+"Restaurants.geojson",function(data){
+      // load GeoJSON from an external file
+    $.getJSON("/static/data/"+selectedCity+"Restaurants.geojson",function(data){
 
-		  var restIcon = L.icon({
-			  iconUrl: '/static/img/pin_icon.png',
-			  iconSize: [11,15]
-			});
+      var restIcon = L.icon({
+        iconUrl: '/static/img/pin_icon.png',
+        iconSize: [11,15]
+      });
 
-			L.geoJson(data,{
-			  pointToLayer: function(feature,latlng){
-				var marker = L.marker(latlng,{icon: restIcon});
-				marker.bindPopup(feature.properties.name + '<br/>' + 'Stars: '+ feature.properties.stars+ '</br>'+feature.properties.cuisine);
-				//console.log(feature.properties.name);
-				return marker;
-			  }
-			}).addTo(map);
-		  });
-		console.log("executed map stuff");
+      var testData = data['name'];
+
+      L.geoJson(data,{
+        pointToLayer: function(feature,latlng){
+          // console.log(name);
+          var marker = L.marker(latlng,{icon: restIcon});
+          marker.bindPopup(feature.properties.name + '<br/>' + 'Stars: '+ feature.properties.stars+ '</br>'+feature.properties.cuisine);
+          //console.log(feature.properties.name);
+          console.log(marker);
+          marker.on('click', function() {
+            // console.log('putting marker location');
+            //console.log(feature.properties.name);
+            d3.selectAll("svg > *").remove();
+            drawWordCloud(feature.properties.review);
+            //alert(feature.properties.r)
+            console.log(feature.properties.cuisine);
+            //markerOnClick(feature.properties.review)
+          });
+          return marker;
+        }
+      })
+      // .on('click', {'name': testData}, function(e){
+      //   console.log('in anonymous');
+      //   console.log(e);
+      //   alert("hi. you clicked the marker at " + e.latlng + 'Stars:' +  Object.keys(e) );
+      // })
+      .addTo(map);
+      });
+    console.log("executed map stuff");
         console.log(selectedCity);
 }
+//added for test click
+
+function markerOnClick(text)
+{
+  // alert("hi. you clicked the marker at " + e.latlng + 'Stars:' +  Object.keys(e) );//+e.type);
+  //alert(test)
+  //This clears previous svg content before drawing new one
+  //d3.selectAll("svg > *").remove();
+  //drawWordCloud(text_string);
+}
+
+//
+
 
 function drawCanvasParallelCoordinates(city)
 {
@@ -327,7 +359,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#Mediterranean")
+   d3.select("#Mediterranean")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -340,7 +372,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#American")
+   d3.select("#American")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -353,7 +385,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#MiddleEastern")
+   d3.select("#MiddleEastern")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -366,7 +398,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#British")
+   d3.select("#British")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -379,7 +411,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#Canadian")
+   d3.select("#Canadian")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -392,7 +424,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#Vegetarian")
+   d3.select("#Vegetarian")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -405,7 +437,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#BreakfastandCoffee")
+   d3.select("#BreakfastandCoffee")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -418,7 +450,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#Anonymous")
+   d3.select("#Anonymous")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -431,7 +463,7 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
-	 d3.select("#Seafood")
+   d3.select("#Seafood")
     .on("click", function() {
         var dataFiltered = [];
         var j = 0;
@@ -513,3 +545,80 @@ function drawCanvasParallelCoordinates(city)
   };
 });
 }
+
+
+/*Adding JS code for generating word cloud*/
+
+  //var text_string = "Mr Hoagie is an institution. Walking in, it does seem like a throwback to 30 years ago, old fashioned menu board, booths out of the 70s, and a large selection of food. Their speciality is the Italian Hoagie, and it is voted the best in the area year after year. I usually order the burger, while the patties are obviously cooked from frozen, all of the other ingredients are very fresh. Overall, its a good alternative to Subway, which is down the road Excellent food. Superb customer service. I miss the mario machines they used to have, but it's still a great place steeped in tradition.Yes this place is a little out dated and not opened on the weekend. But other than that the staff is always pleasant and fast to make your order. Which is always spot on fresh veggies on their hoggies and other food. They also have daily specials and ice cream which is really good. I had a banana split they piled the toppings on. They win pennysaver awards ever years";
+
+  //drawWordCloud(text_string);
+
+  function drawWordCloud(text){
+
+    var common = "poop,i,me,my,myself,we,us,our,ours,ourselves,you,your,yours,yourself,yourselves,he,him,his,himself,she,her,hers,herself,it,its,itself,they,them,their,theirs,themselves,what,which,who,whom,whose,this,that,these,those,am,is,are,was,were,be,been,being,have,has,had,having,do,does,did,doing,will,would,should,can,could,ought,i'm,you're,he's,she's,it's,we're,they're,i've,you've,we've,they've,i'd,you'd,he'd,she'd,we'd,they'd,i'll,you'll,he'll,she'll,we'll,they'll,isn't,aren't,wasn't,weren't,hasn't,haven't,hadn't,doesn't,don't,didn't,won't,wouldn't,shan't,shouldn't,can't,cannot,couldn't,mustn't,let's,that's,who's,what's,here's,there's,when's,where's,why's,how's,a,an,the,and,but,if,or,because,as,until,while,of,at,by,for,with,about,against,between,into,through,during,before,after,above,below,to,from,up,upon,down,in,out,on,off,over,under,again,further,then,once,here,there,when,where,why,how,all,any,both,each,few,more,most,other,some,such,no,nor,not,only,own,same,so,than,too,very,say,says,said,shall";
+
+    var word_count = {};
+
+    var words = text.split(/[ '\-\(\)\*":;\[\]|{},.!?]+/);
+      if (words.length == 1){
+        word_count[words[0]] = 1;
+      } else {
+        words.forEach(function(word){
+          var word = word.toLowerCase();
+          if (word != "" && common.indexOf(word)==-1 && word.length>1){
+            if (word_count[word]){
+              word_count[word]++;
+            } else {
+              word_count[word] = 1;
+            }
+          }
+        })
+      }
+
+    var svg_location = "#word-cloud";
+    var width = 500;//$(document).width();
+    var height = 500;//$(document).height();
+
+
+    var fill = d3.scale.category20();
+
+    var word_entries = d3.entries(word_count);
+
+    var xScale = d3.scale.linear()
+       .domain([0, d3.max(word_entries, function(d) {
+          return d.value;
+        })
+       ])
+       .range([10,100]);
+
+    d3.layout.cloud().size([width, height])
+      .timeInterval(20)
+      .words(word_entries)
+      .fontSize(function(d) { return xScale(+d.value); })
+      .text(function(d) { return d.key; })
+      .rotate(function() { return ~~(Math.random() * 2) * 90; })
+      .font("Impact")
+      .on("end", draw)
+      .start();
+
+    function draw(words) {
+      d3.select(svg_location).append("svg")
+          .attr("width", width)
+          .attr("height", height)
+        .append("g")
+          .attr("transform", "translate(" + [width >> 1, height >> 1] + ")")
+        .selectAll("text")
+          .data(words)
+        .enter().append("text")
+          .style("font-size", function(d) { return xScale(d.value) + "px"; })
+          .style("font-family", "Impact")
+          .style("fill", function(d, i) { return fill(i); })
+          .attr("text-anchor", "middle")
+          .attr("transform", function(d) {
+            return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+          })
+          .text(function(d) { return d.key; });
+    }
+
+    d3.layout.cloud().stop();
+  }
