@@ -444,6 +444,20 @@ function drawCanvasParallelCoordinates(city)
         paths(dataFiltered, foreground, brush_count);
     });
 
+    d3.select("business")
+    .on("click", function() {
+        var dataFiltered = [];
+        var j = 0;
+        console.log("clicked");
+        for(var i = 0, len = data.length; i < len; ++i)
+            if(data[i].Business_id==d3.html(this.value))
+            {
+              dataFiltered[j] = data[i];
+              j = j+1;
+            }
+        paths(dataFiltered, foreground, brush_count);
+    });
+
   // Handles a brush event, toggling the display of foreground lines.
   function brush() {
     brush_count++;
@@ -474,9 +488,9 @@ function drawCanvasParallelCoordinates(city)
     // data table
     var foodText = "";
     data.slice(0,10).forEach(function(d) {
-      foodText += "<button id=\"business\" style='background:" + color(d.Cuisine) + "'></button>" + d.Name + "<br/>";
-      //console.log(d.Business_id)
-      console.log(d);
+      foodText += "<button id=\"business\" style='background:" + color(d.Cuisine) + "' value=\""+ d.Business_id+"\"></button>" + d.Name + "<br/>";
+      console.log(d.Business_id)
+      //console.log(d);
     });
     d3.select("#food-list").html(foodText);
 
